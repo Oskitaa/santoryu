@@ -166,13 +166,21 @@ ruby rt {
   transform: scale(0.97);
 }
 
-/* Bottom nav safe area */
+/* Safe area utilities for iOS PWA / Notch / Dynamic Island */
+.pt-safe {
+  padding-top: env(safe-area-inset-top, 0px);
+}
+
 .pb-safe {
-  padding-bottom: calc(env(safe-area-inset-bottom, 0px) + 4rem);
+  padding-bottom: calc(env(safe-area-inset-bottom, 0px) + 5.5rem);
 }
 
 .bottom-safe {
   padding-bottom: env(safe-area-inset-bottom, 0px);
+}
+
+.top-safe {
+  padding-top: env(safe-area-inset-top, 0px);
 }
 
 /* Kana grid */

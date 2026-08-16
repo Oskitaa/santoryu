@@ -177,7 +177,7 @@ export const BeginnerGuideModal: React.FC<BeginnerGuideModalProps> = ({ isOpen, 
 
   return (
     <AnimatePresence>
-      <div className="fixed inset-0 z-50 flex items-center justify-center p-3 sm:p-4 bg-black/80 backdrop-blur-md">
+      <div className="fixed inset-0 z-50 flex items-center justify-center p-3 pt-[calc(env(safe-area-inset-top,0px)+1rem)] pb-[calc(env(safe-area-inset-bottom,0px)+1rem)] sm:p-4 bg-black/80 backdrop-blur-md">
         <motion.div
           initial={{ opacity: 0, scale: 0.95, y: 15 }}
           animate={{ opacity: 1, scale: 1, y: 0 }}

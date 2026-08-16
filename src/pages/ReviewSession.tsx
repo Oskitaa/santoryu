@@ -242,9 +242,9 @@ export default function ReviewSession() {
   const progressPercent = totalCards > 0 ? Math.round((completedCards / totalCards) * 100) : 0;
 
   return (
-    <div className="h-screen w-screen bg-[var(--color-bg-primary)] flex flex-col justify-between p-4 pb-safe max-w-lg mx-auto">
+    <div className="min-h-screen w-full bg-[var(--color-bg-primary)] flex flex-col justify-between p-4 pt-[calc(env(safe-area-inset-top,0px)+0.75rem)] pb-[calc(env(safe-area-inset-bottom,0px)+1.25rem)] max-w-lg mx-auto">
       {/* Top Bar */}
-      <div className="flex items-center gap-4 pt-2">
+      <div className="flex items-center gap-4">
         <button
           onClick={() => navigate('/')}
           className="p-2.5 rounded-full bg-[var(--color-bg-surface)] text-[var(--color-text-secondary)] hover:text-white tap-highlight"
