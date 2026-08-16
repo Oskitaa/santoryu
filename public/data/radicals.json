@@ -1,0 +1,452 @@
+[
+  {
+    "id": "rad_1",
+    "character": "一",
+    "meaning": "one",
+    "meaningEs": "uno",
+    "strokeCount": 1,
+    "mnemonic": "Mnemonic for 一",
+    "position": "top"
+  },
+  {
+    "id": "rad_2",
+    "character": "丨",
+    "meaning": "line",
+    "meaningEs": "línea",
+    "strokeCount": 1,
+    "mnemonic": "Mnemonic for 丨",
+    "position": "other"
+  },
+  {
+    "id": "rad_3",
+    "character": "丶",
+    "meaning": "dot",
+    "meaningEs": "punto",
+    "strokeCount": 1,
+    "mnemonic": "Mnemonic for 丶",
+    "position": "other"
+  },
+  {
+    "id": "rad_4",
+    "character": "丿",
+    "meaning": "bend",
+    "meaningEs": "curva",
+    "strokeCount": 1,
+    "mnemonic": "Mnemonic for 丿",
+    "position": "other"
+  },
+  {
+    "id": "rad_5",
+    "character": "乙",
+    "meaning": "second",
+    "meaningEs": "segundo",
+    "strokeCount": 1,
+    "mnemonic": "Mnemonic for 乙",
+    "position": "other"
+  },
+  {
+    "id": "rad_6",
+    "character": "亅",
+    "meaning": "hook",
+    "meaningEs": "gancho",
+    "strokeCount": 1,
+    "mnemonic": "Mnemonic for 亅",
+    "position": "other"
+  },
+  {
+    "id": "rad_7",
+    "character": "二",
+    "meaning": "two",
+    "meaningEs": "dos",
+    "strokeCount": 2,
+    "mnemonic": "Mnemonic for 二",
+    "position": "top"
+  },
+  {
+    "id": "rad_8",
+    "character": "亠",
+    "meaning": "lid",
+    "meaningEs": "tapa",
+    "strokeCount": 2,
+    "mnemonic": "Mnemonic for 亠",
+    "position": "top"
+  },
+  {
+    "id": "rad_9",
+    "character": "人",
+    "meaning": "human",
+    "meaningEs": "humano",
+    "strokeCount": 2,
+    "mnemonic": "Mnemonic for 人",
+    "position": "left"
+  },
+  {
+    "id": "rad_10",
+    "character": "儿",
+    "meaning": "legs",
+    "meaningEs": "piernas",
+    "strokeCount": 2,
+    "mnemonic": "Mnemonic for 儿",
+    "position": "bottom"
+  },
+  {
+    "id": "rad_11",
+    "character": "入",
+    "meaning": "enter",
+    "meaningEs": "entrar",
+    "strokeCount": 2,
+    "mnemonic": "Mnemonic for 入",
+    "position": "top"
+  },
+  {
+    "id": "rad_12",
+    "character": "八",
+    "meaning": "eight",
+    "meaningEs": "ocho",
+    "strokeCount": 2,
+    "mnemonic": "Mnemonic for 八",
+    "position": "top"
+  },
+  {
+    "id": "rad_13",
+    "character": "冂",
+    "meaning": "display box",
+    "meaningEs": "caja",
+    "strokeCount": 2,
+    "mnemonic": "Mnemonic for 冂",
+    "position": "enclosure"
+  },
+  {
+    "id": "rad_14",
+    "character": "冖",
+    "meaning": "cover",
+    "meaningEs": "cubierta",
+    "strokeCount": 2,
+    "mnemonic": "Mnemonic for 冖",
+    "position": "top"
+  },
+  {
+    "id": "rad_15",
+    "character": "冫",
+    "meaning": "ice",
+    "meaningEs": "hielo",
+    "strokeCount": 2,
+    "mnemonic": "Mnemonic for 冫",
+    "position": "left"
+  },
+  {
+    "id": "rad_16",
+    "character": "几",
+    "meaning": "table",
+    "meaningEs": "mesa",
+    "strokeCount": 2,
+    "mnemonic": "Mnemonic for 几",
+    "position": "enclosure"
+  },
+  {
+    "id": "rad_17",
+    "character": "凵",
+    "meaning": "container",
+    "meaningEs": "contenedor",
+    "strokeCount": 2,
+    "mnemonic": "Mnemonic for 凵",
+    "position": "enclosure"
+  },
+  {
+    "id": "rad_18",
+    "character": "刀",
+    "meaning": "sword",
+    "meaningEs": "espada",
+    "strokeCount": 2,
+    "mnemonic": "Mnemonic for 刀",
+    "position": "right"
+  },
+  {
+    "id": "rad_19",
+    "character": "力",
+    "meaning": "power",
+    "meaningEs": "poder",
+    "strokeCount": 2,
+    "mnemonic": "Mnemonic for 力",
+    "position": "right"
+  },
+  {
+    "id": "rad_20",
+    "character": "勹",
+    "meaning": "wrap",
+    "meaningEs": "envolver",
+    "strokeCount": 2,
+    "mnemonic": "Mnemonic for 勹",
+    "position": "enclosure"
+  },
+  {
+    "id": "rad_21",
+    "character": "匕",
+    "meaning": "spoon",
+    "meaningEs": "cuchara",
+    "strokeCount": 2,
+    "mnemonic": "Mnemonic for 匕",
+    "position": "right"
+  },
+  {
+    "id": "rad_22",
+    "character": "匚",
+    "meaning": "box",
+    "meaningEs": "caja",
+    "strokeCount": 2,
+    "mnemonic": "Mnemonic for 匚",
+    "position": "enclosure"
+  },
+  {
+    "id": "rad_23",
+    "character": "匸",
+    "meaning": "hiding enclosure",
+    "meaningEs": "escondite",
+    "strokeCount": 2,
+    "mnemonic": "Mnemonic for 匸",
+    "position": "enclosure"
+  },
+  {
+    "id": "rad_24",
+    "character": "十",
+    "meaning": "ten",
+    "meaningEs": "diez",
+    "strokeCount": 2,
+    "mnemonic": "Mnemonic for 十",
+    "position": "top"
+  },
+  {
+    "id": "rad_25",
+    "character": "卜",
+    "meaning": "divination",
+    "meaningEs": "adivinación",
+    "strokeCount": 2,
+    "mnemonic": "Mnemonic for 卜",
+    "position": "right"
+  },
+  {
+    "id": "rad_26",
+    "character": "卩",
+    "meaning": "seal",
+    "meaningEs": "sello",
+    "strokeCount": 2,
+    "mnemonic": "Mnemonic for 卩",
+    "position": "right"
+  },
+  {
+    "id": "rad_27",
+    "character": "厂",
+    "meaning": "cliff",
+    "meaningEs": "acantilado",
+    "strokeCount": 2,
+    "mnemonic": "Mnemonic for 厂",
+    "position": "top"
+  },
+  {
+    "id": "rad_28",
+    "character": "厶",
+    "meaning": "private",
+    "meaningEs": "privado",
+    "strokeCount": 2,
+    "mnemonic": "Mnemonic for 厶",
+    "position": "other"
+  },
+  {
+    "id": "rad_29",
+    "character": "又",
+    "meaning": "again",
+    "meaningEs": "de nuevo",
+    "strokeCount": 2,
+    "mnemonic": "Mnemonic for 又",
+    "position": "right"
+  },
+  {
+    "id": "rad_30",
+    "character": "口",
+    "meaning": "mouth",
+    "meaningEs": "boca",
+    "strokeCount": 3,
+    "mnemonic": "Mnemonic for 口",
+    "position": "enclosure"
+  },
+  {
+    "id": "rad_31",
+    "character": "囗",
+    "meaning": "enclosure",
+    "meaningEs": "recinto",
+    "strokeCount": 3,
+    "mnemonic": "Mnemonic for 囗",
+    "position": "enclosure"
+  },
+  {
+    "id": "rad_32",
+    "character": "土",
+    "meaning": "earth",
+    "meaningEs": "tierra",
+    "strokeCount": 3,
+    "mnemonic": "Mnemonic for 土",
+    "position": "left"
+  },
+  {
+    "id": "rad_33",
+    "character": "士",
+    "meaning": "scholar",
+    "meaningEs": "erudito",
+    "strokeCount": 3,
+    "mnemonic": "Mnemonic for 士",
+    "position": "top"
+  },
+  {
+    "id": "rad_34",
+    "character": "夂",
+    "meaning": "winter",
+    "meaningEs": "invierno",
+    "strokeCount": 3,
+    "mnemonic": "Mnemonic for 夂",
+    "position": "bottom"
+  },
+  {
+    "id": "rad_35",
+    "character": "夕",
+    "meaning": "evening",
+    "meaningEs": "tarde",
+    "strokeCount": 3,
+    "mnemonic": "Mnemonic for 夕",
+    "position": "left"
+  },
+  {
+    "id": "rad_36",
+    "character": "大",
+    "meaning": "big",
+    "meaningEs": "grande",
+    "strokeCount": 3,
+    "mnemonic": "Mnemonic for 大",
+    "position": "top"
+  },
+  {
+    "id": "rad_37",
+    "character": "女",
+    "meaning": "woman",
+    "meaningEs": "mujer",
+    "strokeCount": 3,
+    "mnemonic": "Mnemonic for 女",
+    "position": "left"
+  },
+  {
+    "id": "rad_38",
+    "character": "子",
+    "meaning": "child",
+    "meaningEs": "niño",
+    "strokeCount": 3,
+    "mnemonic": "Mnemonic for 子",
+    "position": "left"
+  },
+  {
+    "id": "rad_39",
+    "character": "宀",
+    "meaning": "roof",
+    "meaningEs": "techo",
+    "strokeCount": 3,
+    "mnemonic": "Mnemonic for 宀",
+    "position": "top"
+  },
+  {
+    "id": "rad_40",
+    "character": "寸",
+    "meaning": "inch",
+    "meaningEs": "pulgada",
+    "strokeCount": 3,
+    "mnemonic": "Mnemonic for 寸",
+    "position": "right"
+  },
+  {
+    "id": "rad_41",
+    "character": "小",
+    "meaning": "small",
+    "meaningEs": "pequeño",
+    "strokeCount": 3,
+    "mnemonic": "Mnemonic for 小",
+    "position": "top"
+  },
+  {
+    "id": "rad_42",
+    "character": "尢",
+    "meaning": "lame",
+    "meaningEs": "cojo",
+    "strokeCount": 3,
+    "mnemonic": "Mnemonic for 尢",
+    "position": "other"
+  },
+  {
+    "id": "rad_43",
+    "character": "尸",
+    "meaning": "corpse",
+    "meaningEs": "cadáver",
+    "strokeCount": 3,
+    "mnemonic": "Mnemonic for 尸",
+    "position": "top"
+  },
+  {
+    "id": "rad_44",
+    "character": "屮",
+    "meaning": "sprout",
+    "meaningEs": "brote",
+    "strokeCount": 3,
+    "mnemonic": "Mnemonic for 屮",
+    "position": "top"
+  },
+  {
+    "id": "rad_45",
+    "character": "山",
+    "meaning": "mountain",
+    "meaningEs": "montaña",
+    "strokeCount": 3,
+    "mnemonic": "Mnemonic for 山",
+    "position": "top"
+  },
+  {
+    "id": "rad_46",
+    "character": "巛",
+    "meaning": "river",
+    "meaningEs": "río",
+    "strokeCount": 3,
+    "mnemonic": "Mnemonic for 巛",
+    "position": "top"
+  },
+  {
+    "id": "rad_47",
+    "character": "工",
+    "meaning": "work",
+    "meaningEs": "trabajo",
+    "strokeCount": 3,
+    "mnemonic": "Mnemonic for 工",
+    "position": "top"
+  },
+  {
+    "id": "rad_48",
+    "character": "己",
+    "meaning": "oneself",
+    "meaningEs": "uno mismo",
+    "strokeCount": 3,
+    "mnemonic": "Mnemonic for 己",
+    "position": "other"
+  },
+  {
+    "id": "rad_49",
+    "character": "巾",
+    "meaning": "turban",
+    "meaningEs": "turbante",
+    "strokeCount": 3,
+    "mnemonic": "Mnemonic for 巾",
+    "position": "other"
+  },
+  {
+    "id": "rad_50",
+    "character": "干",
+    "meaning": "dry",
+    "meaningEs": "seco",
+    "strokeCount": 3,
+    "mnemonic": "Mnemonic for 干",
+    "position": "top"
+  }
+]
