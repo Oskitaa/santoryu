@@ -1,204 +1,149 @@
 [
   {
     "id": "vn5_1",
-    "word": "食べる",
-    "reading": "たべる",
+    "word": "こんにちは",
+    "reading": "こんにちは",
     "meanings": [
-      "to eat"
+      "hello",
+      "good afternoon"
     ],
     "meaningsEs": [
-      "comer"
+      "hola",
+      "buenas tardes"
     ],
-    "partOfSpeech": "verb",
+    "partOfSpeech": "expression",
     "jlptLevel": 5,
     "exampleSentence": {
-      "japanese": "食べる。",
-      "reading": "たべる。",
-      "meaning": "I to eat.",
-      "meaningEs": "Yo comer."
+      "japanese": "皆さん、こんにちは！",
+      "reading": "みなさん、こんにちは！",
+      "meaning": "Hello, everyone!",
+      "meaningEs": "¡Hola a todos!"
     },
     "tags": [
-      "food"
+      "greetings",
+      "daily"
     ]
   },
   {
     "id": "vn5_2",
-    "word": "飲む",
-    "reading": "のむ",
+    "word": "おはようございます",
+    "reading": "おはようございます",
     "meanings": [
-      "to drink"
+      "good morning (polite)"
     ],
     "meaningsEs": [
-      "beber"
+      "buenos días (formal)"
     ],
-    "partOfSpeech": "verb",
+    "partOfSpeech": "expression",
     "jlptLevel": 5,
     "exampleSentence": {
-      "japanese": "飲む。",
-      "reading": "のむ。",
-      "meaning": "I to drink.",
-      "meaningEs": "Yo beber."
+      "japanese": "先生、おはようございます。",
+      "reading": "せんせい、おはようございます。",
+      "meaning": "Good morning, teacher.",
+      "meaningEs": "Buenos días, profesor."
     },
     "tags": [
-      "food"
+      "greetings",
+      "daily"
     ]
   },
   {
     "id": "vn5_3",
-    "word": "行く",
-    "reading": "いく",
+    "word": "ありがとうございます",
+    "reading": "ありがとうございます",
     "meanings": [
-      "to go"
+      "thank you very much"
     ],
     "meaningsEs": [
-      "ir"
+      "muchas gracias"
     ],
-    "partOfSpeech": "verb",
+    "partOfSpeech": "expression",
     "jlptLevel": 5,
     "exampleSentence": {
-      "japanese": "行く。",
-      "reading": "いく。",
-      "meaning": "I to go.",
-      "meaningEs": "Yo ir."
+      "japanese": "どうもありがとうございます。",
+      "reading": "どうもありがとうございます。",
+      "meaning": "Thank you very much.",
+      "meaningEs": "Muchas gracias."
     },
     "tags": [
-      "directions"
+      "greetings",
+      "polite"
     ]
   },
   {
     "id": "vn5_4",
-    "word": "来る",
-    "reading": "くる",
+    "word": "すみません",
+    "reading": "すみません",
     "meanings": [
-      "to come"
+      "excuse me",
+      "I'm sorry"
     ],
     "meaningsEs": [
-      "venir"
+      "disculpe",
+      "perdón",
+      "gracias (de cortesía)"
     ],
-    "partOfSpeech": "verb",
+    "partOfSpeech": "expression",
     "jlptLevel": 5,
     "exampleSentence": {
-      "japanese": "来る。",
-      "reading": "くる。",
-      "meaning": "I to come.",
-      "meaningEs": "Yo venir."
+      "japanese": "すみません、これはいくらですか？",
+      "reading": "すみません、これはいくらですか？",
+      "meaning": "Excuse me, how much is this?",
+      "meaningEs": "Disculpe, ¿cuánto cuesta esto?"
     },
     "tags": [
-      "directions"
+      "greetings",
+      "daily"
     ]
   },
   {
     "id": "vn5_5",
-    "word": "見る",
-    "reading": "みる",
+    "word": "はい",
+    "reading": "はい",
     "meanings": [
-      "to see"
+      "yes"
     ],
     "meaningsEs": [
-      "ver"
+      "sí (afirmativo/atención)"
     ],
-    "partOfSpeech": "verb",
+    "partOfSpeech": "expression",
     "jlptLevel": 5,
     "exampleSentence": {
-      "japanese": "見る。",
-      "reading": "みる。",
-      "meaning": "I to see.",
-      "meaningEs": "Yo ver."
+      "japanese": "はい、わかりました。",
+      "reading": "はい、わかりました。",
+      "meaning": "Yes, I understood.",
+      "meaningEs": "Sí, entendido."
     },
     "tags": [
-      "daily activities"
+      "essential"
     ]
   },
   {
     "id": "vn5_6",
-    "word": "寝る",
-    "reading": "ねる",
+    "word": "いいえ",
+    "reading": "いいえ",
     "meanings": [
-      "to sleep"
+      "no",
+      "not at all"
     ],
     "meaningsEs": [
-      "dormir"
+      "no",
+      "de nada"
     ],
-    "partOfSpeech": "verb",
+    "partOfSpeech": "expression",
     "jlptLevel": 5,
     "exampleSentence": {
-      "japanese": "寝る。",
-      "reading": "ねる。",
-      "meaning": "I to sleep.",
-      "meaningEs": "Yo dormir."
+      "japanese": "いいえ、違います。",
+      "reading": "いいえ、ちがいます。",
+      "meaning": "No, that's not correct.",
+      "meaningEs": "No, es diferente / incorrecto."
     },
     "tags": [
-      "daily activities"
+      "essential"
     ]
   },
   {
     "id": "vn5_7",
-    "word": "起きる",
-    "reading": "おきる",
-    "meanings": [
-      "to wake up"
-    ],
-    "meaningsEs": [
-      "despertar"
-    ],
-    "partOfSpeech": "verb",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "起きる。",
-      "reading": "おきる。",
-      "meaning": "I to wake up.",
-      "meaningEs": "Yo despertar."
-    },
-    "tags": [
-      "daily activities"
-    ]
-  },
-  {
-    "id": "vn5_8",
-    "word": "話す",
-    "reading": "はなす",
-    "meanings": [
-      "to speak"
-    ],
-    "meaningsEs": [
-      "hablar"
-    ],
-    "partOfSpeech": "verb",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "話す。",
-      "reading": "はなす。",
-      "meaning": "I to speak.",
-      "meaningEs": "Yo hablar."
-    },
-    "tags": [
-      "daily activities"
-    ]
-  },
-  {
-    "id": "vn5_9",
-    "word": "買う",
-    "reading": "かう",
-    "meanings": [
-      "to buy"
-    ],
-    "meaningsEs": [
-      "comprar"
-    ],
-    "partOfSpeech": "verb",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "買う。",
-      "reading": "かう。",
-      "meaning": "I to buy.",
-      "meaningEs": "Yo comprar."
-    },
-    "tags": [
-      "daily activities"
-    ]
-  },
-  {
-    "id": "vn5_10",
     "word": "私",
     "reading": "わたし",
     "meanings": [
@@ -211,4193 +156,316 @@
     "partOfSpeech": "pronoun",
     "jlptLevel": 5,
     "exampleSentence": {
-      "japanese": "私。",
-      "reading": "わたし。",
-      "meaning": "I I.",
-      "meaningEs": "Yo yo."
+      "japanese": "私は学生です。",
+      "reading": "わたしはがくせいです。",
+      "meaning": "I am a student.",
+      "meaningEs": "Yo soy estudiante."
     },
     "tags": [
-      "family"
+      "pronoun",
+      "grammar"
+    ]
+  },
+  {
+    "id": "vn5_8",
+    "word": "これ",
+    "reading": "これ",
+    "meanings": [
+      "this (near speaker)"
+    ],
+    "meaningsEs": [
+      "esto (cerca de mí)"
+    ],
+    "partOfSpeech": "pronoun",
+    "jlptLevel": 5,
+    "exampleSentence": {
+      "japanese": "これは本です。",
+      "reading": "これはほんです。",
+      "meaning": "This is a book.",
+      "meaningEs": "Esto es un libro."
+    },
+    "tags": [
+      "pronoun",
+      "grammar"
+    ]
+  },
+  {
+    "id": "vn5_9",
+    "word": "それ",
+    "reading": "それ",
+    "meanings": [
+      "that (near listener)"
+    ],
+    "meaningsEs": [
+      "eso (cerca de ti)"
+    ],
+    "partOfSpeech": "pronoun",
+    "jlptLevel": 5,
+    "exampleSentence": {
+      "japanese": "それは何ですか？",
+      "reading": "それはなんですか？",
+      "meaning": "What is that?",
+      "meaningEs": "¿Qué es eso?"
+    },
+    "tags": [
+      "pronoun",
+      "grammar"
+    ]
+  },
+  {
+    "id": "vn5_10",
+    "word": "あれ",
+    "reading": "あれ",
+    "meanings": [
+      "that over there"
+    ],
+    "meaningsEs": [
+      "aquello (lejos de ambos)"
+    ],
+    "partOfSpeech": "pronoun",
+    "jlptLevel": 5,
+    "exampleSentence": {
+      "japanese": "あれは富士山です。",
+      "reading": "あれはふじさんです。",
+      "meaning": "That over there is Mount Fuji.",
+      "meaningEs": "Aquello de allí es el Monte Fuji."
+    },
+    "tags": [
+      "pronoun",
+      "grammar"
     ]
   },
   {
     "id": "vn5_11",
-    "word": "単語11",
-    "reading": "たんご11",
+    "word": "食べる",
+    "reading": "たべる",
     "meanings": [
-      "word 11"
+      "to eat"
     ],
     "meaningsEs": [
-      "palabra 11"
+      "comer"
     ],
-    "partOfSpeech": "noun",
+    "partOfSpeech": "verb",
     "jlptLevel": 5,
     "exampleSentence": {
-      "japanese": "これは単語11です。",
-      "reading": "これはたんご11です。",
-      "meaning": "This is word 11.",
-      "meaningEs": "Esto es la palabra 11."
+      "japanese": "ご飯を食べます。",
+      "reading": "ごはんをたべます。",
+      "meaning": "I eat rice / a meal.",
+      "meaningEs": "Como arroz / comida."
     },
     "tags": [
-      "school"
+      "verb",
+      "daily"
     ]
   },
   {
     "id": "vn5_12",
-    "word": "単語12",
-    "reading": "たんご12",
+    "word": "飲む",
+    "reading": "のむ",
     "meanings": [
-      "word 12"
+      "to drink"
     ],
     "meaningsEs": [
-      "palabra 12"
+      "beber",
+      "tomar"
     ],
-    "partOfSpeech": "noun",
+    "partOfSpeech": "verb",
     "jlptLevel": 5,
     "exampleSentence": {
-      "japanese": "これは単語12です。",
-      "reading": "これはたんご12です。",
-      "meaning": "This is word 12.",
-      "meaningEs": "Esto es la palabra 12."
+      "japanese": "お茶を飲みます。",
+      "reading": "おちゃをのみます。",
+      "meaning": "I drink green tea.",
+      "meaningEs": "Bebo té verde."
     },
     "tags": [
-      "weather"
+      "verb",
+      "daily"
     ]
   },
   {
     "id": "vn5_13",
-    "word": "単語13",
-    "reading": "たんご13",
+    "word": "見る",
+    "reading": "みる",
     "meanings": [
-      "word 13"
+      "to see",
+      "to watch"
     ],
     "meaningsEs": [
-      "palabra 13"
+      "ver",
+      "mirar"
     ],
-    "partOfSpeech": "noun",
+    "partOfSpeech": "verb",
     "jlptLevel": 5,
     "exampleSentence": {
-      "japanese": "これは単語13です。",
-      "reading": "これはたんご13です。",
-      "meaning": "This is word 13.",
-      "meaningEs": "Esto es la palabra 13."
+      "japanese": "アニメを見ます。",
+      "reading": "あにめをみます。",
+      "meaning": "I watch anime.",
+      "meaningEs": "Veo anime."
     },
     "tags": [
-      "greetings"
+      "verb",
+      "daily"
     ]
   },
   {
     "id": "vn5_14",
-    "word": "単語14",
-    "reading": "たんご14",
+    "word": "行く",
+    "reading": "いく",
     "meanings": [
-      "word 14"
+      "to go"
     ],
     "meaningsEs": [
-      "palabra 14"
+      "ir"
     ],
-    "partOfSpeech": "noun",
+    "partOfSpeech": "verb",
     "jlptLevel": 5,
     "exampleSentence": {
-      "japanese": "これは単語14です。",
-      "reading": "これはたんご14です。",
-      "meaning": "This is word 14.",
-      "meaningEs": "Esto es la palabra 14."
+      "japanese": "日本へ行きます。",
+      "reading": "にほんへいきます。",
+      "meaning": "I go to Japan.",
+      "meaningEs": "Voy a Japón."
     },
     "tags": [
-      "numbers"
+      "verb",
+      "travel"
     ]
   },
   {
     "id": "vn5_15",
-    "word": "単語15",
-    "reading": "たんご15",
+    "word": "来る",
+    "reading": "くる",
     "meanings": [
-      "word 15"
+      "to come"
     ],
     "meaningsEs": [
-      "palabra 15"
+      "venir"
     ],
-    "partOfSpeech": "noun",
+    "partOfSpeech": "verb",
     "jlptLevel": 5,
     "exampleSentence": {
-      "japanese": "これは単語15です。",
-      "reading": "これはたんご15です。",
-      "meaning": "This is word 15.",
-      "meaningEs": "Esto es la palabra 15."
+      "japanese": "友だちが来ます。",
+      "reading": "ともだちがきます。",
+      "meaning": "A friend is coming.",
+      "meaningEs": "Viene un amigo."
     },
     "tags": [
-      "time"
+      "verb",
+      "daily"
     ]
   },
   {
     "id": "vn5_16",
-    "word": "単語16",
-    "reading": "たんご16",
+    "word": "日本語",
+    "reading": "にほんご",
     "meanings": [
-      "word 16"
+      "Japanese language"
     ],
     "meaningsEs": [
-      "palabra 16"
+      "idioma japonés"
     ],
     "partOfSpeech": "noun",
     "jlptLevel": 5,
     "exampleSentence": {
-      "japanese": "これは単語16です。",
-      "reading": "これはたんご16です。",
-      "meaning": "This is word 16.",
-      "meaningEs": "Esto es la palabra 16."
+      "japanese": "日本語を勉強します。",
+      "reading": "にほんごをべんきょうします。",
+      "meaning": "I study Japanese.",
+      "meaningEs": "Estudio japonés."
     },
     "tags": [
-      "family"
+      "language",
+      "study"
     ]
   },
   {
     "id": "vn5_17",
-    "word": "単語17",
-    "reading": "たんご17",
+    "word": "本",
+    "reading": "ほん",
     "meanings": [
-      "word 17"
+      "book"
     ],
     "meaningsEs": [
-      "palabra 17"
+      "libro",
+      "origen"
     ],
     "partOfSpeech": "noun",
     "jlptLevel": 5,
     "exampleSentence": {
-      "japanese": "これは単語17です。",
-      "reading": "これはたんご17です。",
-      "meaning": "This is word 17.",
-      "meaningEs": "Esto es la palabra 17."
+      "japanese": "本を読みます。",
+      "reading": "ほんをよみます。",
+      "meaning": "I read a book.",
+      "meaningEs": "Leo un libro."
     },
     "tags": [
-      "food"
+      "study",
+      "daily"
     ]
   },
   {
     "id": "vn5_18",
-    "word": "単語18",
-    "reading": "たんご18",
+    "word": "水",
+    "reading": "みず",
     "meanings": [
-      "word 18"
+      "water"
     ],
     "meaningsEs": [
-      "palabra 18"
+      "agua"
     ],
     "partOfSpeech": "noun",
     "jlptLevel": 5,
     "exampleSentence": {
-      "japanese": "これは単語18です。",
-      "reading": "これはたんご18です。",
-      "meaning": "This is word 18.",
-      "meaningEs": "Esto es la palabra 18."
+      "japanese": "水をください。",
+      "reading": "みずをください。",
+      "meaning": "Water, please.",
+      "meaningEs": "Agua, por favor."
     },
     "tags": [
-      "transport"
+      "food",
+      "daily"
     ]
   },
   {
     "id": "vn5_19",
-    "word": "単語19",
-    "reading": "たんご19",
+    "word": "大きい",
+    "reading": "おおきい",
     "meanings": [
-      "word 19"
+      "big",
+      "large"
     ],
     "meaningsEs": [
-      "palabra 19"
+      "grande"
     ],
-    "partOfSpeech": "noun",
+    "partOfSpeech": "i-adjective",
     "jlptLevel": 5,
     "exampleSentence": {
-      "japanese": "これは単語19です。",
-      "reading": "これはたんご19です。",
-      "meaning": "This is word 19.",
-      "meaningEs": "Esto es la palabra 19."
+      "japanese": "大きい犬ですね。",
+      "reading": "おおきいいぬですね。",
+      "meaning": "It's a big dog, isn't it?",
+      "meaningEs": "Es un perro grande, ¿verdad?"
     },
     "tags": [
-      "body"
+      "adjective"
     ]
   },
   {
     "id": "vn5_20",
-    "word": "単語20",
-    "reading": "たんご20",
+    "word": "小さい",
+    "reading": "ちいさい",
     "meanings": [
-      "word 20"
+      "small"
     ],
     "meaningsEs": [
-      "palabra 20"
+      "pequeño"
     ],
-    "partOfSpeech": "noun",
+    "partOfSpeech": "i-adjective",
     "jlptLevel": 5,
     "exampleSentence": {
-      "japanese": "これは単語20です。",
-      "reading": "これはたんご20です。",
-      "meaning": "This is word 20.",
-      "meaningEs": "Esto es la palabra 20."
+      "japanese": "小さい猫が好きです。",
+      "reading": "ちいさいねこがすきです。",
+      "meaning": "I like small cats.",
+      "meaningEs": "Me gustan los gatos pequeños."
     },
     "tags": [
-      "colors"
-    ]
-  },
-  {
-    "id": "vn5_21",
-    "word": "単語21",
-    "reading": "たんご21",
-    "meanings": [
-      "word 21"
-    ],
-    "meaningsEs": [
-      "palabra 21"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語21です。",
-      "reading": "これはたんご21です。",
-      "meaning": "This is word 21.",
-      "meaningEs": "Esto es la palabra 21."
-    },
-    "tags": [
-      "directions"
-    ]
-  },
-  {
-    "id": "vn5_22",
-    "word": "単語22",
-    "reading": "たんご22",
-    "meanings": [
-      "word 22"
-    ],
-    "meaningsEs": [
-      "palabra 22"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語22です。",
-      "reading": "これはたんご22です。",
-      "meaning": "This is word 22.",
-      "meaningEs": "Esto es la palabra 22."
-    },
-    "tags": [
-      "daily activities"
-    ]
-  },
-  {
-    "id": "vn5_23",
-    "word": "単語23",
-    "reading": "たんご23",
-    "meanings": [
-      "word 23"
-    ],
-    "meaningsEs": [
-      "palabra 23"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語23です。",
-      "reading": "これはたんご23です。",
-      "meaning": "This is word 23.",
-      "meaningEs": "Esto es la palabra 23."
-    },
-    "tags": [
-      "school"
-    ]
-  },
-  {
-    "id": "vn5_24",
-    "word": "単語24",
-    "reading": "たんご24",
-    "meanings": [
-      "word 24"
-    ],
-    "meaningsEs": [
-      "palabra 24"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語24です。",
-      "reading": "これはたんご24です。",
-      "meaning": "This is word 24.",
-      "meaningEs": "Esto es la palabra 24."
-    },
-    "tags": [
-      "weather"
-    ]
-  },
-  {
-    "id": "vn5_25",
-    "word": "単語25",
-    "reading": "たんご25",
-    "meanings": [
-      "word 25"
-    ],
-    "meaningsEs": [
-      "palabra 25"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語25です。",
-      "reading": "これはたんご25です。",
-      "meaning": "This is word 25.",
-      "meaningEs": "Esto es la palabra 25."
-    },
-    "tags": [
-      "greetings"
-    ]
-  },
-  {
-    "id": "vn5_26",
-    "word": "単語26",
-    "reading": "たんご26",
-    "meanings": [
-      "word 26"
-    ],
-    "meaningsEs": [
-      "palabra 26"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語26です。",
-      "reading": "これはたんご26です。",
-      "meaning": "This is word 26.",
-      "meaningEs": "Esto es la palabra 26."
-    },
-    "tags": [
-      "numbers"
-    ]
-  },
-  {
-    "id": "vn5_27",
-    "word": "単語27",
-    "reading": "たんご27",
-    "meanings": [
-      "word 27"
-    ],
-    "meaningsEs": [
-      "palabra 27"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語27です。",
-      "reading": "これはたんご27です。",
-      "meaning": "This is word 27.",
-      "meaningEs": "Esto es la palabra 27."
-    },
-    "tags": [
-      "time"
-    ]
-  },
-  {
-    "id": "vn5_28",
-    "word": "単語28",
-    "reading": "たんご28",
-    "meanings": [
-      "word 28"
-    ],
-    "meaningsEs": [
-      "palabra 28"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語28です。",
-      "reading": "これはたんご28です。",
-      "meaning": "This is word 28.",
-      "meaningEs": "Esto es la palabra 28."
-    },
-    "tags": [
-      "family"
-    ]
-  },
-  {
-    "id": "vn5_29",
-    "word": "単語29",
-    "reading": "たんご29",
-    "meanings": [
-      "word 29"
-    ],
-    "meaningsEs": [
-      "palabra 29"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語29です。",
-      "reading": "これはたんご29です。",
-      "meaning": "This is word 29.",
-      "meaningEs": "Esto es la palabra 29."
-    },
-    "tags": [
-      "food"
-    ]
-  },
-  {
-    "id": "vn5_30",
-    "word": "単語30",
-    "reading": "たんご30",
-    "meanings": [
-      "word 30"
-    ],
-    "meaningsEs": [
-      "palabra 30"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語30です。",
-      "reading": "これはたんご30です。",
-      "meaning": "This is word 30.",
-      "meaningEs": "Esto es la palabra 30."
-    },
-    "tags": [
-      "transport"
-    ]
-  },
-  {
-    "id": "vn5_31",
-    "word": "単語31",
-    "reading": "たんご31",
-    "meanings": [
-      "word 31"
-    ],
-    "meaningsEs": [
-      "palabra 31"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語31です。",
-      "reading": "これはたんご31です。",
-      "meaning": "This is word 31.",
-      "meaningEs": "Esto es la palabra 31."
-    },
-    "tags": [
-      "body"
-    ]
-  },
-  {
-    "id": "vn5_32",
-    "word": "単語32",
-    "reading": "たんご32",
-    "meanings": [
-      "word 32"
-    ],
-    "meaningsEs": [
-      "palabra 32"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語32です。",
-      "reading": "これはたんご32です。",
-      "meaning": "This is word 32.",
-      "meaningEs": "Esto es la palabra 32."
-    },
-    "tags": [
-      "colors"
-    ]
-  },
-  {
-    "id": "vn5_33",
-    "word": "単語33",
-    "reading": "たんご33",
-    "meanings": [
-      "word 33"
-    ],
-    "meaningsEs": [
-      "palabra 33"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語33です。",
-      "reading": "これはたんご33です。",
-      "meaning": "This is word 33.",
-      "meaningEs": "Esto es la palabra 33."
-    },
-    "tags": [
-      "directions"
-    ]
-  },
-  {
-    "id": "vn5_34",
-    "word": "単語34",
-    "reading": "たんご34",
-    "meanings": [
-      "word 34"
-    ],
-    "meaningsEs": [
-      "palabra 34"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語34です。",
-      "reading": "これはたんご34です。",
-      "meaning": "This is word 34.",
-      "meaningEs": "Esto es la palabra 34."
-    },
-    "tags": [
-      "daily activities"
-    ]
-  },
-  {
-    "id": "vn5_35",
-    "word": "単語35",
-    "reading": "たんご35",
-    "meanings": [
-      "word 35"
-    ],
-    "meaningsEs": [
-      "palabra 35"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語35です。",
-      "reading": "これはたんご35です。",
-      "meaning": "This is word 35.",
-      "meaningEs": "Esto es la palabra 35."
-    },
-    "tags": [
-      "school"
-    ]
-  },
-  {
-    "id": "vn5_36",
-    "word": "単語36",
-    "reading": "たんご36",
-    "meanings": [
-      "word 36"
-    ],
-    "meaningsEs": [
-      "palabra 36"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語36です。",
-      "reading": "これはたんご36です。",
-      "meaning": "This is word 36.",
-      "meaningEs": "Esto es la palabra 36."
-    },
-    "tags": [
-      "weather"
-    ]
-  },
-  {
-    "id": "vn5_37",
-    "word": "単語37",
-    "reading": "たんご37",
-    "meanings": [
-      "word 37"
-    ],
-    "meaningsEs": [
-      "palabra 37"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語37です。",
-      "reading": "これはたんご37です。",
-      "meaning": "This is word 37.",
-      "meaningEs": "Esto es la palabra 37."
-    },
-    "tags": [
-      "greetings"
-    ]
-  },
-  {
-    "id": "vn5_38",
-    "word": "単語38",
-    "reading": "たんご38",
-    "meanings": [
-      "word 38"
-    ],
-    "meaningsEs": [
-      "palabra 38"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語38です。",
-      "reading": "これはたんご38です。",
-      "meaning": "This is word 38.",
-      "meaningEs": "Esto es la palabra 38."
-    },
-    "tags": [
-      "numbers"
-    ]
-  },
-  {
-    "id": "vn5_39",
-    "word": "単語39",
-    "reading": "たんご39",
-    "meanings": [
-      "word 39"
-    ],
-    "meaningsEs": [
-      "palabra 39"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語39です。",
-      "reading": "これはたんご39です。",
-      "meaning": "This is word 39.",
-      "meaningEs": "Esto es la palabra 39."
-    },
-    "tags": [
-      "time"
-    ]
-  },
-  {
-    "id": "vn5_40",
-    "word": "単語40",
-    "reading": "たんご40",
-    "meanings": [
-      "word 40"
-    ],
-    "meaningsEs": [
-      "palabra 40"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語40です。",
-      "reading": "これはたんご40です。",
-      "meaning": "This is word 40.",
-      "meaningEs": "Esto es la palabra 40."
-    },
-    "tags": [
-      "family"
-    ]
-  },
-  {
-    "id": "vn5_41",
-    "word": "単語41",
-    "reading": "たんご41",
-    "meanings": [
-      "word 41"
-    ],
-    "meaningsEs": [
-      "palabra 41"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語41です。",
-      "reading": "これはたんご41です。",
-      "meaning": "This is word 41.",
-      "meaningEs": "Esto es la palabra 41."
-    },
-    "tags": [
-      "food"
-    ]
-  },
-  {
-    "id": "vn5_42",
-    "word": "単語42",
-    "reading": "たんご42",
-    "meanings": [
-      "word 42"
-    ],
-    "meaningsEs": [
-      "palabra 42"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語42です。",
-      "reading": "これはたんご42です。",
-      "meaning": "This is word 42.",
-      "meaningEs": "Esto es la palabra 42."
-    },
-    "tags": [
-      "transport"
-    ]
-  },
-  {
-    "id": "vn5_43",
-    "word": "単語43",
-    "reading": "たんご43",
-    "meanings": [
-      "word 43"
-    ],
-    "meaningsEs": [
-      "palabra 43"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語43です。",
-      "reading": "これはたんご43です。",
-      "meaning": "This is word 43.",
-      "meaningEs": "Esto es la palabra 43."
-    },
-    "tags": [
-      "body"
-    ]
-  },
-  {
-    "id": "vn5_44",
-    "word": "単語44",
-    "reading": "たんご44",
-    "meanings": [
-      "word 44"
-    ],
-    "meaningsEs": [
-      "palabra 44"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語44です。",
-      "reading": "これはたんご44です。",
-      "meaning": "This is word 44.",
-      "meaningEs": "Esto es la palabra 44."
-    },
-    "tags": [
-      "colors"
-    ]
-  },
-  {
-    "id": "vn5_45",
-    "word": "単語45",
-    "reading": "たんご45",
-    "meanings": [
-      "word 45"
-    ],
-    "meaningsEs": [
-      "palabra 45"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語45です。",
-      "reading": "これはたんご45です。",
-      "meaning": "This is word 45.",
-      "meaningEs": "Esto es la palabra 45."
-    },
-    "tags": [
-      "directions"
-    ]
-  },
-  {
-    "id": "vn5_46",
-    "word": "単語46",
-    "reading": "たんご46",
-    "meanings": [
-      "word 46"
-    ],
-    "meaningsEs": [
-      "palabra 46"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語46です。",
-      "reading": "これはたんご46です。",
-      "meaning": "This is word 46.",
-      "meaningEs": "Esto es la palabra 46."
-    },
-    "tags": [
-      "daily activities"
-    ]
-  },
-  {
-    "id": "vn5_47",
-    "word": "単語47",
-    "reading": "たんご47",
-    "meanings": [
-      "word 47"
-    ],
-    "meaningsEs": [
-      "palabra 47"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語47です。",
-      "reading": "これはたんご47です。",
-      "meaning": "This is word 47.",
-      "meaningEs": "Esto es la palabra 47."
-    },
-    "tags": [
-      "school"
-    ]
-  },
-  {
-    "id": "vn5_48",
-    "word": "単語48",
-    "reading": "たんご48",
-    "meanings": [
-      "word 48"
-    ],
-    "meaningsEs": [
-      "palabra 48"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語48です。",
-      "reading": "これはたんご48です。",
-      "meaning": "This is word 48.",
-      "meaningEs": "Esto es la palabra 48."
-    },
-    "tags": [
-      "weather"
-    ]
-  },
-  {
-    "id": "vn5_49",
-    "word": "単語49",
-    "reading": "たんご49",
-    "meanings": [
-      "word 49"
-    ],
-    "meaningsEs": [
-      "palabra 49"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語49です。",
-      "reading": "これはたんご49です。",
-      "meaning": "This is word 49.",
-      "meaningEs": "Esto es la palabra 49."
-    },
-    "tags": [
-      "greetings"
-    ]
-  },
-  {
-    "id": "vn5_50",
-    "word": "単語50",
-    "reading": "たんご50",
-    "meanings": [
-      "word 50"
-    ],
-    "meaningsEs": [
-      "palabra 50"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語50です。",
-      "reading": "これはたんご50です。",
-      "meaning": "This is word 50.",
-      "meaningEs": "Esto es la palabra 50."
-    },
-    "tags": [
-      "numbers"
-    ]
-  },
-  {
-    "id": "vn5_51",
-    "word": "単語51",
-    "reading": "たんご51",
-    "meanings": [
-      "word 51"
-    ],
-    "meaningsEs": [
-      "palabra 51"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語51です。",
-      "reading": "これはたんご51です。",
-      "meaning": "This is word 51.",
-      "meaningEs": "Esto es la palabra 51."
-    },
-    "tags": [
-      "time"
-    ]
-  },
-  {
-    "id": "vn5_52",
-    "word": "単語52",
-    "reading": "たんご52",
-    "meanings": [
-      "word 52"
-    ],
-    "meaningsEs": [
-      "palabra 52"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語52です。",
-      "reading": "これはたんご52です。",
-      "meaning": "This is word 52.",
-      "meaningEs": "Esto es la palabra 52."
-    },
-    "tags": [
-      "family"
-    ]
-  },
-  {
-    "id": "vn5_53",
-    "word": "単語53",
-    "reading": "たんご53",
-    "meanings": [
-      "word 53"
-    ],
-    "meaningsEs": [
-      "palabra 53"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語53です。",
-      "reading": "これはたんご53です。",
-      "meaning": "This is word 53.",
-      "meaningEs": "Esto es la palabra 53."
-    },
-    "tags": [
-      "food"
-    ]
-  },
-  {
-    "id": "vn5_54",
-    "word": "単語54",
-    "reading": "たんご54",
-    "meanings": [
-      "word 54"
-    ],
-    "meaningsEs": [
-      "palabra 54"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語54です。",
-      "reading": "これはたんご54です。",
-      "meaning": "This is word 54.",
-      "meaningEs": "Esto es la palabra 54."
-    },
-    "tags": [
-      "transport"
-    ]
-  },
-  {
-    "id": "vn5_55",
-    "word": "単語55",
-    "reading": "たんご55",
-    "meanings": [
-      "word 55"
-    ],
-    "meaningsEs": [
-      "palabra 55"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語55です。",
-      "reading": "これはたんご55です。",
-      "meaning": "This is word 55.",
-      "meaningEs": "Esto es la palabra 55."
-    },
-    "tags": [
-      "body"
-    ]
-  },
-  {
-    "id": "vn5_56",
-    "word": "単語56",
-    "reading": "たんご56",
-    "meanings": [
-      "word 56"
-    ],
-    "meaningsEs": [
-      "palabra 56"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語56です。",
-      "reading": "これはたんご56です。",
-      "meaning": "This is word 56.",
-      "meaningEs": "Esto es la palabra 56."
-    },
-    "tags": [
-      "colors"
-    ]
-  },
-  {
-    "id": "vn5_57",
-    "word": "単語57",
-    "reading": "たんご57",
-    "meanings": [
-      "word 57"
-    ],
-    "meaningsEs": [
-      "palabra 57"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語57です。",
-      "reading": "これはたんご57です。",
-      "meaning": "This is word 57.",
-      "meaningEs": "Esto es la palabra 57."
-    },
-    "tags": [
-      "directions"
-    ]
-  },
-  {
-    "id": "vn5_58",
-    "word": "単語58",
-    "reading": "たんご58",
-    "meanings": [
-      "word 58"
-    ],
-    "meaningsEs": [
-      "palabra 58"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語58です。",
-      "reading": "これはたんご58です。",
-      "meaning": "This is word 58.",
-      "meaningEs": "Esto es la palabra 58."
-    },
-    "tags": [
-      "daily activities"
-    ]
-  },
-  {
-    "id": "vn5_59",
-    "word": "単語59",
-    "reading": "たんご59",
-    "meanings": [
-      "word 59"
-    ],
-    "meaningsEs": [
-      "palabra 59"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語59です。",
-      "reading": "これはたんご59です。",
-      "meaning": "This is word 59.",
-      "meaningEs": "Esto es la palabra 59."
-    },
-    "tags": [
-      "school"
-    ]
-  },
-  {
-    "id": "vn5_60",
-    "word": "単語60",
-    "reading": "たんご60",
-    "meanings": [
-      "word 60"
-    ],
-    "meaningsEs": [
-      "palabra 60"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語60です。",
-      "reading": "これはたんご60です。",
-      "meaning": "This is word 60.",
-      "meaningEs": "Esto es la palabra 60."
-    },
-    "tags": [
-      "weather"
-    ]
-  },
-  {
-    "id": "vn5_61",
-    "word": "単語61",
-    "reading": "たんご61",
-    "meanings": [
-      "word 61"
-    ],
-    "meaningsEs": [
-      "palabra 61"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語61です。",
-      "reading": "これはたんご61です。",
-      "meaning": "This is word 61.",
-      "meaningEs": "Esto es la palabra 61."
-    },
-    "tags": [
-      "greetings"
-    ]
-  },
-  {
-    "id": "vn5_62",
-    "word": "単語62",
-    "reading": "たんご62",
-    "meanings": [
-      "word 62"
-    ],
-    "meaningsEs": [
-      "palabra 62"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語62です。",
-      "reading": "これはたんご62です。",
-      "meaning": "This is word 62.",
-      "meaningEs": "Esto es la palabra 62."
-    },
-    "tags": [
-      "numbers"
-    ]
-  },
-  {
-    "id": "vn5_63",
-    "word": "単語63",
-    "reading": "たんご63",
-    "meanings": [
-      "word 63"
-    ],
-    "meaningsEs": [
-      "palabra 63"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語63です。",
-      "reading": "これはたんご63です。",
-      "meaning": "This is word 63.",
-      "meaningEs": "Esto es la palabra 63."
-    },
-    "tags": [
-      "time"
-    ]
-  },
-  {
-    "id": "vn5_64",
-    "word": "単語64",
-    "reading": "たんご64",
-    "meanings": [
-      "word 64"
-    ],
-    "meaningsEs": [
-      "palabra 64"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語64です。",
-      "reading": "これはたんご64です。",
-      "meaning": "This is word 64.",
-      "meaningEs": "Esto es la palabra 64."
-    },
-    "tags": [
-      "family"
-    ]
-  },
-  {
-    "id": "vn5_65",
-    "word": "単語65",
-    "reading": "たんご65",
-    "meanings": [
-      "word 65"
-    ],
-    "meaningsEs": [
-      "palabra 65"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語65です。",
-      "reading": "これはたんご65です。",
-      "meaning": "This is word 65.",
-      "meaningEs": "Esto es la palabra 65."
-    },
-    "tags": [
-      "food"
-    ]
-  },
-  {
-    "id": "vn5_66",
-    "word": "単語66",
-    "reading": "たんご66",
-    "meanings": [
-      "word 66"
-    ],
-    "meaningsEs": [
-      "palabra 66"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語66です。",
-      "reading": "これはたんご66です。",
-      "meaning": "This is word 66.",
-      "meaningEs": "Esto es la palabra 66."
-    },
-    "tags": [
-      "transport"
-    ]
-  },
-  {
-    "id": "vn5_67",
-    "word": "単語67",
-    "reading": "たんご67",
-    "meanings": [
-      "word 67"
-    ],
-    "meaningsEs": [
-      "palabra 67"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語67です。",
-      "reading": "これはたんご67です。",
-      "meaning": "This is word 67.",
-      "meaningEs": "Esto es la palabra 67."
-    },
-    "tags": [
-      "body"
-    ]
-  },
-  {
-    "id": "vn5_68",
-    "word": "単語68",
-    "reading": "たんご68",
-    "meanings": [
-      "word 68"
-    ],
-    "meaningsEs": [
-      "palabra 68"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語68です。",
-      "reading": "これはたんご68です。",
-      "meaning": "This is word 68.",
-      "meaningEs": "Esto es la palabra 68."
-    },
-    "tags": [
-      "colors"
-    ]
-  },
-  {
-    "id": "vn5_69",
-    "word": "単語69",
-    "reading": "たんご69",
-    "meanings": [
-      "word 69"
-    ],
-    "meaningsEs": [
-      "palabra 69"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語69です。",
-      "reading": "これはたんご69です。",
-      "meaning": "This is word 69.",
-      "meaningEs": "Esto es la palabra 69."
-    },
-    "tags": [
-      "directions"
-    ]
-  },
-  {
-    "id": "vn5_70",
-    "word": "単語70",
-    "reading": "たんご70",
-    "meanings": [
-      "word 70"
-    ],
-    "meaningsEs": [
-      "palabra 70"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語70です。",
-      "reading": "これはたんご70です。",
-      "meaning": "This is word 70.",
-      "meaningEs": "Esto es la palabra 70."
-    },
-    "tags": [
-      "daily activities"
-    ]
-  },
-  {
-    "id": "vn5_71",
-    "word": "単語71",
-    "reading": "たんご71",
-    "meanings": [
-      "word 71"
-    ],
-    "meaningsEs": [
-      "palabra 71"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語71です。",
-      "reading": "これはたんご71です。",
-      "meaning": "This is word 71.",
-      "meaningEs": "Esto es la palabra 71."
-    },
-    "tags": [
-      "school"
-    ]
-  },
-  {
-    "id": "vn5_72",
-    "word": "単語72",
-    "reading": "たんご72",
-    "meanings": [
-      "word 72"
-    ],
-    "meaningsEs": [
-      "palabra 72"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語72です。",
-      "reading": "これはたんご72です。",
-      "meaning": "This is word 72.",
-      "meaningEs": "Esto es la palabra 72."
-    },
-    "tags": [
-      "weather"
-    ]
-  },
-  {
-    "id": "vn5_73",
-    "word": "単語73",
-    "reading": "たんご73",
-    "meanings": [
-      "word 73"
-    ],
-    "meaningsEs": [
-      "palabra 73"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語73です。",
-      "reading": "これはたんご73です。",
-      "meaning": "This is word 73.",
-      "meaningEs": "Esto es la palabra 73."
-    },
-    "tags": [
-      "greetings"
-    ]
-  },
-  {
-    "id": "vn5_74",
-    "word": "単語74",
-    "reading": "たんご74",
-    "meanings": [
-      "word 74"
-    ],
-    "meaningsEs": [
-      "palabra 74"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語74です。",
-      "reading": "これはたんご74です。",
-      "meaning": "This is word 74.",
-      "meaningEs": "Esto es la palabra 74."
-    },
-    "tags": [
-      "numbers"
-    ]
-  },
-  {
-    "id": "vn5_75",
-    "word": "単語75",
-    "reading": "たんご75",
-    "meanings": [
-      "word 75"
-    ],
-    "meaningsEs": [
-      "palabra 75"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語75です。",
-      "reading": "これはたんご75です。",
-      "meaning": "This is word 75.",
-      "meaningEs": "Esto es la palabra 75."
-    },
-    "tags": [
-      "time"
-    ]
-  },
-  {
-    "id": "vn5_76",
-    "word": "単語76",
-    "reading": "たんご76",
-    "meanings": [
-      "word 76"
-    ],
-    "meaningsEs": [
-      "palabra 76"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語76です。",
-      "reading": "これはたんご76です。",
-      "meaning": "This is word 76.",
-      "meaningEs": "Esto es la palabra 76."
-    },
-    "tags": [
-      "family"
-    ]
-  },
-  {
-    "id": "vn5_77",
-    "word": "単語77",
-    "reading": "たんご77",
-    "meanings": [
-      "word 77"
-    ],
-    "meaningsEs": [
-      "palabra 77"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語77です。",
-      "reading": "これはたんご77です。",
-      "meaning": "This is word 77.",
-      "meaningEs": "Esto es la palabra 77."
-    },
-    "tags": [
-      "food"
-    ]
-  },
-  {
-    "id": "vn5_78",
-    "word": "単語78",
-    "reading": "たんご78",
-    "meanings": [
-      "word 78"
-    ],
-    "meaningsEs": [
-      "palabra 78"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語78です。",
-      "reading": "これはたんご78です。",
-      "meaning": "This is word 78.",
-      "meaningEs": "Esto es la palabra 78."
-    },
-    "tags": [
-      "transport"
-    ]
-  },
-  {
-    "id": "vn5_79",
-    "word": "単語79",
-    "reading": "たんご79",
-    "meanings": [
-      "word 79"
-    ],
-    "meaningsEs": [
-      "palabra 79"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語79です。",
-      "reading": "これはたんご79です。",
-      "meaning": "This is word 79.",
-      "meaningEs": "Esto es la palabra 79."
-    },
-    "tags": [
-      "body"
-    ]
-  },
-  {
-    "id": "vn5_80",
-    "word": "単語80",
-    "reading": "たんご80",
-    "meanings": [
-      "word 80"
-    ],
-    "meaningsEs": [
-      "palabra 80"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語80です。",
-      "reading": "これはたんご80です。",
-      "meaning": "This is word 80.",
-      "meaningEs": "Esto es la palabra 80."
-    },
-    "tags": [
-      "colors"
-    ]
-  },
-  {
-    "id": "vn5_81",
-    "word": "単語81",
-    "reading": "たんご81",
-    "meanings": [
-      "word 81"
-    ],
-    "meaningsEs": [
-      "palabra 81"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語81です。",
-      "reading": "これはたんご81です。",
-      "meaning": "This is word 81.",
-      "meaningEs": "Esto es la palabra 81."
-    },
-    "tags": [
-      "directions"
-    ]
-  },
-  {
-    "id": "vn5_82",
-    "word": "単語82",
-    "reading": "たんご82",
-    "meanings": [
-      "word 82"
-    ],
-    "meaningsEs": [
-      "palabra 82"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語82です。",
-      "reading": "これはたんご82です。",
-      "meaning": "This is word 82.",
-      "meaningEs": "Esto es la palabra 82."
-    },
-    "tags": [
-      "daily activities"
-    ]
-  },
-  {
-    "id": "vn5_83",
-    "word": "単語83",
-    "reading": "たんご83",
-    "meanings": [
-      "word 83"
-    ],
-    "meaningsEs": [
-      "palabra 83"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語83です。",
-      "reading": "これはたんご83です。",
-      "meaning": "This is word 83.",
-      "meaningEs": "Esto es la palabra 83."
-    },
-    "tags": [
-      "school"
-    ]
-  },
-  {
-    "id": "vn5_84",
-    "word": "単語84",
-    "reading": "たんご84",
-    "meanings": [
-      "word 84"
-    ],
-    "meaningsEs": [
-      "palabra 84"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語84です。",
-      "reading": "これはたんご84です。",
-      "meaning": "This is word 84.",
-      "meaningEs": "Esto es la palabra 84."
-    },
-    "tags": [
-      "weather"
-    ]
-  },
-  {
-    "id": "vn5_85",
-    "word": "単語85",
-    "reading": "たんご85",
-    "meanings": [
-      "word 85"
-    ],
-    "meaningsEs": [
-      "palabra 85"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語85です。",
-      "reading": "これはたんご85です。",
-      "meaning": "This is word 85.",
-      "meaningEs": "Esto es la palabra 85."
-    },
-    "tags": [
-      "greetings"
-    ]
-  },
-  {
-    "id": "vn5_86",
-    "word": "単語86",
-    "reading": "たんご86",
-    "meanings": [
-      "word 86"
-    ],
-    "meaningsEs": [
-      "palabra 86"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語86です。",
-      "reading": "これはたんご86です。",
-      "meaning": "This is word 86.",
-      "meaningEs": "Esto es la palabra 86."
-    },
-    "tags": [
-      "numbers"
-    ]
-  },
-  {
-    "id": "vn5_87",
-    "word": "単語87",
-    "reading": "たんご87",
-    "meanings": [
-      "word 87"
-    ],
-    "meaningsEs": [
-      "palabra 87"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語87です。",
-      "reading": "これはたんご87です。",
-      "meaning": "This is word 87.",
-      "meaningEs": "Esto es la palabra 87."
-    },
-    "tags": [
-      "time"
-    ]
-  },
-  {
-    "id": "vn5_88",
-    "word": "単語88",
-    "reading": "たんご88",
-    "meanings": [
-      "word 88"
-    ],
-    "meaningsEs": [
-      "palabra 88"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語88です。",
-      "reading": "これはたんご88です。",
-      "meaning": "This is word 88.",
-      "meaningEs": "Esto es la palabra 88."
-    },
-    "tags": [
-      "family"
-    ]
-  },
-  {
-    "id": "vn5_89",
-    "word": "単語89",
-    "reading": "たんご89",
-    "meanings": [
-      "word 89"
-    ],
-    "meaningsEs": [
-      "palabra 89"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語89です。",
-      "reading": "これはたんご89です。",
-      "meaning": "This is word 89.",
-      "meaningEs": "Esto es la palabra 89."
-    },
-    "tags": [
-      "food"
-    ]
-  },
-  {
-    "id": "vn5_90",
-    "word": "単語90",
-    "reading": "たんご90",
-    "meanings": [
-      "word 90"
-    ],
-    "meaningsEs": [
-      "palabra 90"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語90です。",
-      "reading": "これはたんご90です。",
-      "meaning": "This is word 90.",
-      "meaningEs": "Esto es la palabra 90."
-    },
-    "tags": [
-      "transport"
-    ]
-  },
-  {
-    "id": "vn5_91",
-    "word": "単語91",
-    "reading": "たんご91",
-    "meanings": [
-      "word 91"
-    ],
-    "meaningsEs": [
-      "palabra 91"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語91です。",
-      "reading": "これはたんご91です。",
-      "meaning": "This is word 91.",
-      "meaningEs": "Esto es la palabra 91."
-    },
-    "tags": [
-      "body"
-    ]
-  },
-  {
-    "id": "vn5_92",
-    "word": "単語92",
-    "reading": "たんご92",
-    "meanings": [
-      "word 92"
-    ],
-    "meaningsEs": [
-      "palabra 92"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語92です。",
-      "reading": "これはたんご92です。",
-      "meaning": "This is word 92.",
-      "meaningEs": "Esto es la palabra 92."
-    },
-    "tags": [
-      "colors"
-    ]
-  },
-  {
-    "id": "vn5_93",
-    "word": "単語93",
-    "reading": "たんご93",
-    "meanings": [
-      "word 93"
-    ],
-    "meaningsEs": [
-      "palabra 93"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語93です。",
-      "reading": "これはたんご93です。",
-      "meaning": "This is word 93.",
-      "meaningEs": "Esto es la palabra 93."
-    },
-    "tags": [
-      "directions"
-    ]
-  },
-  {
-    "id": "vn5_94",
-    "word": "単語94",
-    "reading": "たんご94",
-    "meanings": [
-      "word 94"
-    ],
-    "meaningsEs": [
-      "palabra 94"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語94です。",
-      "reading": "これはたんご94です。",
-      "meaning": "This is word 94.",
-      "meaningEs": "Esto es la palabra 94."
-    },
-    "tags": [
-      "daily activities"
-    ]
-  },
-  {
-    "id": "vn5_95",
-    "word": "単語95",
-    "reading": "たんご95",
-    "meanings": [
-      "word 95"
-    ],
-    "meaningsEs": [
-      "palabra 95"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語95です。",
-      "reading": "これはたんご95です。",
-      "meaning": "This is word 95.",
-      "meaningEs": "Esto es la palabra 95."
-    },
-    "tags": [
-      "school"
-    ]
-  },
-  {
-    "id": "vn5_96",
-    "word": "単語96",
-    "reading": "たんご96",
-    "meanings": [
-      "word 96"
-    ],
-    "meaningsEs": [
-      "palabra 96"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語96です。",
-      "reading": "これはたんご96です。",
-      "meaning": "This is word 96.",
-      "meaningEs": "Esto es la palabra 96."
-    },
-    "tags": [
-      "weather"
-    ]
-  },
-  {
-    "id": "vn5_97",
-    "word": "単語97",
-    "reading": "たんご97",
-    "meanings": [
-      "word 97"
-    ],
-    "meaningsEs": [
-      "palabra 97"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語97です。",
-      "reading": "これはたんご97です。",
-      "meaning": "This is word 97.",
-      "meaningEs": "Esto es la palabra 97."
-    },
-    "tags": [
-      "greetings"
-    ]
-  },
-  {
-    "id": "vn5_98",
-    "word": "単語98",
-    "reading": "たんご98",
-    "meanings": [
-      "word 98"
-    ],
-    "meaningsEs": [
-      "palabra 98"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語98です。",
-      "reading": "これはたんご98です。",
-      "meaning": "This is word 98.",
-      "meaningEs": "Esto es la palabra 98."
-    },
-    "tags": [
-      "numbers"
-    ]
-  },
-  {
-    "id": "vn5_99",
-    "word": "単語99",
-    "reading": "たんご99",
-    "meanings": [
-      "word 99"
-    ],
-    "meaningsEs": [
-      "palabra 99"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語99です。",
-      "reading": "これはたんご99です。",
-      "meaning": "This is word 99.",
-      "meaningEs": "Esto es la palabra 99."
-    },
-    "tags": [
-      "time"
-    ]
-  },
-  {
-    "id": "vn5_100",
-    "word": "単語100",
-    "reading": "たんご100",
-    "meanings": [
-      "word 100"
-    ],
-    "meaningsEs": [
-      "palabra 100"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語100です。",
-      "reading": "これはたんご100です。",
-      "meaning": "This is word 100.",
-      "meaningEs": "Esto es la palabra 100."
-    },
-    "tags": [
-      "family"
-    ]
-  },
-  {
-    "id": "vn5_101",
-    "word": "単語101",
-    "reading": "たんご101",
-    "meanings": [
-      "word 101"
-    ],
-    "meaningsEs": [
-      "palabra 101"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語101です。",
-      "reading": "これはたんご101です。",
-      "meaning": "This is word 101.",
-      "meaningEs": "Esto es la palabra 101."
-    },
-    "tags": [
-      "food"
-    ]
-  },
-  {
-    "id": "vn5_102",
-    "word": "単語102",
-    "reading": "たんご102",
-    "meanings": [
-      "word 102"
-    ],
-    "meaningsEs": [
-      "palabra 102"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語102です。",
-      "reading": "これはたんご102です。",
-      "meaning": "This is word 102.",
-      "meaningEs": "Esto es la palabra 102."
-    },
-    "tags": [
-      "transport"
-    ]
-  },
-  {
-    "id": "vn5_103",
-    "word": "単語103",
-    "reading": "たんご103",
-    "meanings": [
-      "word 103"
-    ],
-    "meaningsEs": [
-      "palabra 103"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語103です。",
-      "reading": "これはたんご103です。",
-      "meaning": "This is word 103.",
-      "meaningEs": "Esto es la palabra 103."
-    },
-    "tags": [
-      "body"
-    ]
-  },
-  {
-    "id": "vn5_104",
-    "word": "単語104",
-    "reading": "たんご104",
-    "meanings": [
-      "word 104"
-    ],
-    "meaningsEs": [
-      "palabra 104"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語104です。",
-      "reading": "これはたんご104です。",
-      "meaning": "This is word 104.",
-      "meaningEs": "Esto es la palabra 104."
-    },
-    "tags": [
-      "colors"
-    ]
-  },
-  {
-    "id": "vn5_105",
-    "word": "単語105",
-    "reading": "たんご105",
-    "meanings": [
-      "word 105"
-    ],
-    "meaningsEs": [
-      "palabra 105"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語105です。",
-      "reading": "これはたんご105です。",
-      "meaning": "This is word 105.",
-      "meaningEs": "Esto es la palabra 105."
-    },
-    "tags": [
-      "directions"
-    ]
-  },
-  {
-    "id": "vn5_106",
-    "word": "単語106",
-    "reading": "たんご106",
-    "meanings": [
-      "word 106"
-    ],
-    "meaningsEs": [
-      "palabra 106"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語106です。",
-      "reading": "これはたんご106です。",
-      "meaning": "This is word 106.",
-      "meaningEs": "Esto es la palabra 106."
-    },
-    "tags": [
-      "daily activities"
-    ]
-  },
-  {
-    "id": "vn5_107",
-    "word": "単語107",
-    "reading": "たんご107",
-    "meanings": [
-      "word 107"
-    ],
-    "meaningsEs": [
-      "palabra 107"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語107です。",
-      "reading": "これはたんご107です。",
-      "meaning": "This is word 107.",
-      "meaningEs": "Esto es la palabra 107."
-    },
-    "tags": [
-      "school"
-    ]
-  },
-  {
-    "id": "vn5_108",
-    "word": "単語108",
-    "reading": "たんご108",
-    "meanings": [
-      "word 108"
-    ],
-    "meaningsEs": [
-      "palabra 108"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語108です。",
-      "reading": "これはたんご108です。",
-      "meaning": "This is word 108.",
-      "meaningEs": "Esto es la palabra 108."
-    },
-    "tags": [
-      "weather"
-    ]
-  },
-  {
-    "id": "vn5_109",
-    "word": "単語109",
-    "reading": "たんご109",
-    "meanings": [
-      "word 109"
-    ],
-    "meaningsEs": [
-      "palabra 109"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語109です。",
-      "reading": "これはたんご109です。",
-      "meaning": "This is word 109.",
-      "meaningEs": "Esto es la palabra 109."
-    },
-    "tags": [
-      "greetings"
-    ]
-  },
-  {
-    "id": "vn5_110",
-    "word": "単語110",
-    "reading": "たんご110",
-    "meanings": [
-      "word 110"
-    ],
-    "meaningsEs": [
-      "palabra 110"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語110です。",
-      "reading": "これはたんご110です。",
-      "meaning": "This is word 110.",
-      "meaningEs": "Esto es la palabra 110."
-    },
-    "tags": [
-      "numbers"
-    ]
-  },
-  {
-    "id": "vn5_111",
-    "word": "単語111",
-    "reading": "たんご111",
-    "meanings": [
-      "word 111"
-    ],
-    "meaningsEs": [
-      "palabra 111"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語111です。",
-      "reading": "これはたんご111です。",
-      "meaning": "This is word 111.",
-      "meaningEs": "Esto es la palabra 111."
-    },
-    "tags": [
-      "time"
-    ]
-  },
-  {
-    "id": "vn5_112",
-    "word": "単語112",
-    "reading": "たんご112",
-    "meanings": [
-      "word 112"
-    ],
-    "meaningsEs": [
-      "palabra 112"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語112です。",
-      "reading": "これはたんご112です。",
-      "meaning": "This is word 112.",
-      "meaningEs": "Esto es la palabra 112."
-    },
-    "tags": [
-      "family"
-    ]
-  },
-  {
-    "id": "vn5_113",
-    "word": "単語113",
-    "reading": "たんご113",
-    "meanings": [
-      "word 113"
-    ],
-    "meaningsEs": [
-      "palabra 113"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語113です。",
-      "reading": "これはたんご113です。",
-      "meaning": "This is word 113.",
-      "meaningEs": "Esto es la palabra 113."
-    },
-    "tags": [
-      "food"
-    ]
-  },
-  {
-    "id": "vn5_114",
-    "word": "単語114",
-    "reading": "たんご114",
-    "meanings": [
-      "word 114"
-    ],
-    "meaningsEs": [
-      "palabra 114"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語114です。",
-      "reading": "これはたんご114です。",
-      "meaning": "This is word 114.",
-      "meaningEs": "Esto es la palabra 114."
-    },
-    "tags": [
-      "transport"
-    ]
-  },
-  {
-    "id": "vn5_115",
-    "word": "単語115",
-    "reading": "たんご115",
-    "meanings": [
-      "word 115"
-    ],
-    "meaningsEs": [
-      "palabra 115"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語115です。",
-      "reading": "これはたんご115です。",
-      "meaning": "This is word 115.",
-      "meaningEs": "Esto es la palabra 115."
-    },
-    "tags": [
-      "body"
-    ]
-  },
-  {
-    "id": "vn5_116",
-    "word": "単語116",
-    "reading": "たんご116",
-    "meanings": [
-      "word 116"
-    ],
-    "meaningsEs": [
-      "palabra 116"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語116です。",
-      "reading": "これはたんご116です。",
-      "meaning": "This is word 116.",
-      "meaningEs": "Esto es la palabra 116."
-    },
-    "tags": [
-      "colors"
-    ]
-  },
-  {
-    "id": "vn5_117",
-    "word": "単語117",
-    "reading": "たんご117",
-    "meanings": [
-      "word 117"
-    ],
-    "meaningsEs": [
-      "palabra 117"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語117です。",
-      "reading": "これはたんご117です。",
-      "meaning": "This is word 117.",
-      "meaningEs": "Esto es la palabra 117."
-    },
-    "tags": [
-      "directions"
-    ]
-  },
-  {
-    "id": "vn5_118",
-    "word": "単語118",
-    "reading": "たんご118",
-    "meanings": [
-      "word 118"
-    ],
-    "meaningsEs": [
-      "palabra 118"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語118です。",
-      "reading": "これはたんご118です。",
-      "meaning": "This is word 118.",
-      "meaningEs": "Esto es la palabra 118."
-    },
-    "tags": [
-      "daily activities"
-    ]
-  },
-  {
-    "id": "vn5_119",
-    "word": "単語119",
-    "reading": "たんご119",
-    "meanings": [
-      "word 119"
-    ],
-    "meaningsEs": [
-      "palabra 119"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語119です。",
-      "reading": "これはたんご119です。",
-      "meaning": "This is word 119.",
-      "meaningEs": "Esto es la palabra 119."
-    },
-    "tags": [
-      "school"
-    ]
-  },
-  {
-    "id": "vn5_120",
-    "word": "単語120",
-    "reading": "たんご120",
-    "meanings": [
-      "word 120"
-    ],
-    "meaningsEs": [
-      "palabra 120"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語120です。",
-      "reading": "これはたんご120です。",
-      "meaning": "This is word 120.",
-      "meaningEs": "Esto es la palabra 120."
-    },
-    "tags": [
-      "weather"
-    ]
-  },
-  {
-    "id": "vn5_121",
-    "word": "単語121",
-    "reading": "たんご121",
-    "meanings": [
-      "word 121"
-    ],
-    "meaningsEs": [
-      "palabra 121"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語121です。",
-      "reading": "これはたんご121です。",
-      "meaning": "This is word 121.",
-      "meaningEs": "Esto es la palabra 121."
-    },
-    "tags": [
-      "greetings"
-    ]
-  },
-  {
-    "id": "vn5_122",
-    "word": "単語122",
-    "reading": "たんご122",
-    "meanings": [
-      "word 122"
-    ],
-    "meaningsEs": [
-      "palabra 122"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語122です。",
-      "reading": "これはたんご122です。",
-      "meaning": "This is word 122.",
-      "meaningEs": "Esto es la palabra 122."
-    },
-    "tags": [
-      "numbers"
-    ]
-  },
-  {
-    "id": "vn5_123",
-    "word": "単語123",
-    "reading": "たんご123",
-    "meanings": [
-      "word 123"
-    ],
-    "meaningsEs": [
-      "palabra 123"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語123です。",
-      "reading": "これはたんご123です。",
-      "meaning": "This is word 123.",
-      "meaningEs": "Esto es la palabra 123."
-    },
-    "tags": [
-      "time"
-    ]
-  },
-  {
-    "id": "vn5_124",
-    "word": "単語124",
-    "reading": "たんご124",
-    "meanings": [
-      "word 124"
-    ],
-    "meaningsEs": [
-      "palabra 124"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語124です。",
-      "reading": "これはたんご124です。",
-      "meaning": "This is word 124.",
-      "meaningEs": "Esto es la palabra 124."
-    },
-    "tags": [
-      "family"
-    ]
-  },
-  {
-    "id": "vn5_125",
-    "word": "単語125",
-    "reading": "たんご125",
-    "meanings": [
-      "word 125"
-    ],
-    "meaningsEs": [
-      "palabra 125"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語125です。",
-      "reading": "これはたんご125です。",
-      "meaning": "This is word 125.",
-      "meaningEs": "Esto es la palabra 125."
-    },
-    "tags": [
-      "food"
-    ]
-  },
-  {
-    "id": "vn5_126",
-    "word": "単語126",
-    "reading": "たんご126",
-    "meanings": [
-      "word 126"
-    ],
-    "meaningsEs": [
-      "palabra 126"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語126です。",
-      "reading": "これはたんご126です。",
-      "meaning": "This is word 126.",
-      "meaningEs": "Esto es la palabra 126."
-    },
-    "tags": [
-      "transport"
-    ]
-  },
-  {
-    "id": "vn5_127",
-    "word": "単語127",
-    "reading": "たんご127",
-    "meanings": [
-      "word 127"
-    ],
-    "meaningsEs": [
-      "palabra 127"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語127です。",
-      "reading": "これはたんご127です。",
-      "meaning": "This is word 127.",
-      "meaningEs": "Esto es la palabra 127."
-    },
-    "tags": [
-      "body"
-    ]
-  },
-  {
-    "id": "vn5_128",
-    "word": "単語128",
-    "reading": "たんご128",
-    "meanings": [
-      "word 128"
-    ],
-    "meaningsEs": [
-      "palabra 128"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語128です。",
-      "reading": "これはたんご128です。",
-      "meaning": "This is word 128.",
-      "meaningEs": "Esto es la palabra 128."
-    },
-    "tags": [
-      "colors"
-    ]
-  },
-  {
-    "id": "vn5_129",
-    "word": "単語129",
-    "reading": "たんご129",
-    "meanings": [
-      "word 129"
-    ],
-    "meaningsEs": [
-      "palabra 129"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語129です。",
-      "reading": "これはたんご129です。",
-      "meaning": "This is word 129.",
-      "meaningEs": "Esto es la palabra 129."
-    },
-    "tags": [
-      "directions"
-    ]
-  },
-  {
-    "id": "vn5_130",
-    "word": "単語130",
-    "reading": "たんご130",
-    "meanings": [
-      "word 130"
-    ],
-    "meaningsEs": [
-      "palabra 130"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語130です。",
-      "reading": "これはたんご130です。",
-      "meaning": "This is word 130.",
-      "meaningEs": "Esto es la palabra 130."
-    },
-    "tags": [
-      "daily activities"
-    ]
-  },
-  {
-    "id": "vn5_131",
-    "word": "単語131",
-    "reading": "たんご131",
-    "meanings": [
-      "word 131"
-    ],
-    "meaningsEs": [
-      "palabra 131"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語131です。",
-      "reading": "これはたんご131です。",
-      "meaning": "This is word 131.",
-      "meaningEs": "Esto es la palabra 131."
-    },
-    "tags": [
-      "school"
-    ]
-  },
-  {
-    "id": "vn5_132",
-    "word": "単語132",
-    "reading": "たんご132",
-    "meanings": [
-      "word 132"
-    ],
-    "meaningsEs": [
-      "palabra 132"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語132です。",
-      "reading": "これはたんご132です。",
-      "meaning": "This is word 132.",
-      "meaningEs": "Esto es la palabra 132."
-    },
-    "tags": [
-      "weather"
-    ]
-  },
-  {
-    "id": "vn5_133",
-    "word": "単語133",
-    "reading": "たんご133",
-    "meanings": [
-      "word 133"
-    ],
-    "meaningsEs": [
-      "palabra 133"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語133です。",
-      "reading": "これはたんご133です。",
-      "meaning": "This is word 133.",
-      "meaningEs": "Esto es la palabra 133."
-    },
-    "tags": [
-      "greetings"
-    ]
-  },
-  {
-    "id": "vn5_134",
-    "word": "単語134",
-    "reading": "たんご134",
-    "meanings": [
-      "word 134"
-    ],
-    "meaningsEs": [
-      "palabra 134"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語134です。",
-      "reading": "これはたんご134です。",
-      "meaning": "This is word 134.",
-      "meaningEs": "Esto es la palabra 134."
-    },
-    "tags": [
-      "numbers"
-    ]
-  },
-  {
-    "id": "vn5_135",
-    "word": "単語135",
-    "reading": "たんご135",
-    "meanings": [
-      "word 135"
-    ],
-    "meaningsEs": [
-      "palabra 135"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語135です。",
-      "reading": "これはたんご135です。",
-      "meaning": "This is word 135.",
-      "meaningEs": "Esto es la palabra 135."
-    },
-    "tags": [
-      "time"
-    ]
-  },
-  {
-    "id": "vn5_136",
-    "word": "単語136",
-    "reading": "たんご136",
-    "meanings": [
-      "word 136"
-    ],
-    "meaningsEs": [
-      "palabra 136"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語136です。",
-      "reading": "これはたんご136です。",
-      "meaning": "This is word 136.",
-      "meaningEs": "Esto es la palabra 136."
-    },
-    "tags": [
-      "family"
-    ]
-  },
-  {
-    "id": "vn5_137",
-    "word": "単語137",
-    "reading": "たんご137",
-    "meanings": [
-      "word 137"
-    ],
-    "meaningsEs": [
-      "palabra 137"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語137です。",
-      "reading": "これはたんご137です。",
-      "meaning": "This is word 137.",
-      "meaningEs": "Esto es la palabra 137."
-    },
-    "tags": [
-      "food"
-    ]
-  },
-  {
-    "id": "vn5_138",
-    "word": "単語138",
-    "reading": "たんご138",
-    "meanings": [
-      "word 138"
-    ],
-    "meaningsEs": [
-      "palabra 138"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語138です。",
-      "reading": "これはたんご138です。",
-      "meaning": "This is word 138.",
-      "meaningEs": "Esto es la palabra 138."
-    },
-    "tags": [
-      "transport"
-    ]
-  },
-  {
-    "id": "vn5_139",
-    "word": "単語139",
-    "reading": "たんご139",
-    "meanings": [
-      "word 139"
-    ],
-    "meaningsEs": [
-      "palabra 139"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語139です。",
-      "reading": "これはたんご139です。",
-      "meaning": "This is word 139.",
-      "meaningEs": "Esto es la palabra 139."
-    },
-    "tags": [
-      "body"
-    ]
-  },
-  {
-    "id": "vn5_140",
-    "word": "単語140",
-    "reading": "たんご140",
-    "meanings": [
-      "word 140"
-    ],
-    "meaningsEs": [
-      "palabra 140"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語140です。",
-      "reading": "これはたんご140です。",
-      "meaning": "This is word 140.",
-      "meaningEs": "Esto es la palabra 140."
-    },
-    "tags": [
-      "colors"
-    ]
-  },
-  {
-    "id": "vn5_141",
-    "word": "単語141",
-    "reading": "たんご141",
-    "meanings": [
-      "word 141"
-    ],
-    "meaningsEs": [
-      "palabra 141"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語141です。",
-      "reading": "これはたんご141です。",
-      "meaning": "This is word 141.",
-      "meaningEs": "Esto es la palabra 141."
-    },
-    "tags": [
-      "directions"
-    ]
-  },
-  {
-    "id": "vn5_142",
-    "word": "単語142",
-    "reading": "たんご142",
-    "meanings": [
-      "word 142"
-    ],
-    "meaningsEs": [
-      "palabra 142"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語142です。",
-      "reading": "これはたんご142です。",
-      "meaning": "This is word 142.",
-      "meaningEs": "Esto es la palabra 142."
-    },
-    "tags": [
-      "daily activities"
-    ]
-  },
-  {
-    "id": "vn5_143",
-    "word": "単語143",
-    "reading": "たんご143",
-    "meanings": [
-      "word 143"
-    ],
-    "meaningsEs": [
-      "palabra 143"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語143です。",
-      "reading": "これはたんご143です。",
-      "meaning": "This is word 143.",
-      "meaningEs": "Esto es la palabra 143."
-    },
-    "tags": [
-      "school"
-    ]
-  },
-  {
-    "id": "vn5_144",
-    "word": "単語144",
-    "reading": "たんご144",
-    "meanings": [
-      "word 144"
-    ],
-    "meaningsEs": [
-      "palabra 144"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語144です。",
-      "reading": "これはたんご144です。",
-      "meaning": "This is word 144.",
-      "meaningEs": "Esto es la palabra 144."
-    },
-    "tags": [
-      "weather"
-    ]
-  },
-  {
-    "id": "vn5_145",
-    "word": "単語145",
-    "reading": "たんご145",
-    "meanings": [
-      "word 145"
-    ],
-    "meaningsEs": [
-      "palabra 145"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語145です。",
-      "reading": "これはたんご145です。",
-      "meaning": "This is word 145.",
-      "meaningEs": "Esto es la palabra 145."
-    },
-    "tags": [
-      "greetings"
-    ]
-  },
-  {
-    "id": "vn5_146",
-    "word": "単語146",
-    "reading": "たんご146",
-    "meanings": [
-      "word 146"
-    ],
-    "meaningsEs": [
-      "palabra 146"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語146です。",
-      "reading": "これはたんご146です。",
-      "meaning": "This is word 146.",
-      "meaningEs": "Esto es la palabra 146."
-    },
-    "tags": [
-      "numbers"
-    ]
-  },
-  {
-    "id": "vn5_147",
-    "word": "単語147",
-    "reading": "たんご147",
-    "meanings": [
-      "word 147"
-    ],
-    "meaningsEs": [
-      "palabra 147"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語147です。",
-      "reading": "これはたんご147です。",
-      "meaning": "This is word 147.",
-      "meaningEs": "Esto es la palabra 147."
-    },
-    "tags": [
-      "time"
-    ]
-  },
-  {
-    "id": "vn5_148",
-    "word": "単語148",
-    "reading": "たんご148",
-    "meanings": [
-      "word 148"
-    ],
-    "meaningsEs": [
-      "palabra 148"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語148です。",
-      "reading": "これはたんご148です。",
-      "meaning": "This is word 148.",
-      "meaningEs": "Esto es la palabra 148."
-    },
-    "tags": [
-      "family"
-    ]
-  },
-  {
-    "id": "vn5_149",
-    "word": "単語149",
-    "reading": "たんご149",
-    "meanings": [
-      "word 149"
-    ],
-    "meaningsEs": [
-      "palabra 149"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語149です。",
-      "reading": "これはたんご149です。",
-      "meaning": "This is word 149.",
-      "meaningEs": "Esto es la palabra 149."
-    },
-    "tags": [
-      "food"
-    ]
-  },
-  {
-    "id": "vn5_150",
-    "word": "単語150",
-    "reading": "たんご150",
-    "meanings": [
-      "word 150"
-    ],
-    "meaningsEs": [
-      "palabra 150"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語150です。",
-      "reading": "これはたんご150です。",
-      "meaning": "This is word 150.",
-      "meaningEs": "Esto es la palabra 150."
-    },
-    "tags": [
-      "transport"
-    ]
-  },
-  {
-    "id": "vn5_151",
-    "word": "単語151",
-    "reading": "たんご151",
-    "meanings": [
-      "word 151"
-    ],
-    "meaningsEs": [
-      "palabra 151"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語151です。",
-      "reading": "これはたんご151です。",
-      "meaning": "This is word 151.",
-      "meaningEs": "Esto es la palabra 151."
-    },
-    "tags": [
-      "body"
-    ]
-  },
-  {
-    "id": "vn5_152",
-    "word": "単語152",
-    "reading": "たんご152",
-    "meanings": [
-      "word 152"
-    ],
-    "meaningsEs": [
-      "palabra 152"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語152です。",
-      "reading": "これはたんご152です。",
-      "meaning": "This is word 152.",
-      "meaningEs": "Esto es la palabra 152."
-    },
-    "tags": [
-      "colors"
-    ]
-  },
-  {
-    "id": "vn5_153",
-    "word": "単語153",
-    "reading": "たんご153",
-    "meanings": [
-      "word 153"
-    ],
-    "meaningsEs": [
-      "palabra 153"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語153です。",
-      "reading": "これはたんご153です。",
-      "meaning": "This is word 153.",
-      "meaningEs": "Esto es la palabra 153."
-    },
-    "tags": [
-      "directions"
-    ]
-  },
-  {
-    "id": "vn5_154",
-    "word": "単語154",
-    "reading": "たんご154",
-    "meanings": [
-      "word 154"
-    ],
-    "meaningsEs": [
-      "palabra 154"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語154です。",
-      "reading": "これはたんご154です。",
-      "meaning": "This is word 154.",
-      "meaningEs": "Esto es la palabra 154."
-    },
-    "tags": [
-      "daily activities"
-    ]
-  },
-  {
-    "id": "vn5_155",
-    "word": "単語155",
-    "reading": "たんご155",
-    "meanings": [
-      "word 155"
-    ],
-    "meaningsEs": [
-      "palabra 155"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語155です。",
-      "reading": "これはたんご155です。",
-      "meaning": "This is word 155.",
-      "meaningEs": "Esto es la palabra 155."
-    },
-    "tags": [
-      "school"
-    ]
-  },
-  {
-    "id": "vn5_156",
-    "word": "単語156",
-    "reading": "たんご156",
-    "meanings": [
-      "word 156"
-    ],
-    "meaningsEs": [
-      "palabra 156"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語156です。",
-      "reading": "これはたんご156です。",
-      "meaning": "This is word 156.",
-      "meaningEs": "Esto es la palabra 156."
-    },
-    "tags": [
-      "weather"
-    ]
-  },
-  {
-    "id": "vn5_157",
-    "word": "単語157",
-    "reading": "たんご157",
-    "meanings": [
-      "word 157"
-    ],
-    "meaningsEs": [
-      "palabra 157"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語157です。",
-      "reading": "これはたんご157です。",
-      "meaning": "This is word 157.",
-      "meaningEs": "Esto es la palabra 157."
-    },
-    "tags": [
-      "greetings"
-    ]
-  },
-  {
-    "id": "vn5_158",
-    "word": "単語158",
-    "reading": "たんご158",
-    "meanings": [
-      "word 158"
-    ],
-    "meaningsEs": [
-      "palabra 158"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語158です。",
-      "reading": "これはたんご158です。",
-      "meaning": "This is word 158.",
-      "meaningEs": "Esto es la palabra 158."
-    },
-    "tags": [
-      "numbers"
-    ]
-  },
-  {
-    "id": "vn5_159",
-    "word": "単語159",
-    "reading": "たんご159",
-    "meanings": [
-      "word 159"
-    ],
-    "meaningsEs": [
-      "palabra 159"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語159です。",
-      "reading": "これはたんご159です。",
-      "meaning": "This is word 159.",
-      "meaningEs": "Esto es la palabra 159."
-    },
-    "tags": [
-      "time"
-    ]
-  },
-  {
-    "id": "vn5_160",
-    "word": "単語160",
-    "reading": "たんご160",
-    "meanings": [
-      "word 160"
-    ],
-    "meaningsEs": [
-      "palabra 160"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語160です。",
-      "reading": "これはたんご160です。",
-      "meaning": "This is word 160.",
-      "meaningEs": "Esto es la palabra 160."
-    },
-    "tags": [
-      "family"
-    ]
-  },
-  {
-    "id": "vn5_161",
-    "word": "単語161",
-    "reading": "たんご161",
-    "meanings": [
-      "word 161"
-    ],
-    "meaningsEs": [
-      "palabra 161"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語161です。",
-      "reading": "これはたんご161です。",
-      "meaning": "This is word 161.",
-      "meaningEs": "Esto es la palabra 161."
-    },
-    "tags": [
-      "food"
-    ]
-  },
-  {
-    "id": "vn5_162",
-    "word": "単語162",
-    "reading": "たんご162",
-    "meanings": [
-      "word 162"
-    ],
-    "meaningsEs": [
-      "palabra 162"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語162です。",
-      "reading": "これはたんご162です。",
-      "meaning": "This is word 162.",
-      "meaningEs": "Esto es la palabra 162."
-    },
-    "tags": [
-      "transport"
-    ]
-  },
-  {
-    "id": "vn5_163",
-    "word": "単語163",
-    "reading": "たんご163",
-    "meanings": [
-      "word 163"
-    ],
-    "meaningsEs": [
-      "palabra 163"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語163です。",
-      "reading": "これはたんご163です。",
-      "meaning": "This is word 163.",
-      "meaningEs": "Esto es la palabra 163."
-    },
-    "tags": [
-      "body"
-    ]
-  },
-  {
-    "id": "vn5_164",
-    "word": "単語164",
-    "reading": "たんご164",
-    "meanings": [
-      "word 164"
-    ],
-    "meaningsEs": [
-      "palabra 164"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語164です。",
-      "reading": "これはたんご164です。",
-      "meaning": "This is word 164.",
-      "meaningEs": "Esto es la palabra 164."
-    },
-    "tags": [
-      "colors"
-    ]
-  },
-  {
-    "id": "vn5_165",
-    "word": "単語165",
-    "reading": "たんご165",
-    "meanings": [
-      "word 165"
-    ],
-    "meaningsEs": [
-      "palabra 165"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語165です。",
-      "reading": "これはたんご165です。",
-      "meaning": "This is word 165.",
-      "meaningEs": "Esto es la palabra 165."
-    },
-    "tags": [
-      "directions"
-    ]
-  },
-  {
-    "id": "vn5_166",
-    "word": "単語166",
-    "reading": "たんご166",
-    "meanings": [
-      "word 166"
-    ],
-    "meaningsEs": [
-      "palabra 166"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語166です。",
-      "reading": "これはたんご166です。",
-      "meaning": "This is word 166.",
-      "meaningEs": "Esto es la palabra 166."
-    },
-    "tags": [
-      "daily activities"
-    ]
-  },
-  {
-    "id": "vn5_167",
-    "word": "単語167",
-    "reading": "たんご167",
-    "meanings": [
-      "word 167"
-    ],
-    "meaningsEs": [
-      "palabra 167"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語167です。",
-      "reading": "これはたんご167です。",
-      "meaning": "This is word 167.",
-      "meaningEs": "Esto es la palabra 167."
-    },
-    "tags": [
-      "school"
-    ]
-  },
-  {
-    "id": "vn5_168",
-    "word": "単語168",
-    "reading": "たんご168",
-    "meanings": [
-      "word 168"
-    ],
-    "meaningsEs": [
-      "palabra 168"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語168です。",
-      "reading": "これはたんご168です。",
-      "meaning": "This is word 168.",
-      "meaningEs": "Esto es la palabra 168."
-    },
-    "tags": [
-      "weather"
-    ]
-  },
-  {
-    "id": "vn5_169",
-    "word": "単語169",
-    "reading": "たんご169",
-    "meanings": [
-      "word 169"
-    ],
-    "meaningsEs": [
-      "palabra 169"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語169です。",
-      "reading": "これはたんご169です。",
-      "meaning": "This is word 169.",
-      "meaningEs": "Esto es la palabra 169."
-    },
-    "tags": [
-      "greetings"
-    ]
-  },
-  {
-    "id": "vn5_170",
-    "word": "単語170",
-    "reading": "たんご170",
-    "meanings": [
-      "word 170"
-    ],
-    "meaningsEs": [
-      "palabra 170"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語170です。",
-      "reading": "これはたんご170です。",
-      "meaning": "This is word 170.",
-      "meaningEs": "Esto es la palabra 170."
-    },
-    "tags": [
-      "numbers"
-    ]
-  },
-  {
-    "id": "vn5_171",
-    "word": "単語171",
-    "reading": "たんご171",
-    "meanings": [
-      "word 171"
-    ],
-    "meaningsEs": [
-      "palabra 171"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語171です。",
-      "reading": "これはたんご171です。",
-      "meaning": "This is word 171.",
-      "meaningEs": "Esto es la palabra 171."
-    },
-    "tags": [
-      "time"
-    ]
-  },
-  {
-    "id": "vn5_172",
-    "word": "単語172",
-    "reading": "たんご172",
-    "meanings": [
-      "word 172"
-    ],
-    "meaningsEs": [
-      "palabra 172"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語172です。",
-      "reading": "これはたんご172です。",
-      "meaning": "This is word 172.",
-      "meaningEs": "Esto es la palabra 172."
-    },
-    "tags": [
-      "family"
-    ]
-  },
-  {
-    "id": "vn5_173",
-    "word": "単語173",
-    "reading": "たんご173",
-    "meanings": [
-      "word 173"
-    ],
-    "meaningsEs": [
-      "palabra 173"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語173です。",
-      "reading": "これはたんご173です。",
-      "meaning": "This is word 173.",
-      "meaningEs": "Esto es la palabra 173."
-    },
-    "tags": [
-      "food"
-    ]
-  },
-  {
-    "id": "vn5_174",
-    "word": "単語174",
-    "reading": "たんご174",
-    "meanings": [
-      "word 174"
-    ],
-    "meaningsEs": [
-      "palabra 174"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語174です。",
-      "reading": "これはたんご174です。",
-      "meaning": "This is word 174.",
-      "meaningEs": "Esto es la palabra 174."
-    },
-    "tags": [
-      "transport"
-    ]
-  },
-  {
-    "id": "vn5_175",
-    "word": "単語175",
-    "reading": "たんご175",
-    "meanings": [
-      "word 175"
-    ],
-    "meaningsEs": [
-      "palabra 175"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語175です。",
-      "reading": "これはたんご175です。",
-      "meaning": "This is word 175.",
-      "meaningEs": "Esto es la palabra 175."
-    },
-    "tags": [
-      "body"
-    ]
-  },
-  {
-    "id": "vn5_176",
-    "word": "単語176",
-    "reading": "たんご176",
-    "meanings": [
-      "word 176"
-    ],
-    "meaningsEs": [
-      "palabra 176"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語176です。",
-      "reading": "これはたんご176です。",
-      "meaning": "This is word 176.",
-      "meaningEs": "Esto es la palabra 176."
-    },
-    "tags": [
-      "colors"
-    ]
-  },
-  {
-    "id": "vn5_177",
-    "word": "単語177",
-    "reading": "たんご177",
-    "meanings": [
-      "word 177"
-    ],
-    "meaningsEs": [
-      "palabra 177"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語177です。",
-      "reading": "これはたんご177です。",
-      "meaning": "This is word 177.",
-      "meaningEs": "Esto es la palabra 177."
-    },
-    "tags": [
-      "directions"
-    ]
-  },
-  {
-    "id": "vn5_178",
-    "word": "単語178",
-    "reading": "たんご178",
-    "meanings": [
-      "word 178"
-    ],
-    "meaningsEs": [
-      "palabra 178"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語178です。",
-      "reading": "これはたんご178です。",
-      "meaning": "This is word 178.",
-      "meaningEs": "Esto es la palabra 178."
-    },
-    "tags": [
-      "daily activities"
-    ]
-  },
-  {
-    "id": "vn5_179",
-    "word": "単語179",
-    "reading": "たんご179",
-    "meanings": [
-      "word 179"
-    ],
-    "meaningsEs": [
-      "palabra 179"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語179です。",
-      "reading": "これはたんご179です。",
-      "meaning": "This is word 179.",
-      "meaningEs": "Esto es la palabra 179."
-    },
-    "tags": [
-      "school"
-    ]
-  },
-  {
-    "id": "vn5_180",
-    "word": "単語180",
-    "reading": "たんご180",
-    "meanings": [
-      "word 180"
-    ],
-    "meaningsEs": [
-      "palabra 180"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語180です。",
-      "reading": "これはたんご180です。",
-      "meaning": "This is word 180.",
-      "meaningEs": "Esto es la palabra 180."
-    },
-    "tags": [
-      "weather"
-    ]
-  },
-  {
-    "id": "vn5_181",
-    "word": "単語181",
-    "reading": "たんご181",
-    "meanings": [
-      "word 181"
-    ],
-    "meaningsEs": [
-      "palabra 181"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語181です。",
-      "reading": "これはたんご181です。",
-      "meaning": "This is word 181.",
-      "meaningEs": "Esto es la palabra 181."
-    },
-    "tags": [
-      "greetings"
-    ]
-  },
-  {
-    "id": "vn5_182",
-    "word": "単語182",
-    "reading": "たんご182",
-    "meanings": [
-      "word 182"
-    ],
-    "meaningsEs": [
-      "palabra 182"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語182です。",
-      "reading": "これはたんご182です。",
-      "meaning": "This is word 182.",
-      "meaningEs": "Esto es la palabra 182."
-    },
-    "tags": [
-      "numbers"
-    ]
-  },
-  {
-    "id": "vn5_183",
-    "word": "単語183",
-    "reading": "たんご183",
-    "meanings": [
-      "word 183"
-    ],
-    "meaningsEs": [
-      "palabra 183"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語183です。",
-      "reading": "これはたんご183です。",
-      "meaning": "This is word 183.",
-      "meaningEs": "Esto es la palabra 183."
-    },
-    "tags": [
-      "time"
-    ]
-  },
-  {
-    "id": "vn5_184",
-    "word": "単語184",
-    "reading": "たんご184",
-    "meanings": [
-      "word 184"
-    ],
-    "meaningsEs": [
-      "palabra 184"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語184です。",
-      "reading": "これはたんご184です。",
-      "meaning": "This is word 184.",
-      "meaningEs": "Esto es la palabra 184."
-    },
-    "tags": [
-      "family"
-    ]
-  },
-  {
-    "id": "vn5_185",
-    "word": "単語185",
-    "reading": "たんご185",
-    "meanings": [
-      "word 185"
-    ],
-    "meaningsEs": [
-      "palabra 185"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語185です。",
-      "reading": "これはたんご185です。",
-      "meaning": "This is word 185.",
-      "meaningEs": "Esto es la palabra 185."
-    },
-    "tags": [
-      "food"
-    ]
-  },
-  {
-    "id": "vn5_186",
-    "word": "単語186",
-    "reading": "たんご186",
-    "meanings": [
-      "word 186"
-    ],
-    "meaningsEs": [
-      "palabra 186"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語186です。",
-      "reading": "これはたんご186です。",
-      "meaning": "This is word 186.",
-      "meaningEs": "Esto es la palabra 186."
-    },
-    "tags": [
-      "transport"
-    ]
-  },
-  {
-    "id": "vn5_187",
-    "word": "単語187",
-    "reading": "たんご187",
-    "meanings": [
-      "word 187"
-    ],
-    "meaningsEs": [
-      "palabra 187"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語187です。",
-      "reading": "これはたんご187です。",
-      "meaning": "This is word 187.",
-      "meaningEs": "Esto es la palabra 187."
-    },
-    "tags": [
-      "body"
-    ]
-  },
-  {
-    "id": "vn5_188",
-    "word": "単語188",
-    "reading": "たんご188",
-    "meanings": [
-      "word 188"
-    ],
-    "meaningsEs": [
-      "palabra 188"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語188です。",
-      "reading": "これはたんご188です。",
-      "meaning": "This is word 188.",
-      "meaningEs": "Esto es la palabra 188."
-    },
-    "tags": [
-      "colors"
-    ]
-  },
-  {
-    "id": "vn5_189",
-    "word": "単語189",
-    "reading": "たんご189",
-    "meanings": [
-      "word 189"
-    ],
-    "meaningsEs": [
-      "palabra 189"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語189です。",
-      "reading": "これはたんご189です。",
-      "meaning": "This is word 189.",
-      "meaningEs": "Esto es la palabra 189."
-    },
-    "tags": [
-      "directions"
-    ]
-  },
-  {
-    "id": "vn5_190",
-    "word": "単語190",
-    "reading": "たんご190",
-    "meanings": [
-      "word 190"
-    ],
-    "meaningsEs": [
-      "palabra 190"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語190です。",
-      "reading": "これはたんご190です。",
-      "meaning": "This is word 190.",
-      "meaningEs": "Esto es la palabra 190."
-    },
-    "tags": [
-      "daily activities"
-    ]
-  },
-  {
-    "id": "vn5_191",
-    "word": "単語191",
-    "reading": "たんご191",
-    "meanings": [
-      "word 191"
-    ],
-    "meaningsEs": [
-      "palabra 191"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語191です。",
-      "reading": "これはたんご191です。",
-      "meaning": "This is word 191.",
-      "meaningEs": "Esto es la palabra 191."
-    },
-    "tags": [
-      "school"
-    ]
-  },
-  {
-    "id": "vn5_192",
-    "word": "単語192",
-    "reading": "たんご192",
-    "meanings": [
-      "word 192"
-    ],
-    "meaningsEs": [
-      "palabra 192"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語192です。",
-      "reading": "これはたんご192です。",
-      "meaning": "This is word 192.",
-      "meaningEs": "Esto es la palabra 192."
-    },
-    "tags": [
-      "weather"
-    ]
-  },
-  {
-    "id": "vn5_193",
-    "word": "単語193",
-    "reading": "たんご193",
-    "meanings": [
-      "word 193"
-    ],
-    "meaningsEs": [
-      "palabra 193"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語193です。",
-      "reading": "これはたんご193です。",
-      "meaning": "This is word 193.",
-      "meaningEs": "Esto es la palabra 193."
-    },
-    "tags": [
-      "greetings"
-    ]
-  },
-  {
-    "id": "vn5_194",
-    "word": "単語194",
-    "reading": "たんご194",
-    "meanings": [
-      "word 194"
-    ],
-    "meaningsEs": [
-      "palabra 194"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語194です。",
-      "reading": "これはたんご194です。",
-      "meaning": "This is word 194.",
-      "meaningEs": "Esto es la palabra 194."
-    },
-    "tags": [
-      "numbers"
-    ]
-  },
-  {
-    "id": "vn5_195",
-    "word": "単語195",
-    "reading": "たんご195",
-    "meanings": [
-      "word 195"
-    ],
-    "meaningsEs": [
-      "palabra 195"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語195です。",
-      "reading": "これはたんご195です。",
-      "meaning": "This is word 195.",
-      "meaningEs": "Esto es la palabra 195."
-    },
-    "tags": [
-      "time"
-    ]
-  },
-  {
-    "id": "vn5_196",
-    "word": "単語196",
-    "reading": "たんご196",
-    "meanings": [
-      "word 196"
-    ],
-    "meaningsEs": [
-      "palabra 196"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語196です。",
-      "reading": "これはたんご196です。",
-      "meaning": "This is word 196.",
-      "meaningEs": "Esto es la palabra 196."
-    },
-    "tags": [
-      "family"
-    ]
-  },
-  {
-    "id": "vn5_197",
-    "word": "単語197",
-    "reading": "たんご197",
-    "meanings": [
-      "word 197"
-    ],
-    "meaningsEs": [
-      "palabra 197"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語197です。",
-      "reading": "これはたんご197です。",
-      "meaning": "This is word 197.",
-      "meaningEs": "Esto es la palabra 197."
-    },
-    "tags": [
-      "food"
-    ]
-  },
-  {
-    "id": "vn5_198",
-    "word": "単語198",
-    "reading": "たんご198",
-    "meanings": [
-      "word 198"
-    ],
-    "meaningsEs": [
-      "palabra 198"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語198です。",
-      "reading": "これはたんご198です。",
-      "meaning": "This is word 198.",
-      "meaningEs": "Esto es la palabra 198."
-    },
-    "tags": [
-      "transport"
-    ]
-  },
-  {
-    "id": "vn5_199",
-    "word": "単語199",
-    "reading": "たんご199",
-    "meanings": [
-      "word 199"
-    ],
-    "meaningsEs": [
-      "palabra 199"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語199です。",
-      "reading": "これはたんご199です。",
-      "meaning": "This is word 199.",
-      "meaningEs": "Esto es la palabra 199."
-    },
-    "tags": [
-      "body"
-    ]
-  },
-  {
-    "id": "vn5_200",
-    "word": "単語200",
-    "reading": "たんご200",
-    "meanings": [
-      "word 200"
-    ],
-    "meaningsEs": [
-      "palabra 200"
-    ],
-    "partOfSpeech": "noun",
-    "jlptLevel": 5,
-    "exampleSentence": {
-      "japanese": "これは単語200です。",
-      "reading": "これはたんご200です。",
-      "meaning": "This is word 200.",
-      "meaningEs": "Esto es la palabra 200."
-    },
-    "tags": [
-      "colors"
+      "adjective"
     ]
   }
 ]

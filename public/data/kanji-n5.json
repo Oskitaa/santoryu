@@ -13,7 +13,8 @@
       "イツ"
     ],
     "kunReadings": [
-      "ひと.つ"
+      "ひと・つ",
+      "ひと"
     ],
     "strokeCount": 1,
     "jlptLevel": 5,
@@ -21,12 +22,22 @@
     "radicals": [
       "rad_1"
     ],
-    "mnemonic": "Mnemonic for 一",
+    "mnemonic": "Una sola línea horizontal representa el número uno.",
     "exampleWords": [
       {
-        "word": "一 example",
-        "reading": "reading",
-        "meaning": "meaning"
+        "word": "一つ",
+        "reading": "ひとつ",
+        "meaning": "una cosa"
+      },
+      {
+        "word": "一人",
+        "reading": "ひとり",
+        "meaning": "una persona"
+      },
+      {
+        "word": "一日",
+        "reading": "ついたち",
+        "meaning": "primer día del mes"
       }
     ]
   },
@@ -40,23 +51,35 @@
       "dos"
     ],
     "onReadings": [
-      "ニ"
+      "ニ",
+      "ジ"
     ],
     "kunReadings": [
-      "ふた.つ"
+      "ふた・つ",
+      "ふた"
     ],
     "strokeCount": 2,
     "jlptLevel": 5,
     "gradeLevel": 1,
     "radicals": [
-      "rad_1"
+      "rad_2"
     ],
-    "mnemonic": "Mnemonic for 二",
+    "mnemonic": "Dos líneas horizontales representan el número dos.",
     "exampleWords": [
       {
-        "word": "二 example",
-        "reading": "reading",
-        "meaning": "meaning"
+        "word": "二つ",
+        "reading": "ふたつ",
+        "meaning": "dos cosas"
+      },
+      {
+        "word": "二人",
+        "reading": "ふたり",
+        "meaning": "dos personas"
+      },
+      {
+        "word": "二月",
+        "reading": "にがつ",
+        "meaning": "febrero"
       }
     ]
   },
@@ -73,7 +96,8 @@
       "サン"
     ],
     "kunReadings": [
-      "みっ.つ"
+      "みっ・つ",
+      "み"
     ],
     "strokeCount": 3,
     "jlptLevel": 5,
@@ -81,12 +105,22 @@
     "radicals": [
       "rad_1"
     ],
-    "mnemonic": "Mnemonic for 三",
+    "mnemonic": "Tres líneas horizontales representan el número tres.",
     "exampleWords": [
       {
-        "word": "三 example",
-        "reading": "reading",
-        "meaning": "meaning"
+        "word": "三つ",
+        "reading": "みっつ",
+        "meaning": "tres cosas"
+      },
+      {
+        "word": "三人",
+        "reading": "さんにん",
+        "meaning": "tres personas"
+      },
+      {
+        "word": "三月",
+        "reading": "さんがつ",
+        "meaning": "marzo"
       }
     ]
   },
@@ -103,21 +137,32 @@
       "シ"
     ],
     "kunReadings": [
-      "よっ.つ",
-      "よん"
+      "よっ・つ",
+      "よん",
+      "よ"
     ],
-    "strokeCount": 4,
+    "strokeCount": 5,
     "jlptLevel": 5,
     "gradeLevel": 1,
     "radicals": [
-      "rad_1"
+      "rad_box"
     ],
-    "mnemonic": "Mnemonic for 四",
+    "mnemonic": "Una ventana abierta donde se ven cuatro esquinas.",
     "exampleWords": [
       {
-        "word": "四 example",
-        "reading": "reading",
-        "meaning": "meaning"
+        "word": "四つ",
+        "reading": "よっつ",
+        "meaning": "cuatro cosas"
+      },
+      {
+        "word": "四人",
+        "reading": "よにん",
+        "meaning": "cuatro personas"
+      },
+      {
+        "word": "四季",
+        "reading": "しき",
+        "meaning": "cuatro estaciones"
       }
     ]
   },
@@ -134,20 +179,31 @@
       "ゴ"
     ],
     "kunReadings": [
-      "いつ.つ"
+      "いつ・つ",
+      "いつ"
     ],
-    "strokeCount": 5,
+    "strokeCount": 4,
     "jlptLevel": 5,
     "gradeLevel": 1,
     "radicals": [
-      "rad_1"
+      "rad_2"
     ],
-    "mnemonic": "Mnemonic for 五",
+    "mnemonic": "Cinco dedos o una mano estilizada contando cinco.",
     "exampleWords": [
       {
-        "word": "五 example",
-        "reading": "reading",
-        "meaning": "meaning"
+        "word": "五つ",
+        "reading": "いつつ",
+        "meaning": "cinco cosas"
+      },
+      {
+        "word": "五人",
+        "reading": "ごにん",
+        "meaning": "cinco personas"
+      },
+      {
+        "word": "五月",
+        "reading": "ごがつ",
+        "meaning": "mayo"
       }
     ]
   },
@@ -164,20 +220,31 @@
       "ロク"
     ],
     "kunReadings": [
-      "むっ.つ"
+      "むっ・つ",
+      "むい"
     ],
-    "strokeCount": 6,
+    "strokeCount": 4,
     "jlptLevel": 5,
     "gradeLevel": 1,
     "radicals": [
-      "rad_1"
+      "rad_top"
     ],
-    "mnemonic": "Mnemonic for 六",
+    "mnemonic": "Una persona con sombrero y dos piernas abiertas.",
     "exampleWords": [
       {
-        "word": "六 example",
-        "reading": "reading",
-        "meaning": "meaning"
+        "word": "六つ",
+        "reading": "むっつ",
+        "meaning": "seis cosas"
+      },
+      {
+        "word": "六日",
+        "reading": "むいか",
+        "meaning": "día 6 del mes"
+      },
+      {
+        "word": "六月",
+        "reading": "ろくがつ",
+        "meaning": "junio"
       }
     ]
   },
@@ -194,7 +261,9 @@
       "シチ"
     ],
     "kunReadings": [
-      "なな.つ"
+      "なな・つ",
+      "なな",
+      "なの"
     ],
     "strokeCount": 2,
     "jlptLevel": 5,
@@ -202,12 +271,22 @@
     "radicals": [
       "rad_1"
     ],
-    "mnemonic": "Mnemonic for 七",
+    "mnemonic": "Un número 7 al revés cruzado con una espada.",
     "exampleWords": [
       {
-        "word": "七 example",
-        "reading": "reading",
-        "meaning": "meaning"
+        "word": "七つ",
+        "reading": "ななつ",
+        "meaning": "siete cosas"
+      },
+      {
+        "word": "七日",
+        "reading": "なのか",
+        "meaning": "día 7 del mes"
+      },
+      {
+        "word": "七月",
+        "reading": "しちがつ",
+        "meaning": "julio"
       }
     ]
   },
@@ -224,20 +303,32 @@
       "ハチ"
     ],
     "kunReadings": [
-      "やっ.つ"
+      "やっ・つ",
+      "よう",
+      "や"
     ],
     "strokeCount": 2,
     "jlptLevel": 5,
     "gradeLevel": 1,
     "radicals": [
-      "rad_1"
+      "rad_eight"
     ],
-    "mnemonic": "Mnemonic for 八",
+    "mnemonic": "Dos trazos que se abren como un volcán, símbolo de prosperidad.",
     "exampleWords": [
       {
-        "word": "八 example",
-        "reading": "reading",
-        "meaning": "meaning"
+        "word": "八つ",
+        "reading": "やっつ",
+        "meaning": "ocho cosas"
+      },
+      {
+        "word": "八日",
+        "reading": "ようか",
+        "meaning": "día 8 del mes"
+      },
+      {
+        "word": "八百屋",
+        "reading": "やおや",
+        "meaning": "frutería / verdulería"
       }
     ]
   },
@@ -255,7 +346,8 @@
       "ク"
     ],
     "kunReadings": [
-      "ここの.つ"
+      "ここの・つ",
+      "ここの"
     ],
     "strokeCount": 2,
     "jlptLevel": 5,
@@ -263,12 +355,22 @@
     "radicals": [
       "rad_1"
     ],
-    "mnemonic": "Mnemonic for 九",
+    "mnemonic": "Una persona flexionando el brazo mostrando el músculo.",
     "exampleWords": [
       {
-        "word": "九 example",
-        "reading": "reading",
-        "meaning": "meaning"
+        "word": "九つ",
+        "reading": "ここのつ",
+        "meaning": "nueve cosas"
+      },
+      {
+        "word": "九月",
+        "reading": "くがつ",
+        "meaning": "septiembre"
+      },
+      {
+        "word": "九州",
+        "reading": "きゅうしゅう",
+        "meaning": "isla Kyushu"
       }
     ]
   },
@@ -282,23 +384,35 @@
       "diez"
     ],
     "onReadings": [
-      "ジュウ"
+      "ジュウ",
+      "ジッ"
     ],
     "kunReadings": [
-      "とお"
+      "とお",
+      "と"
     ],
     "strokeCount": 2,
     "jlptLevel": 5,
     "gradeLevel": 1,
     "radicals": [
-      "rad_1"
+      "rad_cross"
     ],
-    "mnemonic": "Mnemonic for 十",
+    "mnemonic": "Una cruz que une todas las direcciones, simboliza la perfección del diez.",
     "exampleWords": [
       {
-        "word": "十 example",
-        "reading": "reading",
-        "meaning": "meaning"
+        "word": "十",
+        "reading": "とお",
+        "meaning": "diez cosas"
+      },
+      {
+        "word": "十日",
+        "reading": "とおか",
+        "meaning": "día 10 del mes"
+      },
+      {
+        "word": "十分",
+        "reading": "じゅっぷん",
+        "meaning": "diez minutos"
       }
     ]
   },
@@ -309,7 +423,8 @@
       "hundred"
     ],
     "meaningsEs": [
-      "cien"
+      "cien",
+      "centenar"
     ],
     "onReadings": [
       "ヒャク"
@@ -321,14 +436,24 @@
     "jlptLevel": 5,
     "gradeLevel": 1,
     "radicals": [
-      "rad_1"
+      "rad_white"
     ],
-    "mnemonic": "Mnemonic for 百",
+    "mnemonic": "El número uno sobre el kanji de blanco (白).",
     "exampleWords": [
       {
-        "word": "百 example",
-        "reading": "reading",
-        "meaning": "meaning"
+        "word": "百",
+        "reading": "ひゃく",
+        "meaning": "cien"
+      },
+      {
+        "word": "三百",
+        "reading": "さんびゃく",
+        "meaning": "trescientos"
+      },
+      {
+        "word": "百科事典",
+        "reading": "ひゃっかじてん",
+        "meaning": "enciclopedia"
       }
     ]
   },
@@ -351,14 +476,24 @@
     "jlptLevel": 5,
     "gradeLevel": 1,
     "radicals": [
-      "rad_1"
+      "rad_cross"
     ],
-    "mnemonic": "Mnemonic for 千",
+    "mnemonic": "Una persona (人) con una marca que representa mil.",
     "exampleWords": [
       {
-        "word": "千 example",
-        "reading": "reading",
-        "meaning": "meaning"
+        "word": "千",
+        "reading": "せん",
+        "meaning": "mil"
+      },
+      {
+        "word": "三千",
+        "reading": "さんぜん",
+        "meaning": "tres mil"
+      },
+      {
+        "word": "千葉",
+        "reading": "ちば",
+        "meaning": "Chiba (prefectura)"
       }
     ]
   },
@@ -369,7 +504,8 @@
       "ten thousand"
     ],
     "meaningsEs": [
-      "diez mil"
+      "diez mil",
+      "miríada"
     ],
     "onReadings": [
       "マン",
@@ -380,16 +516,26 @@
     ],
     "strokeCount": 3,
     "jlptLevel": 5,
-    "gradeLevel": 1,
+    "gradeLevel": 2,
     "radicals": [
-      "rad_1"
+      "rad_one"
     ],
-    "mnemonic": "Mnemonic for 万",
+    "mnemonic": "La unidad base de conteo en Japón (10.000).",
     "exampleWords": [
       {
-        "word": "万 example",
-        "reading": "reading",
-        "meaning": "meaning"
+        "word": "一万",
+        "reading": "いちまん",
+        "meaning": "diez mil"
+      },
+      {
+        "word": "万歳",
+        "reading": "ばんざい",
+        "meaning": "¡viva! / diez mil años"
+      },
+      {
+        "word": "万国",
+        "reading": "ばんこく",
+        "meaning": "todas las naciones"
       }
     ]
   },
@@ -401,103 +547,50 @@
       "circle"
     ],
     "meaningsEs": [
-      "yen",
+      "yen (moneda)",
       "círculo"
     ],
     "onReadings": [
       "エン"
     ],
     "kunReadings": [
-      "まる.い"
+      "まる・い"
     ],
     "strokeCount": 4,
     "jlptLevel": 5,
     "gradeLevel": 1,
     "radicals": [
-      "rad_1"
+      "rad_box"
     ],
-    "mnemonic": "Mnemonic for 円",
+    "mnemonic": "Una moneda redonda dentro de una vitrina.",
     "exampleWords": [
       {
-        "word": "円 example",
-        "reading": "reading",
-        "meaning": "meaning"
+        "word": "百円",
+        "reading": "ひゃくえん",
+        "meaning": "100 yenes"
+      },
+      {
+        "word": "円高",
+        "reading": "えんだか",
+        "meaning": "yen fuerte"
+      },
+      {
+        "word": "円い",
+        "reading": "まるい",
+        "meaning": "redondo"
       }
     ]
   },
   {
     "id": "kn5_15",
-    "character": "年",
-    "meanings": [
-      "year"
-    ],
-    "meaningsEs": [
-      "año"
-    ],
-    "onReadings": [
-      "ネン"
-    ],
-    "kunReadings": [
-      "とし"
-    ],
-    "strokeCount": 6,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 年",
-    "exampleWords": [
-      {
-        "word": "年 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_16",
-    "character": "月",
-    "meanings": [
-      "month",
-      "moon"
-    ],
-    "meaningsEs": [
-      "mes",
-      "luna"
-    ],
-    "onReadings": [
-      "ゲツ",
-      "ガツ"
-    ],
-    "kunReadings": [
-      "つき"
-    ],
-    "strokeCount": 4,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 月",
-    "exampleWords": [
-      {
-        "word": "月 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_17",
     "character": "日",
     "meanings": [
-      "day",
-      "sun"
+      "sun",
+      "day"
     ],
     "meaningsEs": [
-      "día",
-      "sol"
+      "sol",
+      "día"
     ],
     "onReadings": [
       "ニチ",
@@ -511,2710 +604,72 @@
     "jlptLevel": 5,
     "gradeLevel": 1,
     "radicals": [
-      "rad_1"
+      "rad_sun"
     ],
-    "mnemonic": "Mnemonic for 日",
+    "mnemonic": "Un dibujo del sol brillando en el cielo con su centro.",
     "exampleWords": [
       {
-        "word": "日 example",
-        "reading": "reading",
-        "meaning": "meaning"
+        "word": "日本",
+        "reading": "にほん",
+        "meaning": "Japón (origen del sol)"
+      },
+      {
+        "word": "日曜日",
+        "reading": "にちようび",
+        "meaning": "domingo"
+      },
+      {
+        "word": "今日",
+        "reading": "きょう",
+        "meaning": "hoy"
       }
     ]
   },
   {
-    "id": "kn5_18",
-    "character": "時",
+    "id": "kn5_16",
+    "character": "月",
     "meanings": [
-      "time",
-      "hour"
+      "moon",
+      "month"
     ],
     "meaningsEs": [
-      "tiempo",
-      "hora"
+      "luna",
+      "mes"
     ],
     "onReadings": [
-      "ジ"
+      "ゲツ",
+      "ガツ"
     ],
     "kunReadings": [
-      "とき"
-    ],
-    "strokeCount": 10,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 時",
-    "exampleWords": [
-      {
-        "word": "時 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_19",
-    "character": "分",
-    "meanings": [
-      "minute",
-      "part"
-    ],
-    "meaningsEs": [
-      "minuto",
-      "parte"
-    ],
-    "onReadings": [
-      "ブン",
-      "フン",
-      "ブ"
-    ],
-    "kunReadings": [
-      "わ.かる"
+      "つき"
     ],
     "strokeCount": 4,
     "jlptLevel": 5,
     "gradeLevel": 1,
     "radicals": [
-      "rad_1"
+      "rad_moon"
     ],
-    "mnemonic": "Mnemonic for 分",
+    "mnemonic": "Una luna creciente con dos nubes cruzándola.",
     "exampleWords": [
       {
-        "word": "分 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_20",
-    "character": "半",
-    "meanings": [
-      "half"
-    ],
-    "meaningsEs": [
-      "mitad"
-    ],
-    "onReadings": [
-      "ハン"
-    ],
-    "kunReadings": [
-      "なか.ば"
-    ],
-    "strokeCount": 5,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 半",
-    "exampleWords": [
-      {
-        "word": "半 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_21",
-    "character": "今",
-    "meanings": [
-      "now"
-    ],
-    "meaningsEs": [
-      "ahora"
-    ],
-    "onReadings": [
-      "コン",
-      "キン"
-    ],
-    "kunReadings": [
-      "いま"
-    ],
-    "strokeCount": 4,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 今",
-    "exampleWords": [
-      {
-        "word": "今 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_22",
-    "character": "何",
-    "meanings": [
-      "what"
-    ],
-    "meaningsEs": [
-      "qué"
-    ],
-    "onReadings": [
-      "カ"
-    ],
-    "kunReadings": [
-      "なに",
-      "なん"
-    ],
-    "strokeCount": 7,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 何",
-    "exampleWords": [
-      {
-        "word": "何 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_23",
-    "character": "前",
-    "meanings": [
-      "in front",
-      "before"
-    ],
-    "meaningsEs": [
-      "antes",
-      "delante"
-    ],
-    "onReadings": [
-      "ゼン"
-    ],
-    "kunReadings": [
-      "まえ"
-    ],
-    "strokeCount": 9,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 前",
-    "exampleWords": [
-      {
-        "word": "前 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_24",
-    "character": "後",
-    "meanings": [
-      "behind",
-      "after"
-    ],
-    "meaningsEs": [
-      "después",
-      "detrás"
-    ],
-    "onReadings": [
-      "ゴ",
-      "コウ"
-    ],
-    "kunReadings": [
-      "のち",
-      "うし.ろ",
-      "あと"
-    ],
-    "strokeCount": 9,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 後",
-    "exampleWords": [
-      {
-        "word": "後 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_25",
-    "character": "午",
-    "meanings": [
-      "noon"
-    ],
-    "meaningsEs": [
-      "mediodía"
-    ],
-    "onReadings": [
-      "ゴ"
-    ],
-    "kunReadings": [
-      "うま"
-    ],
-    "strokeCount": 4,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 午",
-    "exampleWords": [
-      {
-        "word": "午 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_26",
-    "character": "上",
-    "meanings": [
-      "above",
-      "up"
-    ],
-    "meaningsEs": [
-      "arriba"
-    ],
-    "onReadings": [
-      "ジョウ",
-      "ショウ"
-    ],
-    "kunReadings": [
-      "うえ",
-      "あ.がる"
-    ],
-    "strokeCount": 3,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 上",
-    "exampleWords": [
-      {
-        "word": "上 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_27",
-    "character": "下",
-    "meanings": [
-      "below",
-      "down"
-    ],
-    "meaningsEs": [
-      "abajo"
-    ],
-    "onReadings": [
-      "カ",
-      "ゲ"
-    ],
-    "kunReadings": [
-      "した",
-      "さ.がる"
-    ],
-    "strokeCount": 3,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 下",
-    "exampleWords": [
-      {
-        "word": "下 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_28",
-    "character": "中",
-    "meanings": [
-      "inside",
-      "middle"
-    ],
-    "meaningsEs": [
-      "medio",
-      "adentro"
-    ],
-    "onReadings": [
-      "チュウ"
-    ],
-    "kunReadings": [
-      "なか"
-    ],
-    "strokeCount": 4,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 中",
-    "exampleWords": [
-      {
-        "word": "中 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_29",
-    "character": "外",
-    "meanings": [
-      "outside"
-    ],
-    "meaningsEs": [
-      "afuera"
-    ],
-    "onReadings": [
-      "ガイ",
-      "ゲ"
-    ],
-    "kunReadings": [
-      "そと",
-      "ほか",
-      "はず.れる"
-    ],
-    "strokeCount": 5,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 外",
-    "exampleWords": [
-      {
-        "word": "外 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_30",
-    "character": "右",
-    "meanings": [
-      "right"
-    ],
-    "meaningsEs": [
-      "derecha"
-    ],
-    "onReadings": [
-      "ユウ",
-      "ウ"
-    ],
-    "kunReadings": [
-      "みぎ"
-    ],
-    "strokeCount": 5,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 右",
-    "exampleWords": [
-      {
-        "word": "右 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_31",
-    "character": "左",
-    "meanings": [
-      "left"
-    ],
-    "meaningsEs": [
-      "izquierda"
-    ],
-    "onReadings": [
-      "サ"
-    ],
-    "kunReadings": [
-      "ひだり"
-    ],
-    "strokeCount": 5,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 左",
-    "exampleWords": [
-      {
-        "word": "左 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_32",
-    "character": "北",
-    "meanings": [
-      "north"
-    ],
-    "meaningsEs": [
-      "norte"
-    ],
-    "onReadings": [
-      "ホク"
-    ],
-    "kunReadings": [
-      "きた"
-    ],
-    "strokeCount": 5,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 北",
-    "exampleWords": [
-      {
-        "word": "北 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_33",
-    "character": "南",
-    "meanings": [
-      "south"
-    ],
-    "meaningsEs": [
-      "sur"
-    ],
-    "onReadings": [
-      "ナン"
-    ],
-    "kunReadings": [
-      "みなみ"
-    ],
-    "strokeCount": 9,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 南",
-    "exampleWords": [
-      {
-        "word": "南 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_34",
-    "character": "東",
-    "meanings": [
-      "east"
-    ],
-    "meaningsEs": [
-      "este"
-    ],
-    "onReadings": [
-      "トウ"
-    ],
-    "kunReadings": [
-      "ひがし"
-    ],
-    "strokeCount": 8,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 東",
-    "exampleWords": [
-      {
-        "word": "東 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_35",
-    "character": "西",
-    "meanings": [
-      "west"
-    ],
-    "meaningsEs": [
-      "oeste"
-    ],
-    "onReadings": [
-      "セイ",
-      "サイ"
-    ],
-    "kunReadings": [
-      "にし"
-    ],
-    "strokeCount": 6,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 西",
-    "exampleWords": [
-      {
-        "word": "西 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_36",
-    "character": "大",
-    "meanings": [
-      "large",
-      "big"
-    ],
-    "meaningsEs": [
-      "grande"
-    ],
-    "onReadings": [
-      "ダイ",
-      "タイ"
-    ],
-    "kunReadings": [
-      "おお.きい"
-    ],
-    "strokeCount": 3,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 大",
-    "exampleWords": [
-      {
-        "word": "大 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_37",
-    "character": "小",
-    "meanings": [
-      "small",
-      "little"
-    ],
-    "meaningsEs": [
-      "pequeño"
-    ],
-    "onReadings": [
-      "ショウ"
-    ],
-    "kunReadings": [
-      "ちい.さい",
-      "こ",
-      "お"
-    ],
-    "strokeCount": 3,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 小",
-    "exampleWords": [
-      {
-        "word": "小 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_38",
-    "character": "高",
-    "meanings": [
-      "tall",
-      "high",
-      "expensive"
-    ],
-    "meaningsEs": [
-      "alto",
-      "caro"
-    ],
-    "onReadings": [
-      "コウ"
-    ],
-    "kunReadings": [
-      "たか.い"
-    ],
-    "strokeCount": 10,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 高",
-    "exampleWords": [
-      {
-        "word": "高 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_39",
-    "character": "安",
-    "meanings": [
-      "cheap",
-      "safe"
-    ],
-    "meaningsEs": [
-      "barato",
-      "seguro"
-    ],
-    "onReadings": [
-      "アン"
-    ],
-    "kunReadings": [
-      "やす.い"
-    ],
-    "strokeCount": 6,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 安",
-    "exampleWords": [
-      {
-        "word": "安 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_40",
-    "character": "新",
-    "meanings": [
-      "new"
-    ],
-    "meaningsEs": [
-      "nuevo"
-    ],
-    "onReadings": [
-      "シン"
-    ],
-    "kunReadings": [
-      "あたら.しい",
-      "あら.た"
-    ],
-    "strokeCount": 13,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 新",
-    "exampleWords": [
-      {
-        "word": "新 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_41",
-    "character": "古",
-    "meanings": [
-      "old"
-    ],
-    "meaningsEs": [
-      "viejo"
-    ],
-    "onReadings": [
-      "コ"
-    ],
-    "kunReadings": [
-      "ふる.い"
-    ],
-    "strokeCount": 5,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 古",
-    "exampleWords": [
-      {
-        "word": "古 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_42",
-    "character": "長",
-    "meanings": [
-      "long",
-      "leader"
-    ],
-    "meaningsEs": [
-      "largo",
-      "líder"
-    ],
-    "onReadings": [
-      "チョウ"
-    ],
-    "kunReadings": [
-      "なが.い"
-    ],
-    "strokeCount": 8,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 長",
-    "exampleWords": [
-      {
-        "word": "長 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_43",
-    "character": "短",
-    "meanings": [
-      "short"
-    ],
-    "meaningsEs": [
-      "corto"
-    ],
-    "onReadings": [
-      "タン"
-    ],
-    "kunReadings": [
-      "みじか.い"
-    ],
-    "strokeCount": 12,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 短",
-    "exampleWords": [
-      {
-        "word": "短 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_44",
-    "character": "多",
-    "meanings": [
-      "many",
-      "much"
-    ],
-    "meaningsEs": [
-      "muchos"
-    ],
-    "onReadings": [
-      "タ"
-    ],
-    "kunReadings": [
-      "おお.い"
-    ],
-    "strokeCount": 6,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 多",
-    "exampleWords": [
-      {
-        "word": "多 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_45",
-    "character": "少",
-    "meanings": [
-      "few",
-      "a little"
-    ],
-    "meaningsEs": [
-      "pocos",
-      "un poco"
-    ],
-    "onReadings": [
-      "ショウ"
-    ],
-    "kunReadings": [
-      "すく.ない",
-      "すこ.し"
-    ],
-    "strokeCount": 4,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 少",
-    "exampleWords": [
-      {
-        "word": "少 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_46",
-    "character": "早",
-    "meanings": [
-      "early",
-      "fast"
-    ],
-    "meaningsEs": [
-      "temprano",
-      "rápido"
-    ],
-    "onReadings": [
-      "ソウ",
-      "サッ"
-    ],
-    "kunReadings": [
-      "はや.い"
-    ],
-    "strokeCount": 6,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 早",
-    "exampleWords": [
-      {
-        "word": "早 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_47",
-    "character": "遠",
-    "meanings": [
-      "distant",
-      "far"
-    ],
-    "meaningsEs": [
-      "lejos"
-    ],
-    "onReadings": [
-      "エン",
-      "オン"
-    ],
-    "kunReadings": [
-      "とお.い"
-    ],
-    "strokeCount": 13,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 遠",
-    "exampleWords": [
-      {
-        "word": "遠 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_48",
-    "character": "近",
-    "meanings": [
-      "near",
-      "close"
-    ],
-    "meaningsEs": [
-      "cerca"
-    ],
-    "onReadings": [
-      "キン",
-      "コン"
-    ],
-    "kunReadings": [
-      "ちか.い"
-    ],
-    "strokeCount": 7,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 近",
-    "exampleWords": [
-      {
-        "word": "近 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_49",
-    "character": "明",
-    "meanings": [
-      "bright",
-      "light"
-    ],
-    "meaningsEs": [
-      "claro",
-      "brillante"
-    ],
-    "onReadings": [
-      "メイ",
-      "ミョウ"
-    ],
-    "kunReadings": [
-      "あか.るい",
-      "あ.ける"
-    ],
-    "strokeCount": 8,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 明",
-    "exampleWords": [
-      {
-        "word": "明 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_50",
-    "character": "暗",
-    "meanings": [
-      "dark"
-    ],
-    "meaningsEs": [
-      "oscuro"
-    ],
-    "onReadings": [
-      "アン"
-    ],
-    "kunReadings": [
-      "くら.い"
-    ],
-    "strokeCount": 13,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 暗",
-    "exampleWords": [
-      {
-        "word": "暗 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_51",
-    "character": "白",
-    "meanings": [
-      "white"
-    ],
-    "meaningsEs": [
-      "blanco"
-    ],
-    "onReadings": [
-      "ハク",
-      "ビャク"
-    ],
-    "kunReadings": [
-      "しろ",
-      "しら"
-    ],
-    "strokeCount": 5,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 白",
-    "exampleWords": [
-      {
-        "word": "白 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_52",
-    "character": "黒",
-    "meanings": [
-      "black"
-    ],
-    "meaningsEs": [
-      "negro"
-    ],
-    "onReadings": [
-      "コク"
-    ],
-    "kunReadings": [
-      "くろ"
-    ],
-    "strokeCount": 11,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 黒",
-    "exampleWords": [
-      {
-        "word": "黒 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_53",
-    "character": "赤",
-    "meanings": [
-      "red"
-    ],
-    "meaningsEs": [
-      "rojo"
-    ],
-    "onReadings": [
-      "セキ",
-      "シャク"
-    ],
-    "kunReadings": [
-      "あか"
-    ],
-    "strokeCount": 7,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 赤",
-    "exampleWords": [
-      {
-        "word": "赤 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_54",
-    "character": "青",
-    "meanings": [
-      "blue"
-    ],
-    "meaningsEs": [
-      "azul"
-    ],
-    "onReadings": [
-      "セイ",
-      "ショウ"
-    ],
-    "kunReadings": [
-      "あお"
-    ],
-    "strokeCount": 8,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 青",
-    "exampleWords": [
-      {
-        "word": "青 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_55",
-    "character": "電",
-    "meanings": [
-      "electricity"
-    ],
-    "meaningsEs": [
-      "electricidad"
-    ],
-    "onReadings": [
-      "デン"
-    ],
-    "kunReadings": [
-      ""
-    ],
-    "strokeCount": 13,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 電",
-    "exampleWords": [
-      {
-        "word": "電 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_56",
-    "character": "車",
-    "meanings": [
-      "car",
-      "wheel"
-    ],
-    "meaningsEs": [
-      "coche",
-      "rueda"
-    ],
-    "onReadings": [
-      "シャ"
-    ],
-    "kunReadings": [
-      "くるま"
-    ],
-    "strokeCount": 7,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 車",
-    "exampleWords": [
-      {
-        "word": "車 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_57",
-    "character": "駅",
-    "meanings": [
-      "station"
-    ],
-    "meaningsEs": [
-      "estación"
-    ],
-    "onReadings": [
-      "エキ"
-    ],
-    "kunReadings": [
-      ""
-    ],
-    "strokeCount": 14,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 駅",
-    "exampleWords": [
-      {
-        "word": "駅 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_58",
-    "character": "道",
-    "meanings": [
-      "road",
-      "way"
-    ],
-    "meaningsEs": [
-      "camino",
-      "vía"
-    ],
-    "onReadings": [
-      "ドウ",
-      "トウ"
-    ],
-    "kunReadings": [
-      "みち"
-    ],
-    "strokeCount": 12,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 道",
-    "exampleWords": [
-      {
-        "word": "道 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_59",
-    "character": "店",
-    "meanings": [
-      "shop",
-      "store"
-    ],
-    "meaningsEs": [
-      "tienda"
-    ],
-    "onReadings": [
-      "テン"
-    ],
-    "kunReadings": [
-      "みせ"
-    ],
-    "strokeCount": 8,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 店",
-    "exampleWords": [
-      {
-        "word": "店 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_60",
-    "character": "学",
-    "meanings": [
-      "study",
-      "learning"
-    ],
-    "meaningsEs": [
-      "estudio",
-      "aprender"
-    ],
-    "onReadings": [
-      "ガク"
-    ],
-    "kunReadings": [
-      "まな.ぶ"
-    ],
-    "strokeCount": 8,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 学",
-    "exampleWords": [
-      {
-        "word": "学 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_61",
-    "character": "校",
-    "meanings": [
-      "school"
-    ],
-    "meaningsEs": [
-      "escuela"
-    ],
-    "onReadings": [
-      "コウ"
-    ],
-    "kunReadings": [
-      ""
-    ],
-    "strokeCount": 10,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 校",
-    "exampleWords": [
-      {
-        "word": "校 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_62",
-    "character": "先",
-    "meanings": [
-      "before",
-      "ahead"
-    ],
-    "meaningsEs": [
-      "antes",
-      "futuro"
-    ],
-    "onReadings": [
-      "セン"
-    ],
-    "kunReadings": [
-      "さき"
-    ],
-    "strokeCount": 6,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 先",
-    "exampleWords": [
-      {
-        "word": "先 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_63",
-    "character": "生",
-    "meanings": [
-      "life",
-      "birth"
-    ],
-    "meaningsEs": [
-      "vida",
-      "nacimiento"
-    ],
-    "onReadings": [
-      "セイ",
-      "ショウ"
-    ],
-    "kunReadings": [
-      "い.きる",
-      "う.む",
-      "なま"
-    ],
-    "strokeCount": 5,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 生",
-    "exampleWords": [
-      {
-        "word": "生 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_64",
-    "character": "友",
-    "meanings": [
-      "friend"
-    ],
-    "meaningsEs": [
-      "amigo"
-    ],
-    "onReadings": [
-      "ユウ"
-    ],
-    "kunReadings": [
-      "とも"
-    ],
-    "strokeCount": 4,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 友",
-    "exampleWords": [
-      {
-        "word": "友 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_65",
-    "character": "父",
-    "meanings": [
-      "father"
-    ],
-    "meaningsEs": [
-      "padre"
-    ],
-    "onReadings": [
-      "フ"
-    ],
-    "kunReadings": [
-      "ちち"
-    ],
-    "strokeCount": 4,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 父",
-    "exampleWords": [
-      {
-        "word": "父 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_66",
-    "character": "母",
-    "meanings": [
-      "mother"
-    ],
-    "meaningsEs": [
-      "madre"
-    ],
-    "onReadings": [
-      "ボ"
-    ],
-    "kunReadings": [
-      "はは"
-    ],
-    "strokeCount": 5,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 母",
-    "exampleWords": [
-      {
-        "word": "母 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_67",
-    "character": "兄",
-    "meanings": [
-      "older brother"
-    ],
-    "meaningsEs": [
-      "hermano mayor"
-    ],
-    "onReadings": [
-      "ケイ",
-      "キョウ"
-    ],
-    "kunReadings": [
-      "あに"
-    ],
-    "strokeCount": 5,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 兄",
-    "exampleWords": [
-      {
-        "word": "兄 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_68",
-    "character": "姉",
-    "meanings": [
-      "older sister"
-    ],
-    "meaningsEs": [
-      "hermana mayor"
-    ],
-    "onReadings": [
-      "シ"
-    ],
-    "kunReadings": [
-      "あね"
-    ],
-    "strokeCount": 8,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 姉",
-    "exampleWords": [
-      {
-        "word": "姉 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_69",
-    "character": "弟",
-    "meanings": [
-      "younger brother"
-    ],
-    "meaningsEs": [
-      "hermano menor"
-    ],
-    "onReadings": [
-      "テイ",
-      "ダイ"
-    ],
-    "kunReadings": [
-      "おとうと"
-    ],
-    "strokeCount": 7,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 弟",
-    "exampleWords": [
-      {
-        "word": "弟 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_70",
-    "character": "妹",
-    "meanings": [
-      "younger sister"
-    ],
-    "meaningsEs": [
-      "hermana menor"
-    ],
-    "onReadings": [
-      "マイ"
-    ],
-    "kunReadings": [
-      "いもうと"
-    ],
-    "strokeCount": 8,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 妹",
-    "exampleWords": [
-      {
-        "word": "妹 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_71",
-    "character": "子",
-    "meanings": [
-      "child"
-    ],
-    "meaningsEs": [
-      "niño"
-    ],
-    "onReadings": [
-      "シ",
-      "ス"
-    ],
-    "kunReadings": [
-      "こ"
-    ],
-    "strokeCount": 3,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 子",
-    "exampleWords": [
-      {
-        "word": "子 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_72",
-    "character": "女",
-    "meanings": [
-      "woman",
-      "female"
-    ],
-    "meaningsEs": [
-      "mujer"
-    ],
-    "onReadings": [
-      "ジョ",
-      "ニョ"
-    ],
-    "kunReadings": [
-      "おんな",
-      "め"
-    ],
-    "strokeCount": 3,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 女",
-    "exampleWords": [
-      {
-        "word": "女 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_73",
-    "character": "男",
-    "meanings": [
-      "man",
-      "male"
-    ],
-    "meaningsEs": [
-      "hombre"
-    ],
-    "onReadings": [
-      "ダン",
-      "ナン"
-    ],
-    "kunReadings": [
-      "おとこ"
-    ],
-    "strokeCount": 7,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 男",
-    "exampleWords": [
-      {
-        "word": "男 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_74",
-    "character": "人",
-    "meanings": [
-      "person"
-    ],
-    "meaningsEs": [
-      "persona"
-    ],
-    "onReadings": [
-      "ジン",
-      "ニン"
-    ],
-    "kunReadings": [
-      "ひと"
-    ],
-    "strokeCount": 2,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 人",
-    "exampleWords": [
-      {
-        "word": "人 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_75",
-    "character": "名",
-    "meanings": [
-      "name",
-      "distinguished"
-    ],
-    "meaningsEs": [
-      "nombre"
-    ],
-    "onReadings": [
-      "メイ",
-      "ミョウ"
-    ],
-    "kunReadings": [
-      "な"
-    ],
-    "strokeCount": 6,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 名",
-    "exampleWords": [
-      {
-        "word": "名 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_76",
-    "character": "国",
-    "meanings": [
-      "country"
-    ],
-    "meaningsEs": [
-      "país"
-    ],
-    "onReadings": [
-      "コク"
-    ],
-    "kunReadings": [
-      "くに"
-    ],
-    "strokeCount": 8,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 国",
-    "exampleWords": [
-      {
-        "word": "国 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_77",
-    "character": "語",
-    "meanings": [
-      "word",
-      "language",
-      "tell"
-    ],
-    "meaningsEs": [
-      "idioma",
-      "palabra"
-    ],
-    "onReadings": [
-      "ゴ"
-    ],
-    "kunReadings": [
-      "かた.る"
-    ],
-    "strokeCount": 14,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 語",
-    "exampleWords": [
-      {
-        "word": "語 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_78",
-    "character": "英",
-    "meanings": [
-      "English",
-      "excellent"
-    ],
-    "meaningsEs": [
-      "inglés",
-      "excelente"
-    ],
-    "onReadings": [
-      "エイ"
-    ],
-    "kunReadings": [
-      ""
-    ],
-    "strokeCount": 8,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 英",
-    "exampleWords": [
-      {
-        "word": "英 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_79",
-    "character": "話",
-    "meanings": [
-      "tale",
-      "talk"
-    ],
-    "meaningsEs": [
-      "hablar",
-      "cuento"
-    ],
-    "onReadings": [
-      "ワ"
-    ],
-    "kunReadings": [
-      "はな.す",
-      "はなし"
-    ],
-    "strokeCount": 13,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 話",
-    "exampleWords": [
-      {
-        "word": "話 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_80",
-    "character": "読",
-    "meanings": [
-      "read"
-    ],
-    "meaningsEs": [
-      "leer"
-    ],
-    "onReadings": [
-      "ドク",
-      "トク",
-      "トウ"
-    ],
-    "kunReadings": [
-      "よ.む"
-    ],
-    "strokeCount": 14,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 読",
-    "exampleWords": [
-      {
-        "word": "読 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_81",
-    "character": "書",
-    "meanings": [
-      "write"
-    ],
-    "meaningsEs": [
-      "escribir"
-    ],
-    "onReadings": [
-      "ショ"
-    ],
-    "kunReadings": [
-      "か.く"
-    ],
-    "strokeCount": 10,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 書",
-    "exampleWords": [
-      {
-        "word": "書 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_82",
-    "character": "聞",
-    "meanings": [
-      "hear",
-      "ask",
-      "listen"
-    ],
-    "meaningsEs": [
-      "escuchar",
-      "preguntar"
-    ],
-    "onReadings": [
-      "ブン",
-      "モン"
-    ],
-    "kunReadings": [
-      "き.く",
-      "き.こえる"
-    ],
-    "strokeCount": 14,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 聞",
-    "exampleWords": [
-      {
-        "word": "聞 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_83",
-    "character": "見",
-    "meanings": [
-      "see",
-      "look"
-    ],
-    "meaningsEs": [
-      "ver",
-      "mirar"
-    ],
-    "onReadings": [
-      "ケン"
-    ],
-    "kunReadings": [
-      "み.る",
-      "み.える",
-      "み.せる"
-    ],
-    "strokeCount": 7,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 見",
-    "exampleWords": [
-      {
-        "word": "見 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_84",
-    "character": "食",
-    "meanings": [
-      "eat",
-      "food"
-    ],
-    "meaningsEs": [
-      "comer",
-      "comida"
-    ],
-    "onReadings": [
-      "ショク",
-      "ジキ"
-    ],
-    "kunReadings": [
-      "く.う",
-      "た.べる"
-    ],
-    "strokeCount": 9,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 食",
-    "exampleWords": [
-      {
-        "word": "食 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_85",
-    "character": "飲",
-    "meanings": [
-      "drink"
-    ],
-    "meaningsEs": [
-      "beber"
-    ],
-    "onReadings": [
-      "イン",
-      "オン"
-    ],
-    "kunReadings": [
-      "の.む"
-    ],
-    "strokeCount": 12,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 飲",
-    "exampleWords": [
-      {
-        "word": "飲 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_86",
-    "character": "行",
-    "meanings": [
-      "go",
-      "journey"
-    ],
-    "meaningsEs": [
-      "ir"
-    ],
-    "onReadings": [
-      "コウ",
-      "ギョウ"
-    ],
-    "kunReadings": [
-      "い.く",
-      "ゆ.く",
-      "おこな.う"
-    ],
-    "strokeCount": 6,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 行",
-    "exampleWords": [
-      {
-        "word": "行 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_87",
-    "character": "来",
-    "meanings": [
-      "come",
-      "next"
-    ],
-    "meaningsEs": [
-      "venir"
-    ],
-    "onReadings": [
-      "ライ"
-    ],
-    "kunReadings": [
-      "く.る",
-      "きた.る"
-    ],
-    "strokeCount": 7,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 来",
-    "exampleWords": [
-      {
-        "word": "来 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_88",
-    "character": "帰",
-    "meanings": [
-      "return"
-    ],
-    "meaningsEs": [
-      "regresar"
-    ],
-    "onReadings": [
-      "キ"
-    ],
-    "kunReadings": [
-      "かえ.る"
-    ],
-    "strokeCount": 10,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 帰",
-    "exampleWords": [
-      {
-        "word": "帰 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_89",
-    "character": "入",
-    "meanings": [
-      "enter",
-      "insert"
-    ],
-    "meaningsEs": [
-      "entrar",
-      "insertar"
-    ],
-    "onReadings": [
-      "ニュウ"
-    ],
-    "kunReadings": [
-      "い.る",
-      "はい.る",
-      "い.れる"
-    ],
-    "strokeCount": 2,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 入",
-    "exampleWords": [
-      {
-        "word": "入 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_90",
-    "character": "出",
-    "meanings": [
-      "exit",
-      "leave"
-    ],
-    "meaningsEs": [
-      "salir"
-    ],
-    "onReadings": [
-      "シュツ",
-      "スイ"
-    ],
-    "kunReadings": [
-      "で.る",
-      "だ.す"
-    ],
-    "strokeCount": 5,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 出",
-    "exampleWords": [
-      {
-        "word": "出 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_91",
-    "character": "立",
-    "meanings": [
-      "stand up"
-    ],
-    "meaningsEs": [
-      "ponerse de pie"
-    ],
-    "onReadings": [
-      "リツ",
-      "リュウ"
-    ],
-    "kunReadings": [
-      "た.つ",
-      "た.てる"
-    ],
-    "strokeCount": 5,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 立",
-    "exampleWords": [
-      {
-        "word": "立 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_92",
-    "character": "休",
-    "meanings": [
-      "rest",
-      "day off"
-    ],
-    "meaningsEs": [
-      "descansar"
-    ],
-    "onReadings": [
-      "キュウ"
-    ],
-    "kunReadings": [
-      "やす.む"
-    ],
-    "strokeCount": 6,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 休",
-    "exampleWords": [
-      {
-        "word": "休 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_93",
-    "character": "買",
-    "meanings": [
-      "buy"
-    ],
-    "meaningsEs": [
-      "comprar"
-    ],
-    "onReadings": [
-      "バイ"
-    ],
-    "kunReadings": [
-      "か.う"
-    ],
-    "strokeCount": 12,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 買",
-    "exampleWords": [
-      {
-        "word": "買 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_94",
-    "character": "会",
-    "meanings": [
-      "meeting",
-      "meet"
-    ],
-    "meaningsEs": [
-      "reunión",
-      "encontrarse"
-    ],
-    "onReadings": [
-      "カイ",
-      "エ"
-    ],
-    "kunReadings": [
-      "あ.う"
-    ],
-    "strokeCount": 6,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 会",
-    "exampleWords": [
-      {
-        "word": "会 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_95",
-    "character": "間",
-    "meanings": [
-      "interval",
-      "space"
-    ],
-    "meaningsEs": [
-      "espacio",
-      "intervalo"
-    ],
-    "onReadings": [
-      "カン",
-      "ケン"
-    ],
-    "kunReadings": [
-      "あいだ",
-      "ま"
-    ],
-    "strokeCount": 12,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 間",
-    "exampleWords": [
-      {
-        "word": "間 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_96",
-    "character": "天",
-    "meanings": [
-      "heavens",
-      "sky"
-    ],
-    "meaningsEs": [
-      "cielo"
-    ],
-    "onReadings": [
-      "テン"
-    ],
-    "kunReadings": [
-      "あまつ"
-    ],
-    "strokeCount": 4,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 天",
-    "exampleWords": [
+        "word": "月曜日",
+        "reading": "げつようび",
+        "meaning": "lunes"
+      },
       {
-        "word": "天 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_97",
-    "character": "気",
-    "meanings": [
-      "spirit",
-      "mind",
-      "air"
-    ],
-    "meaningsEs": [
-      "espíritu",
-      "aire"
-    ],
-    "onReadings": [
-      "キ",
-      "ケ"
-    ],
-    "kunReadings": [
-      "いき"
-    ],
-    "strokeCount": 6,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 気",
-    "exampleWords": [
-      {
-        "word": "気 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_98",
-    "character": "雨",
-    "meanings": [
-      "rain"
-    ],
-    "meaningsEs": [
-      "lluvia"
-    ],
-    "onReadings": [
-      "ウ"
-    ],
-    "kunReadings": [
-      "あめ",
-      "あま"
-    ],
-    "strokeCount": 8,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 雨",
-    "exampleWords": [
-      {
-        "word": "雨 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_99",
-    "character": "花",
-    "meanings": [
-      "flower"
-    ],
-    "meaningsEs": [
-      "flor"
-    ],
-    "onReadings": [
-      "カ"
-    ],
-    "kunReadings": [
-      "はな"
-    ],
-    "strokeCount": 7,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 花",
-    "exampleWords": [
-      {
-        "word": "花 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_100",
-    "character": "山",
-    "meanings": [
-      "mountain"
-    ],
-    "meaningsEs": [
-      "montaña"
-    ],
-    "onReadings": [
-      "サン"
-    ],
-    "kunReadings": [
-      "やま"
-    ],
-    "strokeCount": 3,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 山",
-    "exampleWords": [
-      {
-        "word": "山 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_101",
-    "character": "川",
-    "meanings": [
-      "river",
-      "stream"
-    ],
-    "meaningsEs": [
-      "río"
-    ],
-    "onReadings": [
-      "セン"
-    ],
-    "kunReadings": [
-      "かわ"
-    ],
-    "strokeCount": 3,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 川",
-    "exampleWords": [
-      {
-        "word": "川 example",
-        "reading": "reading",
-        "meaning": "meaning"
-      }
-    ]
-  },
-  {
-    "id": "kn5_102",
-    "character": "海",
-    "meanings": [
-      "sea",
-      "ocean"
-    ],
-    "meaningsEs": [
-      "mar"
-    ],
-    "onReadings": [
-      "カイ"
-    ],
-    "kunReadings": [
-      "うみ"
-    ],
-    "strokeCount": 9,
-    "jlptLevel": 5,
-    "gradeLevel": 1,
-    "radicals": [
-      "rad_1"
-    ],
-    "mnemonic": "Mnemonic for 海",
-    "exampleWords": [
+        "word": "今月",
+        "reading": "こんげつ",
+        "meaning": "este mes"
+      },
       {
-        "word": "海 example",
-        "reading": "reading",
-        "meaning": "meaning"
+        "word": "毎月",
+        "reading": "まいつき",
+        "meaning": "cada mes"
       }
     ]
   },
   {
-    "id": "kn5_103",
+    "id": "kn5_17",
     "character": "火",
     "meanings": [
       "fire"
@@ -3233,19 +688,29 @@
     "jlptLevel": 5,
     "gradeLevel": 1,
     "radicals": [
-      "rad_1"
+      "rad_fire"
     ],
-    "mnemonic": "Mnemonic for 火",
+    "mnemonic": "Una hoguera con llamas saltando hacia arriba.",
     "exampleWords": [
       {
-        "word": "火 example",
-        "reading": "reading",
-        "meaning": "meaning"
+        "word": "火曜日",
+        "reading": "かようび",
+        "meaning": "martes"
+      },
+      {
+        "word": "火事",
+        "reading": "かじ",
+        "meaning": "incendio"
+      },
+      {
+        "word": "花火",
+        "reading": "はなび",
+        "meaning": "fuegos artificiales"
       }
     ]
   },
   {
-    "id": "kn5_104",
+    "id": "kn5_18",
     "character": "水",
     "meanings": [
       "water"
@@ -3263,19 +728,73 @@
     "jlptLevel": 5,
     "gradeLevel": 1,
     "radicals": [
-      "rad_1"
+      "rad_water"
     ],
-    "mnemonic": "Mnemonic for 水",
+    "mnemonic": "Un arroyo con agua salpicando hacia ambos lados.",
     "exampleWords": [
       {
-        "word": "水 example",
-        "reading": "reading",
-        "meaning": "meaning"
+        "word": "水曜日",
+        "reading": "すいようび",
+        "meaning": "miércoles"
+      },
+      {
+        "word": "水",
+        "reading": "みず",
+        "meaning": "agua"
+      },
+      {
+        "word": "水泳",
+        "reading": "すいえい",
+        "meaning": "natación"
       }
     ]
   },
   {
-    "id": "kn5_105",
+    "id": "kn5_19",
+    "character": "木",
+    "meanings": [
+      "tree",
+      "wood"
+    ],
+    "meaningsEs": [
+      "árbol",
+      "madera"
+    ],
+    "onReadings": [
+      "モク",
+      "ボク"
+    ],
+    "kunReadings": [
+      "き",
+      "こ"
+    ],
+    "strokeCount": 4,
+    "jlptLevel": 5,
+    "gradeLevel": 1,
+    "radicals": [
+      "rad_tree"
+    ],
+    "mnemonic": "Un árbol con su tronco, ramas superiores y raíces.",
+    "exampleWords": [
+      {
+        "word": "木曜日",
+        "reading": "もくようび",
+        "meaning": "jueves"
+      },
+      {
+        "word": "木",
+        "reading": "き",
+        "meaning": "árbol"
+      },
+      {
+        "word": "木材",
+        "reading": "もくざい",
+        "meaning": "madera"
+      }
+    ]
+  },
+  {
+    "id": "kn5_20",
     "character": "金",
     "meanings": [
       "gold",
@@ -3283,7 +802,8 @@
     ],
     "meaningsEs": [
       "oro",
-      "dinero"
+      "dinero",
+      "metal"
     ],
     "onReadings": [
       "キン",
@@ -3297,27 +817,37 @@
     "jlptLevel": 5,
     "gradeLevel": 1,
     "radicals": [
-      "rad_1"
+      "rad_gold"
     ],
-    "mnemonic": "Mnemonic for 金",
+    "mnemonic": "Bajo un tejado se guardan pepitas de oro en la tierra.",
     "exampleWords": [
       {
-        "word": "金 example",
-        "reading": "reading",
-        "meaning": "meaning"
+        "word": "金曜日",
+        "reading": "きんようび",
+        "meaning": "viernes"
+      },
+      {
+        "word": "お金",
+        "reading": "おかね",
+        "meaning": "dinero"
+      },
+      {
+        "word": "金色",
+        "reading": "きんいろ",
+        "meaning": "color dorado"
       }
     ]
   },
   {
-    "id": "kn5_106",
+    "id": "kn5_21",
     "character": "土",
     "meanings": [
       "soil",
-      "earth",
-      "ground"
+      "earth"
     ],
     "meaningsEs": [
-      "tierra"
+      "tierra",
+      "suelo"
     ],
     "onReadings": [
       "ド",
@@ -3330,48 +860,716 @@
     "jlptLevel": 5,
     "gradeLevel": 1,
     "radicals": [
-      "rad_1"
+      "rad_earth"
     ],
-    "mnemonic": "Mnemonic for 土",
+    "mnemonic": "Una pequeña planta brotando de la tierra fértil.",
     "exampleWords": [
       {
-        "word": "土 example",
-        "reading": "reading",
-        "meaning": "meaning"
+        "word": "土曜日",
+        "reading": "どようび",
+        "meaning": "sábado"
+      },
+      {
+        "word": "土地",
+        "reading": "とち",
+        "meaning": "terreno / tierra"
+      },
+      {
+        "word": "お土産",
+        "reading": "おみやげ",
+        "meaning": "recuerdo / souvenir"
       }
     ]
   },
   {
-    "id": "kn5_107",
-    "character": "木",
+    "id": "kn5_22",
+    "character": "人",
     "meanings": [
-      "tree",
-      "wood"
+      "person"
     ],
     "meaningsEs": [
-      "árbol",
-      "madera"
+      "persona"
     ],
     "onReadings": [
-      "ボク",
-      "モク"
+      "ジン",
+      "ニン"
     ],
     "kunReadings": [
-      "き",
-      "こ"
+      "ひと"
     ],
-    "strokeCount": 4,
+    "strokeCount": 2,
     "jlptLevel": 5,
     "gradeLevel": 1,
     "radicals": [
-      "rad_1"
+      "rad_person"
     ],
-    "mnemonic": "Mnemonic for 木",
+    "mnemonic": "Dos piernas de una persona caminando hacia adelante.",
     "exampleWords": [
       {
-        "word": "木 example",
-        "reading": "reading",
-        "meaning": "meaning"
+        "word": "日本人",
+        "reading": "にほんじん",
+        "meaning": "persona japonesa"
+      },
+      {
+        "word": "大人",
+        "reading": "おとな",
+        "meaning": "adulto"
+      },
+      {
+        "word": "人気",
+        "reading": "にんき",
+        "meaning": "popularidad"
+      }
+    ]
+  },
+  {
+    "id": "kn5_23",
+    "character": "男",
+    "meanings": [
+      "man",
+      "male"
+    ],
+    "meaningsEs": [
+      "hombre",
+      "varón"
+    ],
+    "onReadings": [
+      "ダン",
+      "ナン"
+    ],
+    "kunReadings": [
+      "おとこ"
+    ],
+    "strokeCount": 7,
+    "jlptLevel": 5,
+    "gradeLevel": 1,
+    "radicals": [
+      "rad_field",
+      "rad_power"
+    ],
+    "mnemonic": "El poder (力) trabajando en el campo de arroz (田) = un hombre fuerte.",
+    "exampleWords": [
+      {
+        "word": "男の人",
+        "reading": "おとこのひと",
+        "meaning": "hombre"
+      },
+      {
+        "word": "男の子",
+        "reading": "おとこのこ",
+        "meaning": "niño"
+      },
+      {
+        "word": "男性",
+        "reading": "だんせい",
+        "meaning": "masculino"
+      }
+    ]
+  },
+  {
+    "id": "kn5_24",
+    "character": "女",
+    "meanings": [
+      "woman",
+      "female"
+    ],
+    "meaningsEs": [
+      "mujer",
+      "femenino"
+    ],
+    "onReadings": [
+      "ジョ",
+      "ニョ"
+    ],
+    "kunReadings": [
+      "おんな",
+      "め"
+    ],
+    "strokeCount": 3,
+    "jlptLevel": 5,
+    "gradeLevel": 1,
+    "radicals": [
+      "rad_woman"
+    ],
+    "mnemonic": "Una mujer inclinándose con elegancia y respeto.",
+    "exampleWords": [
+      {
+        "word": "女の人",
+        "reading": "おんなのひと",
+        "meaning": "mujer"
+      },
+      {
+        "word": "女の子",
+        "reading": "おんなのこ",
+        "meaning": "niña"
+      },
+      {
+        "word": "女性",
+        "reading": "じょせい",
+        "meaning": "femenino"
+      }
+    ]
+  },
+  {
+    "id": "kn5_25",
+    "character": "子",
+    "meanings": [
+      "child"
+    ],
+    "meaningsEs": [
+      "niño",
+      "hijo"
+    ],
+    "onReadings": [
+      "シ",
+      "ス"
+    ],
+    "kunReadings": [
+      "こ"
+    ],
+    "strokeCount": 3,
+    "jlptLevel": 5,
+    "gradeLevel": 1,
+    "radicals": [
+      "rad_child"
+    ],
+    "mnemonic": "Un bebé con los brazos abiertos pidiendo un abrazo.",
+    "exampleWords": [
+      {
+        "word": "子供",
+        "reading": "こども",
+        "meaning": "niño(s)"
+      },
+      {
+        "word": "電子",
+        "reading": "でんし",
+        "meaning": "electrónico"
+      },
+      {
+        "word": "菓子",
+        "reading": "かし",
+        "meaning": "dulces / golosinas"
+      }
+    ]
+  },
+  {
+    "id": "kn5_26",
+    "character": "学",
+    "meanings": [
+      "study",
+      "learning"
+    ],
+    "meaningsEs": [
+      "estudiar",
+      "aprender"
+    ],
+    "onReadings": [
+      "ガク"
+    ],
+    "kunReadings": [
+      "まな・ぶ"
+    ],
+    "strokeCount": 8,
+    "jlptLevel": 5,
+    "gradeLevel": 1,
+    "radicals": [
+      "rad_child"
+    ],
+    "mnemonic": "Un niño (子) bajo un tejado con chispas de conocimiento aprendiendo.",
+    "exampleWords": [
+      {
+        "word": "学生",
+        "reading": "がくせい",
+        "meaning": "estudiante"
+      },
+      {
+        "word": "学校",
+        "reading": "がっこう",
+        "meaning": "escuela"
+      },
+      {
+        "word": "大学",
+        "reading": "だいがく",
+        "meaning": "universidad"
+      }
+    ]
+  },
+  {
+    "id": "kn5_27",
+    "character": "校",
+    "meanings": [
+      "school"
+    ],
+    "meaningsEs": [
+      "escuela",
+      "colegio"
+    ],
+    "onReadings": [
+      "コウ"
+    ],
+    "kunReadings": [],
+    "strokeCount": 10,
+    "jlptLevel": 5,
+    "gradeLevel": 1,
+    "radicals": [
+      "rad_tree"
+    ],
+    "mnemonic": "Un edificio de madera (木) donde la gente se reúne para estudiar.",
+    "exampleWords": [
+      {
+        "word": "学校",
+        "reading": "がっこう",
+        "meaning": "escuela"
+      },
+      {
+        "word": "高校",
+        "reading": "こうこう",
+        "meaning": "instituto / preparatoria"
+      },
+      {
+        "word": "校長",
+        "reading": "こうちょう",
+        "meaning": "director de escuela"
+      }
+    ]
+  },
+  {
+    "id": "kn5_28",
+    "character": "先",
+    "meanings": [
+      "previous",
+      "ahead"
+    ],
+    "meaningsEs": [
+      "anterior",
+      "antes",
+      "guía"
+    ],
+    "onReadings": [
+      "セン"
+    ],
+    "kunReadings": [
+      "さき",
+      "ま・ず"
+    ],
+    "strokeCount": 6,
+    "jlptLevel": 5,
+    "gradeLevel": 1,
+    "radicals": [
+      "rad_legs"
+    ],
+    "mnemonic": "Alguien que camina por delante guiando a los demás.",
+    "exampleWords": [
+      {
+        "word": "先生",
+        "reading": "せんせい",
+        "meaning": "profesor / maestro"
+      },
+      {
+        "word": "先週",
+        "reading": "せんしゅう",
+        "meaning": "la semana pasada"
+      },
+      {
+        "word": "お先に",
+        "reading": "おさきに",
+        "meaning": "antes / primero"
+      }
+    ]
+  },
+  {
+    "id": "kn5_29",
+    "character": "生",
+    "meanings": [
+      "life",
+      "birth"
+    ],
+    "meaningsEs": [
+      "vida",
+      "nacer",
+      "vivir"
+    ],
+    "onReadings": [
+      "セイ",
+      "ショウ"
+    ],
+    "kunReadings": [
+      "い・きる",
+      "う・まれる",
+      "なま"
+    ],
+    "strokeCount": 5,
+    "jlptLevel": 5,
+    "gradeLevel": 1,
+    "radicals": [
+      "rad_plant"
+    ],
+    "mnemonic": "Un brote verde naciendo de la tierra hacia la luz.",
+    "exampleWords": [
+      {
+        "word": "先生",
+        "reading": "せんせい",
+        "meaning": "profesor"
+      },
+      {
+        "word": "生活",
+        "reading": "せいかつ",
+        "meaning": "vida cotidiana"
+      },
+      {
+        "word": "生きる",
+        "reading": "いきる",
+        "meaning": "vivir"
+      }
+    ]
+  },
+  {
+    "id": "kn5_30",
+    "character": "食",
+    "meanings": [
+      "eat",
+      "food"
+    ],
+    "meaningsEs": [
+      "comer",
+      "comida"
+    ],
+    "onReadings": [
+      "ショク",
+      "ジキ"
+    ],
+    "kunReadings": [
+      "た・べる",
+      "く・う"
+    ],
+    "strokeCount": 9,
+    "jlptLevel": 5,
+    "gradeLevel": 2,
+    "radicals": [
+      "rad_food"
+    ],
+    "mnemonic": "Bajo un tejado hay un plato humeante listo para comer.",
+    "exampleWords": [
+      {
+        "word": "食べる",
+        "reading": "たべる",
+        "meaning": "comer"
+      },
+      {
+        "word": "朝食",
+        "reading": "ちょうしょく",
+        "meaning": "desayuno"
+      },
+      {
+        "word": "食事",
+        "reading": "しょくじ",
+        "meaning": "comida / cena"
+      }
+    ]
+  },
+  {
+    "id": "kn5_31",
+    "character": "飲",
+    "meanings": [
+      "drink"
+    ],
+    "meaningsEs": [
+      "beber",
+      "bebida"
+    ],
+    "onReadings": [
+      "イン"
+    ],
+    "kunReadings": [
+      "の・む"
+    ],
+    "strokeCount": 12,
+    "jlptLevel": 5,
+    "gradeLevel": 3,
+    "radicals": [
+      "rad_food",
+      "rad_yawn"
+    ],
+    "mnemonic": "La comida (食) y una boca abierta bostezando/bebiendo agua.",
+    "exampleWords": [
+      {
+        "word": "飲む",
+        "reading": "のむ",
+        "meaning": "beber"
+      },
+      {
+        "word": "飲み物",
+        "reading": "のみもの",
+        "meaning": "bebida"
+      },
+      {
+        "word": "飲食店",
+        "reading": "いんしょくてん",
+        "meaning": "restaurante / bar"
+      }
+    ]
+  },
+  {
+    "id": "kn5_32",
+    "character": "見",
+    "meanings": [
+      "see",
+      "look"
+    ],
+    "meaningsEs": [
+      "ver",
+      "mirar"
+    ],
+    "onReadings": [
+      "ケン"
+    ],
+    "kunReadings": [
+      "み・る",
+      "み・える",
+      "み・せる"
+    ],
+    "strokeCount": 7,
+    "jlptLevel": 5,
+    "gradeLevel": 1,
+    "radicals": [
+      "rad_eye",
+      "rad_legs"
+    ],
+    "mnemonic": "Un gran ojo (目) con dos piernas caminando para ver el mundo.",
+    "exampleWords": [
+      {
+        "word": "見る",
+        "reading": "みる",
+        "meaning": "ver / mirar"
+      },
+      {
+        "word": "意見",
+        "reading": "いけん",
+        "meaning": "opinión"
+      },
+      {
+        "word": "見学",
+        "reading": "けんがく",
+        "meaning": "visita de estudio"
+      }
+    ]
+  },
+  {
+    "id": "kn5_33",
+    "character": "聞",
+    "meanings": [
+      "hear",
+      "ask"
+    ],
+    "meaningsEs": [
+      "escuchar",
+      "oír",
+      "preguntar"
+    ],
+    "onReadings": [
+      "ブン",
+      "モン"
+    ],
+    "kunReadings": [
+      "き・く",
+      "き・こえる"
+    ],
+    "strokeCount": 14,
+    "jlptLevel": 5,
+    "gradeLevel": 2,
+    "radicals": [
+      "rad_gate",
+      "rad_ear"
+    ],
+    "mnemonic": "Una oreja (耳) pegada a una puerta (門) para escuchar un secreto.",
+    "exampleWords": [
+      {
+        "word": "聞く",
+        "reading": "きく",
+        "meaning": "escuchar / preguntar"
+      },
+      {
+        "word": "新聞",
+        "reading": "しんぶん",
+        "meaning": "periódico"
+      },
+      {
+        "word": "聞こえる",
+        "reading": "きこえる",
+        "meaning": "oírse"
+      }
+    ]
+  },
+  {
+    "id": "kn5_34",
+    "character": "書",
+    "meanings": [
+      "write",
+      "book"
+    ],
+    "meaningsEs": [
+      "escribir",
+      "libro"
+    ],
+    "onReadings": [
+      "ショ"
+    ],
+    "kunReadings": [
+      "か・く"
+    ],
+    "strokeCount": 10,
+    "jlptLevel": 5,
+    "gradeLevel": 2,
+    "radicals": [
+      "rad_brush"
+    ],
+    "mnemonic": "Una mano sosteniendo un pincel sobre una hoja de papel.",
+    "exampleWords": [
+      {
+        "word": "書く",
+        "reading": "かく",
+        "meaning": "escribir"
+      },
+      {
+        "word": "辞書",
+        "reading": "じしょ",
+        "meaning": "diccionario"
+      },
+      {
+        "word": "図書館",
+        "reading": "としょかん",
+        "meaning": "biblioteca"
+      }
+    ]
+  },
+  {
+    "id": "kn5_35",
+    "character": "読",
+    "meanings": [
+      "read"
+    ],
+    "meaningsEs": [
+      "leer"
+    ],
+    "onReadings": [
+      "ドク",
+      "トク"
+    ],
+    "kunReadings": [
+      "よ・む"
+    ],
+    "strokeCount": 14,
+    "jlptLevel": 5,
+    "gradeLevel": 2,
+    "radicals": [
+      "rad_words"
+    ],
+    "mnemonic": "Palabras (言) que se leen y se venden/comparten en voz alta.",
+    "exampleWords": [
+      {
+        "word": "読む",
+        "reading": "よむ",
+        "meaning": "leer"
+      },
+      {
+        "word": "読書",
+        "reading": "どくしょ",
+        "meaning": "lectura de libros"
+      },
+      {
+        "word": "読者",
+        "reading": "どくしゃ",
+        "meaning": "lector"
+      }
+    ]
+  },
+  {
+    "id": "kn5_36",
+    "character": "行",
+    "meanings": [
+      "go",
+      "carry out"
+    ],
+    "meaningsEs": [
+      "ir",
+      "viajar",
+      "realizar"
+    ],
+    "onReadings": [
+      "コウ",
+      "ギョウ"
+    ],
+    "kunReadings": [
+      "い・く",
+      "ゆ・く",
+      "おこな・う"
+    ],
+    "strokeCount": 6,
+    "jlptLevel": 5,
+    "gradeLevel": 2,
+    "radicals": [
+      "rad_step"
+    ],
+    "mnemonic": "Una encrucijada o cruce de caminos donde uno decide hacia dónde ir.",
+    "exampleWords": [
+      {
+        "word": "行く",
+        "reading": "いく",
+        "meaning": "ir"
+      },
+      {
+        "word": "旅行",
+        "reading": "りょこう",
+        "meaning": "viaje"
+      },
+      {
+        "word": "銀行",
+        "reading": "ぎんこう",
+        "meaning": "banco"
+      }
+    ]
+  },
+  {
+    "id": "kn5_37",
+    "character": "来",
+    "meanings": [
+      "come",
+      "next"
+    ],
+    "meaningsEs": [
+      "venir",
+      "próximo"
+    ],
+    "onReadings": [
+      "ライ"
+    ],
+    "kunReadings": [
+      "く・る",
+      "きた・る",
+      "こ"
+    ],
+    "strokeCount": 7,
+    "jlptLevel": 5,
+    "gradeLevel": 2,
+    "radicals": [
+      "rad_tree"
+    ],
+    "mnemonic": "Trigo o espigas que vienen madurando con el tiempo.",
+    "exampleWords": [
+      {
+        "word": "来る",
+        "reading": "くる",
+        "meaning": "venir"
+      },
+      {
+        "word": "来週",
+        "reading": "らいしゅう",
+        "meaning": "la próxima semana"
+      },
+      {
+        "word": "未来",
+        "reading": "みらい",
+        "meaning": "futuro"
       }
     ]
   }

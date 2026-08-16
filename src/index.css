@@ -168,11 +168,11 @@ ruby rt {
 
 /* Bottom nav safe area */
 .pb-safe {
-  padding-bottom: calc(var(--spacing-safe-bottom) + 4.5rem);
+  padding-bottom: calc(env(safe-area-inset-bottom, 0px) + 4rem);
 }
 
 .bottom-safe {
-  padding-bottom: var(--spacing-safe-bottom);
+  padding-bottom: env(safe-area-inset-bottom, 0px);
 }
 
 /* Kana grid */

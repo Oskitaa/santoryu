@@ -1,13 +1,15 @@
+import React from 'react';
 import { useLocation, useNavigate } from 'react-router';
 import { House, Languages, BookOpen, GraduationCap, Settings } from 'lucide-react';
 import { motion } from 'motion/react';
+import { cn } from '../../lib/utils';
 
 const tabs = [
   { path: '/', label: 'Inicio', icon: House },
   { path: '/kana', label: 'Kana', icon: Languages },
   { path: '/kanji', label: 'Kanji', icon: BookOpen },
   { path: '/vocab', label: 'Vocab', icon: GraduationCap },
-  { path: '/settings', label: 'Ajustes', icon: Settings }
+  { path: '/settings', label: 'Ajustes', icon: Settings },
 ];
 
 export const BottomNav: React.FC = () => {
@@ -15,8 +17,8 @@ export const BottomNav: React.FC = () => {
   const navigate = useNavigate();
 
   return (
-    <div className="fixed bottom-0 left-0 right-0 z-50 bg-[var(--color-bg-surface)]/80 backdrop-blur-md border-t border-[var(--color-bg-elevated)] pb-safe">
-      <nav className="flex justify-around items-center h-16 px-2">
+    <div className="fixed bottom-0 left-0 right-0 z-50 bg-[var(--color-bg-surface)]/95 backdrop-blur-lg border-t border-[var(--color-bg-elevated)] pb-[env(safe-area-inset-bottom,0px)]">
+      <nav className="flex justify-around items-center h-14 max-w-lg mx-auto px-1">
         {tabs.map((tab) => {
           const isActive = location.pathname === tab.path;
           const Icon = tab.icon;
@@ -25,15 +27,23 @@ export const BottomNav: React.FC = () => {
             <button
               key={tab.path}
               onClick={() => navigate(tab.path)}
-              className="tap-highlight flex flex-col items-center justify-center w-full h-full space-y-1 relative"
+              className="tap-highlight flex flex-col items-center justify-center flex-1 h-full py-1 relative"
             >
               <motion.div
-                whileTap={{ scale: 0.9 }}
-                className={`relative p-1 rounded-full ${isActive ? 'text-[var(--color-accent)]' : 'text-[var(--color-text-secondary)]'}`}
+                whileTap={{ scale: 0.88 }}
+                className={cn(
+                  'relative p-1 rounded-xl transition-colors',
+                  isActive ? 'text-[var(--color-accent)]' : 'text-[var(--color-text-secondary)]'
+                )}
               >
-                <Icon size={24} strokeWidth={isActive ? 2.5 : 2} />
+                <Icon size={20} strokeWidth={isActive ? 2.5 : 1.8} />
               </motion.div>
-              <span className={`text-[10px] font-medium ${isActive ? 'text-[var(--color-accent)]' : 'text-[var(--color-text-secondary)]'}`}>
+              <span
+                className={cn(
+                  'text-[10px] font-medium leading-none tracking-tight',
+                  isActive ? 'text-[var(--color-accent)] font-bold' : 'text-[var(--color-text-muted)]'
+                )}
+              >
                 {tab.label}
               </span>
             </button>

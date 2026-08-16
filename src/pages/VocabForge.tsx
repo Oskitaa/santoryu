@@ -2,7 +2,7 @@ import { useState, useEffect, useMemo } from 'react';
 import { useNavigate } from 'react-router';
 import { useLiveQuery } from 'dexie-react-hooks';
 import { motion } from 'motion/react';
-import { Search, Volume2, Sparkles, RefreshCw, BookOpen } from 'lucide-react';
+import { Search, Volume2, Sparkles, RefreshCw, BookOpen, Info, MessageSquare } from 'lucide-react';
 import { AppShell } from '../components/layout/AppShell';
 import { db } from '../db/database';
 import { useAudio } from '../hooks/useAudio';
@@ -14,6 +14,7 @@ import { cn } from '../lib/utils';
 export default function VocabForge() {
   const [vocabList, setVocabList] = useState<VocabEntry[]>([]);
   const [searchQuery, setSearchQuery] = useState('');
+  const [tagFilter, setTagFilter] = useState<string>('all');
 
   const navigate = useNavigate();
   const { speak } = useAudio();
@@ -36,20 +37,24 @@ export default function VocabForge() {
   const progressPercent = totalVocab > 0 ? Math.round((learnedCount / totalVocab) * 100) : 0;
 
   const filteredVocab = useMemo(() => {
-    if (!searchQuery.trim()) return vocabList;
+    let list = vocabList;
+    if (tagFilter !== 'all') {
+      list = list.filter((v) => v.tags?.includes(tagFilter) || v.partOfSpeech === tagFilter);
+    }
+    if (!searchQuery.trim()) return list;
     const q = searchQuery.toLowerCase().trim();
-    return vocabList.filter(
+    return list.filter(
       (v) =>
         v.word.toLowerCase().includes(q) ||
         v.reading.toLowerCase().includes(q) ||
         v.meaningsEs?.some((m) => m.toLowerCase().includes(q)) ||
         v.meanings.some((m) => m.toLowerCase().includes(q))
     );
-  }, [vocabList, searchQuery]);
+  }, [vocabList, searchQuery, tagFilter]);
 
   return (
     <AppShell title="Vocab Forge" showStats>
-      <div className="space-y-5 animate-fade-in px-1">
+      <div className="space-y-5 animate-fade-in px-1 max-w-lg mx-auto">
         {/* Search Bar */}
         <div className="relative">
           <Search className="absolute left-3.5 top-1/2 -translate-y-1/2 w-4 h-4 text-[var(--color-text-muted)]" />
@@ -58,14 +63,22 @@ export default function VocabForge() {
             placeholder="Buscar palabra, lectura o significado..."
             value={searchQuery}
             onChange={(e) => setSearchQuery(e.target.value)}
-            className="w-full bg-[var(--color-bg-surface)] text-[var(--color-text-primary)] border border-white/5 rounded-2xl py-3 pl-10 pr-4 text-sm outline-none focus:border-[var(--color-accent)] transition-all placeholder:text-[var(--color-text-muted)]"
+            className="w-full bg-[var(--color-bg-surface)] text-[var(--color-text-primary)] border border-white/5 rounded-2xl py-3 pl-10 pr-4 text-xs sm:text-sm outline-none focus:border-[var(--color-accent)] transition-all placeholder:text-[var(--color-text-muted)]"
           />
+        </div>
+
+        {/* Beginner Tip Banner */}
+        <div className="p-3.5 rounded-2xl bg-[var(--color-bg-surface)] border border-white/5 flex items-start gap-3">
+          <Info className="w-5 h-5 text-[var(--color-accent)] flex-shrink-0 mt-0.5" />
+          <p className="text-xs text-[var(--color-text-secondary)] leading-relaxed">
+            <b>Lectura con Furigana:</b> Las pequeñas letras encima de cada palabra son su lectura en Hiragana. Puedes configurar su visibilidad en Ajustes.
+          </p>
         </div>
 
         {/* Progress Card */}
         <div className="card-surface p-4 space-y-3">
-          <div className="flex justify-between items-center text-sm">
-            <span className="text-[var(--color-text-secondary)]">Dominio de Vocabulario</span>
+          <div className="flex justify-between items-center text-xs sm:text-sm">
+            <span className="text-[var(--color-text-secondary)]">Dominio de Vocabulario N5</span>
             <span className="font-bold text-[var(--color-accent-gold)]" style={{ fontFamily: 'var(--font-mono)' }}>
               {learnedCount} / {totalVocab} ({progressPercent}%)
             </span>
@@ -83,7 +96,7 @@ export default function VocabForge() {
             <button
               onClick={() => navigate('/review/vocab-n5')}
               disabled={newCount === 0}
-              className="py-3 px-4 rounded-xl bg-[var(--color-bg-elevated)] border border-white/5 font-semibold text-sm flex items-center justify-center gap-2 tap-highlight disabled:opacity-40"
+              className="py-3 px-4 rounded-xl bg-[var(--color-bg-elevated)] border border-white/5 font-semibold text-xs sm:text-sm flex items-center justify-center gap-2 tap-highlight disabled:opacity-40"
             >
               <Sparkles className="w-4 h-4 text-[var(--color-accent)]" />
               Nuevos ({newCount})
@@ -92,7 +105,7 @@ export default function VocabForge() {
               onClick={() => navigate('/review/vocab-n5')}
               disabled={dueCount === 0}
               className={cn(
-                'py-3 px-4 rounded-xl font-semibold text-sm flex items-center justify-center gap-2 tap-highlight disabled:opacity-40 transition-all',
+                'py-3 px-4 rounded-xl font-semibold text-xs sm:text-sm flex items-center justify-center gap-2 tap-highlight disabled:opacity-40 transition-all',
                 dueCount > 0
                   ? 'bg-[var(--color-accent)] text-white shadow-lg'
                   : 'bg-[var(--color-bg-elevated)] text-[var(--color-text-secondary)]'
@@ -104,10 +117,34 @@ export default function VocabForge() {
           </div>
         </div>
 
+        {/* Tag Filters */}
+        <div className="flex gap-1.5 overflow-x-auto pb-1 no-scrollbar">
+          {[
+            { id: 'all', label: 'Todos' },
+            { id: 'greetings', label: 'Saludos y Cortesía' },
+            { id: 'pronoun', label: 'Pronombres' },
+            { id: 'verb', label: 'Verbos clave' },
+            { id: 'essential', label: 'Esenciales' },
+          ].map((tab) => (
+            <button
+              key={tab.id}
+              onClick={() => setTagFilter(tab.id)}
+              className={cn(
+                'py-1.5 px-3 rounded-full text-xs font-semibold whitespace-nowrap transition-all tap-highlight',
+                tagFilter === tab.id
+                  ? 'bg-[var(--color-accent)] text-white'
+                  : 'bg-[var(--color-bg-surface)] text-[var(--color-text-secondary)]'
+              )}
+            >
+              {tab.label}
+            </button>
+          ))}
+        </div>
+
         {/* Vocab List */}
         <div className="space-y-2.5">
           <div className="flex justify-between items-center px-1">
-            <h3 className="font-bold text-sm text-[var(--color-text-secondary)] uppercase tracking-wider flex items-center gap-1.5">
+            <h3 className="font-bold text-xs text-[var(--color-text-secondary)] uppercase tracking-wider flex items-center gap-1.5">
               <BookOpen className="w-4 h-4 text-[var(--color-accent)]" />
               Palabras ({filteredVocab.length})
             </h3>
@@ -121,7 +158,7 @@ export default function VocabForge() {
             return (
               <div
                 key={vocab.id}
-                className="card-surface p-4 flex items-center justify-between gap-3 tap-highlight"
+                className="card-surface p-4 rounded-2xl flex items-center justify-between gap-3 tap-highlight border border-white/5 hover:border-[var(--color-accent)]/20 transition-all shadow-sm"
               >
                 <div className="space-y-1 flex-1 min-w-0">
                   <div className="flex items-center gap-2 flex-wrap">
@@ -136,28 +173,34 @@ export default function VocabForge() {
                     )}
                   </div>
 
-                  <p className="text-sm text-[var(--color-text-primary)]">
+                  <p className="text-xs sm:text-sm text-[var(--color-text-primary)] font-medium">
                     {vocab.meaningsEs?.join(', ') || vocab.meanings.join(', ')}
                   </p>
 
                   {vocab.exampleSentence && (
-                    <p className="text-xs text-[var(--color-text-muted)] font-jp italic pt-0.5">
-                      {vocab.exampleSentence.japanese} — {vocab.exampleSentence.meaningEs || vocab.exampleSentence.meaning}
-                    </p>
+                    <div className="pt-1 flex items-start gap-1.5 text-[11px] text-[var(--color-text-secondary)]">
+                      <MessageSquare size={12} className="text-[var(--color-accent-gold)] flex-shrink-0 mt-0.5" />
+                      <div>
+                        <p className="font-jp text-[var(--color-text-primary)]">{vocab.exampleSentence.japanese}</p>
+                        <p className="text-[var(--color-text-muted)] italic">
+                          {vocab.exampleSentence.meaningEs || vocab.exampleSentence.meaning}
+                        </p>
+                      </div>
+                    </div>
                   )}
                 </div>
 
                 <div className="flex items-center gap-3 flex-shrink-0">
                   {/* SRS Stage indicator */}
                   <span
-                    className="w-2.5 h-2.5 rounded-full"
+                    className="w-2 h-2 rounded-full"
                     style={{ backgroundColor: stageColor }}
                     title={SRS_STAGES[stage]?.label}
                   />
 
                   <button
                     onClick={() => speak(vocab.word)}
-                    className="p-2.5 rounded-full bg-[var(--color-bg-elevated)] text-[var(--color-accent)] tap-highlight"
+                    className="p-2.5 rounded-full bg-[var(--color-bg-elevated)] text-[var(--color-accent)] tap-highlight shadow-sm"
                     aria-label="Escuchar pronunciación"
                   >
                     <Volume2 className="w-4 h-4" />
@@ -168,7 +211,7 @@ export default function VocabForge() {
           })}
 
           {filteredVocab.length === 0 && (
-            <div className="py-12 text-center text-[var(--color-text-muted)] card-surface rounded-2xl">
+            <div className="py-12 text-center text-[var(--color-text-muted)] card-surface rounded-2xl text-xs">
               No se encontraron palabras para "{searchQuery}"
             </div>
           )}

@@ -3,13 +3,13 @@ import type { Card, KanaData, KanjiEntry, VocabEntry } from '../lib/types';
 
 /**
  * Seed the database with initial data from static JSON files.
- * Only runs if the cards table is empty (first launch).
+ * Inserts any cards that don't already exist in the database.
  */
 export async function seedDatabase(): Promise<void> {
-  const cardCount = await db.cards.count();
-  if (cardCount > 0) return; // Already seeded
+  const existingCards = await db.cards.toArray();
+  const existingIdSet = new Set(existingCards.map((c) => c.externalId));
 
-  const cards: Omit<Card, 'id'>[] = [];
+  const cardsToAdd: Omit<Card, 'id'>[] = [];
   const now = Date.now();
 
   // ─── Load Hiragana ─────────────────────────────────────
@@ -18,25 +18,27 @@ export async function seedDatabase(): Promise<void> {
     const hiraganaData: KanaData = await hiraganaRes.json();
 
     for (const char of hiraganaData.characters) {
-      cards.push({
-        externalId: char.id,
-        type: 'kana',
-        category: 'hiragana',
-        jlptLevel: 5,
-        srsState: 'new',
-        srsStage: 'new',
-        stability: 0,
-        difficulty: 0,
-        nextReview: 0,
-        lastReview: 0,
-        reps: 0,
-        lapses: 0,
-        dataRef: char.id,
-        createdAt: now,
-      });
+      if (!existingIdSet.has(char.id)) {
+        cardsToAdd.push({
+          externalId: char.id,
+          type: 'kana',
+          category: 'hiragana',
+          jlptLevel: 5,
+          srsState: 'new',
+          srsStage: 'new',
+          stability: 0,
+          difficulty: 0,
+          nextReview: 0,
+          lastReview: 0,
+          reps: 0,
+          lapses: 0,
+          dataRef: char.id,
+          createdAt: now,
+        });
+      }
     }
-  } catch {
-    // Data file not available yet
+  } catch (err) {
+    console.error('Error seeding Hiragana:', err);
   }
 
   // ─── Load Katakana ─────────────────────────────────────
@@ -45,25 +47,27 @@ export async function seedDatabase(): Promise<void> {
     const katakanaData: KanaData = await katakanaRes.json();
 
     for (const char of katakanaData.characters) {
-      cards.push({
-        externalId: char.id,
-        type: 'kana',
-        category: 'katakana',
-        jlptLevel: 5,
-        srsState: 'new',
-        srsStage: 'new',
-        stability: 0,
-        difficulty: 0,
-        nextReview: 0,
-        lastReview: 0,
-        reps: 0,
-        lapses: 0,
-        dataRef: char.id,
-        createdAt: now,
-      });
+      if (!existingIdSet.has(char.id)) {
+        cardsToAdd.push({
+          externalId: char.id,
+          type: 'kana',
+          category: 'katakana',
+          jlptLevel: 5,
+          srsState: 'new',
+          srsStage: 'new',
+          stability: 0,
+          difficulty: 0,
+          nextReview: 0,
+          lastReview: 0,
+          reps: 0,
+          lapses: 0,
+          dataRef: char.id,
+          createdAt: now,
+        });
+      }
     }
-  } catch {
-    // Data file not available yet
+  } catch (err) {
+    console.error('Error seeding Katakana:', err);
   }
 
   // ─── Load Kanji N5 ─────────────────────────────────────
@@ -72,25 +76,27 @@ export async function seedDatabase(): Promise<void> {
     const kanjiData: KanjiEntry[] = await kanjiRes.json();
 
     for (const kanji of kanjiData) {
-      cards.push({
-        externalId: kanji.id,
-        type: 'kanji',
-        category: 'kanji-n5',
-        jlptLevel: 5,
-        srsState: 'new',
-        srsStage: 'new',
-        stability: 0,
-        difficulty: 0,
-        nextReview: 0,
-        lastReview: 0,
-        reps: 0,
-        lapses: 0,
-        dataRef: kanji.id,
-        createdAt: now,
-      });
+      if (!existingIdSet.has(kanji.id)) {
+        cardsToAdd.push({
+          externalId: kanji.id,
+          type: 'kanji',
+          category: 'kanji-n5',
+          jlptLevel: 5,
+          srsState: 'new',
+          srsStage: 'new',
+          stability: 0,
+          difficulty: 0,
+          nextReview: 0,
+          lastReview: 0,
+          reps: 0,
+          lapses: 0,
+          dataRef: kanji.id,
+          createdAt: now,
+        });
+      }
     }
-  } catch {
-    // Data file not available yet
+  } catch (err) {
+    console.error('Error seeding Kanji:', err);
   }
 
   // ─── Load Vocab N5 ─────────────────────────────────────
@@ -99,29 +105,31 @@ export async function seedDatabase(): Promise<void> {
     const vocabData: VocabEntry[] = await vocabRes.json();
 
     for (const vocab of vocabData) {
-      cards.push({
-        externalId: vocab.id,
-        type: 'vocab',
-        category: 'vocab-n5',
-        jlptLevel: 5,
-        srsState: 'new',
-        srsStage: 'new',
-        stability: 0,
-        difficulty: 0,
-        nextReview: 0,
-        lastReview: 0,
-        reps: 0,
-        lapses: 0,
-        dataRef: vocab.id,
-        createdAt: now,
-      });
+      if (!existingIdSet.has(vocab.id)) {
+        cardsToAdd.push({
+          externalId: vocab.id,
+          type: 'vocab',
+          category: 'vocab-n5',
+          jlptLevel: 5,
+          srsState: 'new',
+          srsStage: 'new',
+          stability: 0,
+          difficulty: 0,
+          nextReview: 0,
+          lastReview: 0,
+          reps: 0,
+          lapses: 0,
+          dataRef: vocab.id,
+          createdAt: now,
+        });
+      }
     }
-  } catch {
-    // Data file not available yet
+  } catch (err) {
+    console.error('Error seeding Vocab:', err);
   }
 
-  // Bulk insert all cards
-  if (cards.length > 0) {
-    await db.cards.bulkAdd(cards as Card[]);
+  // Bulk insert all missing cards
+  if (cardsToAdd.length > 0) {
+    await db.cards.bulkAdd(cardsToAdd as Card[]);
   }
 }
