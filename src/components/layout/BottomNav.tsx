@@ -17,8 +17,8 @@ export const BottomNav: React.FC = () => {
   const navigate = useNavigate();
 
   return (
-    <div className="fixed bottom-0 left-0 right-0 z-50 bg-[var(--color-bg-surface)]/95 backdrop-blur-lg border-t border-[var(--color-bg-elevated)] pb-[env(safe-area-inset-bottom,0px)]">
-      <nav className="flex justify-around items-center h-14 max-w-lg mx-auto px-1">
+    <div className="fixed bottom-0 left-0 right-0 z-50 bg-[var(--color-bg-surface)]/95 backdrop-blur-xl border-t border-white/5 pb-[env(safe-area-inset-bottom,0px)]">
+      <nav className="flex justify-around items-center h-11 max-w-lg mx-auto px-1">
         {tabs.map((tab) => {
           const isActive = location.pathname === tab.path;
           const Icon = tab.icon;
@@ -27,20 +27,20 @@ export const BottomNav: React.FC = () => {
             <button
               key={tab.path}
               onClick={() => navigate(tab.path)}
-              className="tap-highlight flex flex-col items-center justify-center flex-1 h-full py-1 relative"
+              className="tap-highlight flex flex-col items-center justify-center flex-1 h-full py-0.5 relative"
             >
               <motion.div
-                whileTap={{ scale: 0.88 }}
+                whileTap={{ scale: 0.85 }}
                 className={cn(
-                  'relative p-1 rounded-xl transition-colors',
+                  'relative rounded-lg transition-colors flex items-center justify-center',
                   isActive ? 'text-[var(--color-accent)]' : 'text-[var(--color-text-secondary)]'
                 )}
               >
-                <Icon size={20} strokeWidth={isActive ? 2.5 : 1.8} />
+                <Icon size={17} strokeWidth={isActive ? 2.5 : 1.8} />
               </motion.div>
               <span
                 className={cn(
-                  'text-[10px] font-medium leading-none tracking-tight',
+                  'text-[9px] font-medium leading-none tracking-tight mt-0.5',
                   isActive ? 'text-[var(--color-accent)] font-bold' : 'text-[var(--color-text-muted)]'
                 )}
               >

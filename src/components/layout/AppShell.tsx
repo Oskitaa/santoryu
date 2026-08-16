@@ -17,7 +17,7 @@ export const AppShell: React.FC<AppShellProps> = ({ children, title, showStats }
     <div className="min-h-screen bg-[var(--color-bg-primary)] text-[var(--color-text-primary)] font-inter flex flex-col">
       <Header title={title} showStats={showStats} />
 
-      <main className="flex-1 w-full max-w-lg mx-auto pt-[calc(env(safe-area-inset-top,0px)+3.5rem+0.75rem)] pb-[calc(env(safe-area-inset-bottom,0px)+3.5rem+1.75rem)] px-3 sm:px-4">
+      <main className="flex-1 w-full max-w-lg mx-auto pt-[calc(env(safe-area-inset-top,0px)+3.5rem+0.5rem)] pb-[calc(env(safe-area-inset-bottom,0px)+2.75rem+1rem)] px-3 sm:px-4">
         <AnimatePresence mode="wait">
           <motion.div
             key={location.pathname}
