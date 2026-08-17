@@ -5,6 +5,8 @@ import { useStreak } from './hooks/useStreak';
 
 // Pages
 import Dashboard from './pages/Dashboard';
+import Dojo from './pages/Dojo';
+import Library from './pages/Library';
 import KanaDojo from './pages/KanaDojo';
 import KanjiTower from './pages/KanjiTower';
 import VocabForge from './pages/VocabForge';
@@ -27,6 +29,8 @@ function AppContent() {
     <>
       <Routes>
         <Route path="/" element={<Dashboard />} />
+        <Route path="/dojo" element={<Dojo />} />
+        <Route path="/library" element={<Library />} />
         <Route path="/kana" element={<KanaDojo />} />
         <Route path="/kanji" element={<KanjiTower />} />
         <Route path="/vocab" element={<VocabForge />} />

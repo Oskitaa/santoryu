@@ -184,6 +184,87 @@ export interface VocabEntry {
   tags: string[];
 }
 
+// ─── Interactive Curriculum & Exercise Types ─────────────────
+
+export type ExerciseType =
+  | 'intro'
+  | 'listen-pick'
+  | 'match-pairs'
+  | 'sentence-builder'
+  | 'multiple-choice';
+
+export interface ExerciseIntro {
+  type: 'intro';
+  item: {
+    character: string;
+    reading: string;
+    meaning: string;
+    mnemonic?: string;
+    audioText?: string;
+    example?: { jp: string; reading: string; es: string };
+  };
+}
+
+export interface ExerciseListenPick {
+  type: 'listen-pick';
+  prompt: string;
+  audioText: string;
+  options: { id: string; label: string; subLabel?: string; isCorrect: boolean }[];
+}
+
+export interface ExerciseMatchPairs {
+  type: 'match-pairs';
+  prompt: string;
+  pairs: { id: string; left: string; right: string }[];
+}
+
+export interface ExerciseSentenceBuilder {
+  type: 'sentence-builder';
+  prompt: string;
+  targetTranslation: string;
+  correctOrder: string[];
+  pool: string[];
+}
+
+export interface ExerciseMultipleChoice {
+  type: 'multiple-choice';
+  question: string;
+  questionSub?: string;
+  audioText?: string;
+  options: { id: string; label: string; subLabel?: string; isCorrect: boolean }[];
+  explanation?: string;
+}
+
+export type LessonExercise =
+  | ExerciseIntro
+  | ExerciseListenPick
+  | ExerciseMatchPairs
+  | ExerciseSentenceBuilder
+  | ExerciseMultipleChoice;
+
+export interface Lesson {
+  id: string;
+  unitId: string;
+  number: number;
+  title: string;
+  subtitle: string;
+  icon: string;
+  xpReward: number;
+  unlockedCardIds?: string[];
+  exercises: LessonExercise[];
+}
+
+export interface Unit {
+  id: string;
+  number: number;
+  title: string;
+  subtitle: string;
+  description: string;
+  icon: string;
+  color: string;
+  lessons: Lesson[];
+}
+
 // ─── Quiz Types ──────────────────────────────────────────────
 
 export type QuizMode =
@@ -213,4 +294,4 @@ export interface QuizQuestion {
 
 // ─── Navigation ──────────────────────────────────────────────
 
-export type TabId = 'home' | 'kana' | 'kanji' | 'vocab' | 'settings';
+export type TabId = 'home' | 'dojo' | 'library' | 'settings';

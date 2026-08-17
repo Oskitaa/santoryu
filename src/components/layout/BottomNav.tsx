@@ -1,14 +1,13 @@
 import React from 'react';
 import { useLocation, useNavigate } from 'react-router';
-import { House, Languages, BookOpen, GraduationCap, Settings } from 'lucide-react';
+import { Compass, Sword, BookOpen, Settings } from 'lucide-react';
 import { motion } from 'motion/react';
 import { cn } from '../../lib/utils';
 
 const tabs = [
-  { path: '/', label: 'Inicio', icon: House },
-  { path: '/kana', label: 'Kana', icon: Languages },
-  { path: '/kanji', label: 'Kanji', icon: BookOpen },
-  { path: '/vocab', label: 'Vocab', icon: GraduationCap },
+  { path: '/', label: 'Camino', icon: Compass },
+  { path: '/dojo', label: 'Dojo', icon: Sword },
+  { path: '/library', label: 'Biblioteca', icon: BookOpen },
   { path: '/settings', label: 'Ajustes', icon: Settings },
 ];
 
@@ -20,7 +19,15 @@ export const BottomNav: React.FC = () => {
     <div className="fixed bottom-0 left-0 right-0 z-50 bg-[var(--color-bg-surface)]/95 backdrop-blur-xl border-t border-white/5 pb-[env(safe-area-inset-bottom,0px)]">
       <nav className="flex justify-around items-center h-11 max-w-lg mx-auto px-1">
         {tabs.map((tab) => {
-          const isActive = location.pathname === tab.path;
+          const isActive =
+            tab.path === '/'
+              ? location.pathname === '/'
+              : location.pathname.startsWith(tab.path) ||
+                (tab.path === '/library' &&
+                  (location.pathname === '/kana' ||
+                    location.pathname === '/kanji' ||
+                    location.pathname === '/vocab'));
+
           const Icon = tab.icon;
 
           return (
