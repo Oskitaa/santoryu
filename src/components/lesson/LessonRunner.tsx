@@ -151,7 +151,7 @@ export const LessonRunner: React.FC<LessonRunnerProps> = ({ lesson, onExit }) =>
   };
 
   return (
-    <div className="fixed inset-0 z-50 bg-[var(--color-bg-primary)] flex flex-col justify-between pt-[calc(env(safe-area-inset-top,0px)+0.5rem)] pb-[calc(env(safe-area-inset-bottom,0px)+1rem)] px-4 max-w-lg mx-auto">
+    <div className="fixed inset-0 z-[75] bg-[var(--color-bg-primary)] flex flex-col justify-between pt-[calc(env(safe-area-inset-top,0px)+0.75rem)] pb-[calc(env(safe-area-inset-bottom,0px)+1.5rem)] px-4 max-w-lg mx-auto">
       {/* Top Bar */}
       <div className="flex items-center gap-3 w-full py-1">
         <button
